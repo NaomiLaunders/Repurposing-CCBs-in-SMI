@@ -1,0 +1,54 @@
+medcode	readcode	desc	CCB	Type
+3425	662O.00	on treatment for hypertension	1	prescribed
+10324	8B6E.00	angiotensin ii receptor antagonist prophylaxis	1	prescribed
+10513	8B6B.00	ace inhibitor prophylaxis	1	prescribed
+10568	8I28.00	angiotensin converting enzyme inhibitors contraindicated	1	not prescribed
+10883	8I64.00	angiotensin converting enzyme inhibitor not indicated	1	not prescribed
+10900	8BG4.00	angiotensin converting enzyme inhibitor indicated	1	indicated
+11056	8BL0.00	patient on maximal tolerated antihypertensive therapy	1	prescribed
+11130	U60C400	[x]angiotensin-convert-enz inhib caus advers eff therap use	1	allergy
+11350	8I74.00	angiotensin converting enzyme inhibitor not tolerated	1	allergy
+11510	8I2H.00	angiotensin ii receptor antagonists contraindicated	1	not prescribed
+11601	U60CB00	[x]angiotensin ii receptor antagon adverse effect therap use	1	allergy
+12135	8I3D.00	angiotensin converting enzyme inhibitor declined	1	not prescribed
+12571	8I75.00	angiotensin ii receptor antagonist not tolerated	1	allergy
+12948	662H.00	hypertension treatm.stopped	1	prescribed
+13040	14LN.00	h/o: angiotensin ii receptor antagonist allergy	1	allergy
+13043	14LM.00	h/o: angiotensin converting enzyme inhibitor allergy	1	allergy
+13188	662G.00	hypertensive treatm.changed	1	prescribed
+18057	8B26.00	antihypertensive therapy	1	prescribed
+18721	8I6C.00	angiotensin ii receptor antagonist not indicated	1	not prescribed
+19282	8B6Q.00	patient on maximal tolerated ace inhibitor therapy	1	prescribed
+19285	8B6H.00	angiotensin converting enzyme inhibitor target dose achieved	1	prescribed
+19464	8B6R.00	ace inhibitor target dose not achieved	1	prescribed
+20497	TJC7z00	adverse reaction to antihypertensives nos	1	allergy
+21451	U60C100	[x]calcium-channel blockers caus adverse eff in therap use	1	allergy
+21660	TJC7.00	adverse reaction to other antihypertensives	1	allergy
+21826	662F.00	hypertension treatm. started	1	prescribed
+22333	8I3N.00	hypertension treatment refused	1	not prescribed
+22335	8I3P.00	angiotensin ii receptor antagonist declined	1	not prescribed
+22590	8I77.00	calcium channel blocker not tolerated	1	allergy
+22879	8B6T.00	pat on max tolerated angiotensin ii receptor antagonist ther	1	prescribed
+25369	ZV14D00	[v]ph angiotensin-converting-enzyme inhibitor allergy	1	allergy
+30770	U60C511	[x] adverse reaction to other antihypertensives	1	allergy
+34469	ZV14E00	[v]ph of angiotensin ii receptor antagonist allergy	1	allergy
+39427	8I3I.00	calcium channel blocker declined	1	not prescribed
+43495	8B6M.00	calcium channel blocker prophylaxis	1	prescribed
+44350	U60C51A	[x] adverse reaction to antihypertensives nos	1	allergy
+47977	8H6G.00	referral to gp - ace inhibitor therapy	1	indicated
+50872	8BG1.00	calcium channel blocker indicated	1	indicated
+51997	8I2B.00	calcium channel blocker contraindicated	1	not prescribed
+57262	8I68.00	calcium channel blocker not indicated	1	not prescribed
+63164	U60C500	[x]oth antihyperten drug caus advers eff in therap use, nec	1	allergy
+85944	7Q01.00	high cost hypertension drugs	1	prescribed
+89330	SLC9.00	poisoning by calcium-channel blockers	1	accidental
+92952	SLC6400	poisoning by angiotensin-converting-enzyme inhibitors	1	accidental
+95359	662r.00	trial withdrawal of antihypertensive therapy	1	prescribed
+99259	662q.00	trial reduction of antihypertensive therapy	1	prescribed
+100624	8BGA.00	angiotensin ii receptor antagonist therapy indicated	1	indicated
+101649	7Q01y00	other specified high cost hypertension drugs	1	prescribed
+104857	K043000	acute renal failure due to ace inhibitor	1	prescribed
+105480	G27..00	hypertension resistant to drug therapy	1	prescribed
+106279	8IA5.00	trial withdrawal of antihypertensive therapy declined	1	not prescribed
+109189	8BMa100	optimisation of ace inhibitor therapy	1	prescribed
+112611	SyuFT00	[x]poisoning by other antihypertensive drugs, nec	1	accidental

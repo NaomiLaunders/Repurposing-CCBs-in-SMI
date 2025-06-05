@@ -1,0 +1,85 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	Release	EmisCodeCategoryId	CCB	Type
+216196019	600000	8I64	8I64.00	angiotensin converting enzyme inhibitor not indicated	134390006	216196019	NA	32	1	not prescribed
+216203014	50000	8I3D	8I3D.00	angiotensin converting enzyme inhibitor declined	134397009	216203014	NA	32	1	not prescribed
+216554010	20000	8BG1	8BG1.00	calcium channel blocker indicated	135796009	216554010	NA	32	1	indicated
+216557015	50000	8BG4	8BG4.00	angiotensin converting enzyme inhibitor indicated	135799002	216557015	NA	32	1	indicated
+216564018	10000	8I68	8I68.00	calcium channel blocker not indicated	135806009	216564018	NA	32	1	not prescribed
+216581010	2000	8I2B	8I2B.00	calcium channel blocker contraindicated	135823000	216581010	NA	32	1	not prescribed
+216583013	900	8I3I	8I3I.00	calcium channel blocker declined	135825007	216583013	NA	32	1	not prescribed
+264485019	40000	662F	662F.00	treatment for hypertension started	170586008	2694699015	NA	1	1	prescribed
+264486018	100000	662G	662G.00	hypertensive treatment changed	170587004	2871342011	NA	1	1	prescribed
+264487010	9000	662H	662H.00	treatment for hypertension stopped	170588009	2691941019	NA	1	1	prescribed
+324341018	10	SLC64	SLC6400	poisoning by angiotensin-converting-enzyme inhibitors	212706004	324341018	NA	32	1	accidental
+324350016	5	SLC9	SLC9.00	poisoning by calcium-channel blockers	212715006	324350016	NA	32	1	accidental
+331291010	900	TJC7	TJC7.00	adverse reaction to other antihypertensives	293495006	433712011	NA	5	1	allergy
+331302012	800	TJC7z	TJC7z00	antihypertensive adverse reaction	293495006	433712011	NA	5	1	allergy
+443764015	200000	662O	662O.00	on treatment for hypertension	302192008	443764015	NA	1	1	prescribed
+451424017	60000	8B26	8B26.00	antihypertensive therapy	308116003	451424017	NA	32	1	prescribed
+459523012	1000000	8B6B	8B6B.00	ace inhibitor prophylaxis	315054007	459523012	NA	32	1	prescribed
+459878010	100000	8I28	8I28.00	angiotensin converting enzyme inhibitors contraindicated	315364008	459878010	NA	32	1	not prescribed
+1488688019	80000	8I2H	8I2H.00	angiotensin ii receptor antagonists contraindicated	394987009	1488688019	NA	32	1	not prescribed
+1488710013	200000	8B6E	8B6E.00	angiotensin ii receptor antagonist prophylaxis	395010006	1488710013	NA	32	1	prescribed
+1773745017	700	ESCTAN5		angio-oedema due to angiotensin-converting-enzyme inhibitor	403607004	1773745017	NA	32	1	prescribed
+1780252014	3000	8I3N	8I3N.00	hypertension treatment refused	401047000	1780252014	NA	32	1	not prescribed
+1780288016	30000	8I3P	8I3P.00	angiotensin ii receptor antagonist declined	401084003	1780288016	NA	32	1	not prescribed
+2159165017	200000	8I74	8I74.00	angiotensin converting enzyme inhibitor not tolerated	407564000	2159165017	NA	5	1	allergy
+2159166016	60000	8I75	8I75.00	angiotensin ii receptor antagonist not tolerated	407565004	2159166016	NA	5	1	allergy
+2159168015	600000	8BL0	8BL0.00	patient on maximal tolerated antihypertensive therapy	407567007	2159168015	NA	32	1	prescribed
+2159173014	800000	8I6C	8I6C.00	angiotensin ii receptor antagonist not indicated	407572003	2159173014	NA	32	1	not prescribed
+2159179013	8000	14LM	14LM.00	h/o: angiotensin converting enzyme inhibitor pseudoallergy	609550002	2967413014	NA	5	1	allergy
+2159180011	2000	14LN	14LN.00	angiotensin ii receptor antagonist allergy	609549002	3007030016	NA	5	1	allergy
+2160041014	40000	8B6M	8B6M.00	calcium channel blocker prophylaxis	408491002	2160041014	NA	32	1	prescribed
+2474721018	4000	8I77	8I77.00	calcium channel blocker not tolerated	413175002	2474721018	NA	5	1	allergy
+2553598017	30000	8B6Q	8B6Q.00	patient on maximal tolerated angiotensin converting enzyme inhibitor therapy	417281001	2548231015	NA	32	1	prescribed
+2645796013	1000	K0430	K043000	acute renal failure due to ace inhibitor	422593004	2645796013	NA	5	1	prescribed
+62731000000110	900	8H6G	8H6G.00	referral to general practitioner for angiotensin converting enzyme inhibitor therapy	25171000000107	1767271000000117	NA	40	1	indicated
+155321000000118	10000	8B6H	8B6H.00	angiotensin converting enzyme inhibitor target dose achieved	108741000000109	155321000000118	NA	32	1	prescribed
+350601000000116	2	7Q01	7Q01.00	high cost hypertension drugs	220901000000101	350601000000116	NA	32	1	prescribed
+351341000000118	1	7Q01z	7Q01z00	high cost hypertension drugs nos	220901000000101	350591000000110	NA	32	1	prescribed
+351361000000117	3	7Q01y	7Q01y00	other specified high cost hypertension drugs	220901000000101	350591000000110	NA	32	1	prescribed
+351481000006111	100	U60C5-A	U60C51A	[x] adverse reaction to antihypertensives nos	293495006	433712011	NA	5	1	allergy
+356121000006111	70	U60C5-1	U60C511	[x] adverse reaction to other antihypertensives	293495006	433712011	NA	5	1	allergy
+363261000006110	70000	U60C4	U60C400	angiotensin-converting-enzyme inhibitor adverse reaction	293500009	433717017	NA	5	1	allergy
+369121000006112	5000	U60C1	U60C100	calcium-channel blocker adverse reaction	292452004	432593014	NA	5	1	allergy
+404471000006113	100	U60C5	U60C500	[x]oth antihyperten drug caus advers eff in therap use, nec	293495006	433712011	NA	5	1	allergy
+422681000006111	4	SyuFT	SyuFT00	poisoning by antihypertensive agent	111769007	178964016	NA	32	1	accidental
+530161000000111	30	662q	662q.00	trial reduction of antihypertensive therapy	299531000000100	530161000000111	NA	1	1	prescribed
+530221000000112	40	662r	662r.00	trial withdrawal of antihypertensive therapy	299561000000105	530221000000112	NA	1	1	prescribed
+535591000000118	4	8IA5	8IA5.00	trial withdrawal of antihypertensive therapy declined	302051000000102	535591000000118	NA	32	1	not prescribed
+535651000000113	60	8IA6	8IA6.00	trial reduction of antihypertensive therapy declined	302081000000108	535651000000113	NA	32	1	not prescribed
+672381000006118	2	Q043	Q043.00	fetus and newborn affected by maternal use of antihypertensive drug	313260003	457124019	NA	32	1	old
+856491000006119	3000	EMISQAC1		ace inhibitor contraindicated	856491000006103	856491000006119	NA	32	1	not prescribed
+903991000006119	30000	EMISQPR5		prophylactic angiotensin ii antagonist therapy	903991000006103	903991000006119	NA	32	1	prescribed
+928721000006115	20000	U60CB	U60CB00	angiotensin ii receptor antagonist adverse reaction	407590002	2159191016	NA	5	1	allergy
+931841000006114	2000	ZV14D	ZV14D00	angiotensin-converting-enzyme inhibitor allergy	609537003	3007015013	NA	5	1	allergy
+931851000006111	500	ZV14E	ZV14E00	[v]ph of angiotensin ii receptor antagonist allergy	609549002	3007030016	NA	5	1	allergy
+933171000006110	40	TJC7z-99	TJC7z99	drug reaction: ace inhibitor	293500009	933171000006110	NA	5	1	allergy
+940001000006110	90000	EMISNQHY2		hypertension medication review	473225006	2956303010	NA	32	1	prescribed
+985711000006114	2000	8B6R	8B6R.00	angiotensin converting enzyme inhibitor target dose not achieved	416404000	2548915016	NA	32	1	prescribed
+985731000006115	6000	8B6T	8B6T.00	patient on maximal tolerated angiotensin ii receptor antagonist therapy	417144005	2549695014	NA	32	1	prescribed
+991821000006111	30	TJC7-98	TJC7.98	drug reaction: ace inhibitor	293500009	991821000006111	NA	5	1	allergy
+1011861000006110	800	ALLERGY2.5		adverse reaction to antihypertensive drugs	1011861000006106	1011861000006110	NA	5	1	allergy
+1011871000006115	100	ALLERGY2.5.1		adverse reaction to vasodilator antihypertensive drugs	1011871000006104	1011871000006115	NA	5	1	allergy
+1011881000006117	30	ALLERGY2.5.2		adverse reaction to centrally acting antihypertensive drugs	1011881000006101	1011881000006117	NA	5	1	allergy
+1011911000006117	5000	ALLERGY2.5.5		adverse reaction to drugs affecting the renin-angiotensin system	1011911000006101	1011911000006117	NA	5	1	allergy
+1011921000006113	10000	ALLERGY2.5.5.1		adverse reaction to angiotensin-converting enzyme inhibitors	1011921000006109	1011921000006113	NA	5	1	allergy
+1011931000006111	2000	ALLERGY2.5.5.2		adverse reaction to angiotensin-ii receptor antagonists	1011931000006107	1011931000006111	NA	5	1	allergy
+1011961000006119	100	ALLERGY2.6		adverse reaction to nitrates, other vasodilators and calcium channel blockers	1011961000006103	1011961000006119	NA	5	1	allergy
+1011981000006112	3000	ALLERGY2.6.2		adverse reaction to calcium channel blockers	1011981000006108	1011981000006112	NA	5	1	allergy
+1135971000000116	6000	8BGA	8BGA.00	angiotensin ii receptor antagonist indicated	698428006	2974180017	NA	32	1	indicated
+1925151000006116	600	8BMa1	8BMa100	optimisation of ace (angiotensin converting enzyme) inhibitor therapy	936301000000102	2398001000000115	NA	32	1	prescribed
+2193971000000110	2000	G27	G27..00	hypertension resistant to drug therapy	845891000000103	2193971000000110	NA	32	1	prescribed
+2517301000006110	2	^ESCTAN251730		antihypertensive	1182007	443235013	NA	31	1	prescribed
+5796581000006112	6	^ESCTDR579658		drug reaction: ace inhibitor	293500009	1785099010	NA	5	1	allergy
+5802201000006116	1	^ESCTCA580220		calcium-channel blocker allergy	293994004	434248015	NA	5	1	allergy
+5835611000006117	3	^ESCTAN583561		antihypertensive overdose	297047006	437497016	NA	31	1	accidental
+5835711000006113	2	^ESCTAC583571		accidental antihypertensive overdose	297057007	437507013	NA	31	1	accidental
+6358051000006119	1	^ESCTAC635805		ace inhibitor-aggravated angio-oedema	371627004	1207312017	NA	5	1	prescribed
+6358091000006113	70	^ESCTAN635809		angiotensin converting enzyme (ace) inhibitor-aggravated angioedema	371627004	2621363013	NA	5	1	prescribed
+6683781000006118	2	^ESCTAN668378		angioedema due to angiotensin-converting-enzyme inhibitor	403607004	1775031018	NA	32	1	prescribed
+6904781000006119	2	^ESCTPA690478		patient on maximal tolerated ace inhibitor therapy	417281001	2553598017	NA	32	1	prescribed
+7247011000006114	30	^ESCTHI724701		history of angiotensin converting enzyme inhibitor therapy	441195008	2793602014	NA	31	1	old
+7247031000006115	1	^ESCTHI724703		history of angiotensin ii receptor antagonist therapy	441196009	2790574016	NA	31	1	old
+7499751000006110	1	^ESCTAN749975		angiotensin-converting-enzyme inhibitor pseudoallergy	609537003	2967455017	NA	5	1	allergy
+12115621000006113	1	^ESCT1211562		referral for antihypertensive therapy	1097181000000109	2747621000000112	NA	31	1	indicated
+13688011000006110	8	^ESCT1368801		multiple drug intolerant hypertension	1078301000112109	3771600016	NA	32	1	prescribed

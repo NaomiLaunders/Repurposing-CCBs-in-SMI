@@ -1,0 +1,489 @@
+MedCodeId	CleansedReadCode	Term	Type	Hypertension
+264498011	662L.00	24 hr blood pressure monitoring	BP	no
+254064013	246..12	o/e - blood pressure	BP	no
+254083018	246E.00	sitting blood pressure reading	BP	no
+256343017	315B.00	ambulatory blood pressure recording	BP	no
+254080015	246D.00	standing blood pressure reading	BP	no
+254084012	246F.00	o/e - blood pressure decreased	BP	no
+254079018	246C.00	lying blood pressure reading	BP	no
+254063019	246..00	o/e - blood pressure reading	BP	no
+165902015	246k.00	unequal blood pressure in arms	BP	no
+216600016	662V.00	blood pressure monitoring	BP	no
+283030010	8CE3.00	blood pressure leaflet given	seen	no
+1780183016	246P.00	standing diastolic blood pressure	BP	no
+458812014	246W.00	average 24 hour systolic blood pressure	BP	no
+458825018	246V.00	average 24 hour diastolic blood pressure	BP	no
+458803012	246l.00	average systolic blood pressure	BP	no
+458816012	246m.00	average diastolic blood pressure	BP	no
+458823013	246a.00	average night interval diastolic blood pressure	BP	no
+2159157015	246S.00	lying systolic blood pressure	BP	no
+453928018	8HR8.00	referral for 24 hour blood pressure recording	referral	no
+1780182014	246N.00	standing systolic blood pressure	BP	no
+458808015	246b.00	average night interval systolic blood pressure	BP	no
+2159158013	246T.00	lying diastolic blood pressure	BP	no
+2474699019	662j.00	blood pressure recorded by patient at home	BP	no
+2533615017	246d.00	average home systolic blood pressure	BP	no
+458809011	246Y.00	average day interval systolic blood pressure	BP	no
+458824019	246X.00	average day interval diastolic blood pressure	BP	no
+2159155011	246Q.00	sitting systolic blood pressure	BP	no
+2159156012	246R.00	sitting diastolic blood pressure	BP	no
+2533636015	246c.00	average home diastolic blood pressure	BP	no
+622341000000118	246g.00	self measured blood pressure reading	BP	no
+298281000000114	246e.00	ambulatory systolic blood pressure	BP	no
+923841000006113		o/e - blood pressure reading	BP	no
+961661000006115		elevated pulse/respirations/blood pressure	BP	high bp
+298311000000112	246f.00	ambulatory diastolic blood pressure	BP	no
+1009231000006116		24 hr blood pressure abnormal	BP	abnormal bp
+1009241000006114		24 hr blood pressure normal	BP	normal bp
+961921000006116		abnormal blood pressure reading	BP	abnormal bp
+1736521000000113	7P1B300	removal of ambulatory blood pressure monitor	BP	no
+1808011000006111		systolic blood pressure - left arm	BP	no
+1805081000006114		blood pressure monitoring in both arms	BP	no
+1776461000006114		reason for referral: blood pressure	referral	no
+1928521000006112		baseline diastolic blood pressure	BP	no
+1928511000006116		baseline systolic blood pressure	BP	no
+1808051000006112		diastolic blood pressure - right arm	BP	no
+1994021000006115		home systolic blood pressure	BP	no
+1993951000006110		home diastolic blood pressure	BP	no
+2145481000000113	8HRH.00	referral for ambulatory blood pressure monitoring	referral	no
+2122411000000113	246j.00	systolic blood pressure centile	BP	no
+2371211000000110	8A59.00	self-monitoring of blood pressure	BP	no
+2378631000000110	246n.00	baseline blood pressure	BP	no
+2418961000000111	246n100	baseline systolic blood pressure	BP	no
+2011931000006112		blood pressure recorded by pharmacy	BP	no
+2610791000000116		preoperative blood pressure measurement	BP	no
+2616361000000114		non-invasive central systolic blood pressure	BP	no
+2616321000000118		non-invasive central blood pressure	BP	no
+2616401000000117		non-invasive central diastolic blood pressure	BP	no
+64172013	G20..11	high blood pressure	BP	high bp
+1808041000006110		systolic blood pressure - right arm	BP	no
+1808021000006115		diastolic blood pressure - left arm	BP	no
+2122371000000114	246i.00	diastolic blood pressure centile	BP	no
+2418921000000115	246n000	baseline diastolic blood pressure	BP	no
+2011941000006119		blood pressure recorded in community	BP	no
+317910016	R1y2.00	[d]raised blood pressure reading	BP	high bp
+317911017	R1y3.00	[d]low blood pressure reading	BP	low bp
+619931000006119	246A.00	diastolic blood pressure	BP	no
+461166013	ZV70B00	[v]examination of blood pressure	BP	no
+5295121000006118		non-invasive mean blood pressure	BP	no
+114311000006111	2469.00	systolic blood pressure	BP	no
+459379010	662Q.00	borderline blood pressure	BP	abnormal bp
+2018581000006111		blood pressure recorded by optician	BP	no
+254091010	246Z.00	o/e-blood pressure reading nos	BP	no
+1736511000000119	7P1B200	application of ambulatory blood pressure monitor	BP	no
+254074011	2468.00	o/e - bp reading:postural drop	BP	postural drop
+264475015	662B.00	o/e - initial high bp	BP	high bp
+264476019	662C.00	o/e - check high bp	BP	high bp
+254073017	2467.00	o/e - bp reading very high	BP	high bp
+254071015	2465.00	o/e - bp borderline raised	BP	high bp
+254077016	246B.00	o/e - bp stable	BP	no
+254072010	2466.00	o/e - bp reading raised	BP	high bp
+264466017	6623.00	pre-treatment bp reading	BP	no
+254067018	2461.00	o/e - bp reading very low	BP	low bp
+254069015	2463.00	o/e - bp borderline low	BP	low bp
+254070019	2464.00	o/e - bp reading normal	BP	normal bp
+254085013	246G.00	o/e - bp labile	BP	no
+285667015	9OD7.00	bp screen - 3rd recall	admin	no
+285672012	9ODB.00	bp abnormal - 3rd recall	BP	abnormal bp
+285670016	9OD9.00	bp abnormal - 1st recall	BP	abnormal bp
+285671017	9ODA.00	bp abnormal - 2nd recall	BP	abnormal bp
+285666012	9OD6.00	bp screen - 2nd recall	admin	no
+456830011	246J.00	o/e - bp reading: no postural drop	BP	normal bp
+125251000006114		standing systolic bp	BP	no
+125231000006119		standing diastolic bp	BP	no
+851001000006111		[d]bp abnormal, but not diagnostic	BP	abnormal bp
+851071000006117		[d]bp raised, hyperten not diag	BP	high bp
+851251000006118		bp reading labile [d]	BP	no
+895081000006112	R1y3.99	nonspecific low bp reading [d]	BP	low bp
+851021000006118		[d]bp abn, not diagnostic nos	BP	abnormal bp
+856311000006119		sitting and standing bp	BP	no
+905371000006115		[rfc] high/low bp	BP	abnormal bp
+1899641000006111		patient requests remote monitoring of bp	admin	no
+523861000006118	9OD5.00	bp screen - 1st recall	admin	no
+523801000006119	G2...11	bp - hypertensive disease	BP	hypertension
+1738931000006114	2JG..00	understands importance of bp monitoring and control	seen	no
+254065014	246..11	o/e - bp reading	BP	no
+254068011	2462.00	o/e - bp reading low	BP	low bp
+317912012	R1y4.00	[d]bp reading labile	BP	no
+3135013	G201.00	benign essential hypertension	BP	hypertension
+53452019	G24..00	secondary hypertension	secondary	hypertension
+64168014	G2...00	hypertensive disease	BP	hypertension
+93494011	G202.00	systolic hypertension	BP	hypertension
+128722012	G871.00	chronic hypotension	BP	low bp
+99042012	G20..00	essential hypertension	BP	hypertension
+75071013	G87..00	hypotension	BP	low bp
+253532015	212K.00	hypertension resolved	history	hypertension
+264473010	6629.00	hypertension:follow-up default	admin	hypertension
+264472017	6628.00	poor hypertension control	BP	hypertension
+80224019	G203.00	diastolic hypertension	BP	hypertension
+264471012	6627.00	good hypertension control	BP	hypertension
+99047018	G20..12	primary hypertension	BP	hypertension
+131046010	G200.00	malignant essential hypertension	BP	hypertension
+284062018	8HT5.00	referral to hypertension clinic	referral	suspected hypertension
+300835018	G872.00	idiopathic hypotension	BP	low bp
+251674014	14A2.00	h/o: hypertension	history	hypertension
+299678018	G241.00	secondary benign hypertension	secondary	hypertension
+299684015	G24z100	hypertension secondary to drug	secondary	hypertension
+285673019	9ODC.00	bp abnormal - deleted	BP	abnormal bp
+285657013	9OD1.00	bp screen - 1st call	admin	no
+285662014	9OD4.00	bp screen - call deleted	admin	no
+305818015	L127.00	pre-eclampsia or eclampsia with pre-existing hypertension	pregnancy	hypertension
+350841017	G873.00	hypotension due to drugs	secondary	low bp
+285265015	9N03.00	seen in hypertension clinic	seen	hypertension
+411919011	662..12	hypertension monitoring	BP	hypertension
+405053013	9OIA.11	hypertension monitored	BP	hypertension
+262960017	6146200	hypertension induced by oral contraceptive pill	secondary	hypertension
+443764015	662O.00	on treatment for hypertension	therapy	hypertension
+2548266018	1JD..00	suspected hypertension	BP	suspected hypertension
+2160047013	8B2G.00	hypotensive therapy	therapy	low bp
+1780252014	8I3N.00	hypertension treatment refused	therapy	hypertension
+1780253016	662c.00	hypertension six month review	seen	hypertension
+1780318013	662b.00	moderate hypertension control	BP	hypertension
+1780319017	662d.00	hypertension annual review	seen	hypertension
+451424017	8B26.00	antihypertensive therapy	therapy	hypertension
+350601000000116	7Q01.00	high cost hypertension drugs	therapy	hypertension
+530221000000112	662r.00	trial withdrawal of antihypertensive therapy	therapy	hypertension
+535591000000118	8IA5.00	trial withdrawal of antihypertensive therapy declined	therapy	hypertension
+535651000000113	8IA6.00	trial reduction of antihypertensive therapy declined	therapy	hypertension
+530161000000111	662q.00	trial reduction of antihypertensive therapy	therapy	hypertension
+884961000006115	G871.99	chronic hypotension-idiopathic	BP	low bp
+909441000006118		[rfc] hypertension	BP	hypertension
+856971000006112		hypertensive clinic	seen	hypertension
+887811000006117	L120.99	preg.+ pre-existing hypertensn	pregnancy	hypertension
+1131851000000118	67H8.00	lifestyle advice regarding hypertension	seen	hypertension
+790031000006119		hypertension annual review	seen	hypertension
+1576591000006118		tele. reminder for systolic blood pressure	seen	no
+1760931000000113	5858300	highest brachial systolic pressure	BP	no
+1806081000006115		stage 2 hypertension	BP	hypertension
+1806071000006118		stage 1 hypertension	BP	hypertension
+1806141000006113		severe hypertension	BP	hypertension
+1855791000006117		hypertension monitoring in secondary care	secondary	hypertension
+1877391000006112		hypertension clinical management plan no longer in place	seen	hypertension
+1858771000006114		auras-af - consider the patient to have hypertension	BP	hypertension
+1858801000006111		auras-af - more time needed to decide on hypertension status	BP	suspected hypertension
+1855781000006115		hypertension monitoring in primary care	BP	hypertension
+1916581000006119		highest ankle systolic pressure	BP	no
+1916641000006114		borderline hypertension monitoring invitation third letter	admin	hypertension
+1916631000006116		borderline hypertension monitoring invitation second letter	admin	hypertension
+1916621000006119		borderline hypertension monitoring invitation first letter	admin	hypertension
+2115801000000110	661N600	hypertension self-management plan review	seen	hypertension
+1992471000006116		vte risk assessment - uncontrolled systolic hypertension	BP	hypertension
+2193971000000110	G27..00	hypertension resistant to drug therapy	therapy	hypertension
+2193031000000112	G25..11	stage 1 hypertension	BP	hypertension
+2117971000000119	661M600	hypertension self-management plan agreed	BP	hypertension
+2193021000000110	G26..11	severe hypertension	BP	hypertension
+2403221000000116	9OIC.00	borderline hypertension monitoring second letter	admin	hypertension
+2403261000000112	9OID.00	borderline hypertension monitoring third letter	admin	hypertension
+2403141000000118	9OIB.00	borderline hypertension monitoring first letter	admin	hypertension
+940001000006110		hypertension medication review	seen	hypertension
+84112010	G672.11	hypertensive crisis	BP	hypertension
+2423811000000118	662P100	telehealth hypertension monitoring	seen	hypertension
+299677011	G240z00	secondary malignant hypertension nos	secondary	hypertension
+299687010	G2z..00	hypertensive disease nos	BP	hypertension
+305764016	L122.00	other pre-existing hypertension in preg/childbirth/puerp	pregnancy	hypertension
+299686018	G2y..00	other specified hypertensive disease	BP	hypertension
+300870016	Gyu2000	[x]other secondary hypertension	secondary	hypertension
+299680012	G241z00	secondary benign hypertension nos	secondary	hypertension
+299682016	G24zz00	secondary hypertension nos	secondary	hypertension
+300988013	Gyu9000	[x]other hypotension	BP	low bp
+395751018	G20z.00	essential hypertension nos	BP	hypertension
+15881000000111	9OD..00	hypertension screen admin.	admin	no
+15861000000119	9OD..12	blood pressure screen admin	admin	no
+21601000000111	9OI..00	hypertension monitoring admin.	admin	hypertension
+16051000000119	9OIZ.00	hypertens.monitoring admin.nos	admin	hypertension
+15841000000115	9OD..11	bp screen administration	admin	no
+15901000000114	9ODZ.00	hypertension screen admin. nos	admin	no
+19431000006116	L122100	other pre-existing hypertension in preg/childb/puerp - deliv	pregnancy	hypertension
+26091000000116	9OI..11	hypertension clinic admin.	admin	hypertension
+19421000006119	L122300	other pre-exist hypertension in preg/childb/puerp-not deliv	pregnancy	hypertension
+19451000006111	L122000	other pre-existing hypertension in preg/childb/puerp unspec	pregnancy	hypertension
+213111000006112	L128.00	pre-exist hypertension compl preg childbirth and puerperium	pregnancy	hypertension
+212961000006118	L127z00	pre-eclampsia or eclampsia + pre-existing hypertension nos	pregnancy	hypertension
+213081000006118	L128200	pre-exist 2ndry hypertens comp preg childbth and puerperium	pregnancy	hypertension
+151161000006115	G240.00	secondary malignant hypertension	secondary	hypertension
+158241000006117	G24z.00	secondary hypertension nos	secondary	hypertension
+351361000000117	7Q01y00	other specified high cost hypertension drugs	therapy	hypertension
+19411000006110	L122400	other pre-exist hypertension in preg/childb/puerp + p/n comp	pregnancy	hypertension
+153941000006118	9N1y200	seen in hypertension clinic	seen	hypertension
+498791000006113	9OI1.00	attends hypertension monitor.	seen	hypertension
+351341000000118	7Q01z00	high cost hypertension drugs nos	therapy	hypertension
+790091000006115	662P.00	hypertension monitoring	BP	hypertension
+790121000006116	G20z.11	hypertension nos	BP	hypertension
+790141000006111	68B1.00	hypertension screen	BP	no
+790001000006110	9OI7.00	hypertens.monitor verbal inv.	admin	hypertension
+790071000006116	9OIA.00	hypertension monitor.chck done	BP	hypertension
+790011000006113	9OI4.00	hypertens.monitor.1st letter	admin	hypertension
+790131000006118	2126100	hypertension resolved	history	hypertension
+789971000006113	9OI6.00	hypertens.monitor 3rd letter	admin	hypertension
+789961000006118	9OI5.00	hypertens.monitor 2nd letter	admin	hypertension
+1908711000006115	G250.00	stage 1 hyperten (nice 2011) without evidnce end organ damge	BP	hypertension
+1846991000006111	G28..00	stage 2 hypertension (nice - nat ins for hth clin excl 2011)	BP	hypertension
+1908721000006111	G251.00	stage 1 hyperten (nice 2011) with evidnce end organ damge	BP	hypertension
+264487010	662H.00	hypertension treatm.stopped	therapy	hypertension
+1846941000006119	G25..00	stage 1 hypertension (nice - nat ins for hth clin excl 2011)	BP	hypertension
+264486018	662G.00	hypertensive treatm.changed	therapy	hypertension
+264485019	662F.00	hypertension treatm. started	therapy	hypertension
+2474335018	8CR4.00	hypertension clinical management plan	seen	hypertension
+300869017	Gyu2.00	[x]hypertensive diseases	BP	hypertension
+1846961000006115	G26..00	severe hypertension (nat inst for health clinical ex 2011)	BP	hypertension
+264467014	6624.00	borderline hyperten:yearly obs	BP	abnormal bp
+164121000006118	68B4.00	risk factors present at hypertension screen	BP	no
+789951000006115	9OI3.00	hyperten.monitor offer default	admin	hypertension
+285658015	9OD2.00	bp screen - 2nd call	admin	no
+299681011	G244.00	hypertension secondary to endocrine disorders	secondary	hypertension
+19441000006114	L122z00	other pre-existing hypertension in preg/childb/puerp nos	pregnancy	hypertension
+1138321000000113	14AS.00	history of hypotension	history	low bp
+523921000006115	9OD8.00	bp screen - recall deleted	admin	no
+789991000006114	9OI8.00	hypertens.monitor phone invite	admin	hypertension
+1706551000000114	662P000	hypertension 9 month review	seen	hypertension
+1823901000006112		hypertension confirmed	BP	hypertension
+2159168015	8BL0.00	patient on maximal tolerated antihypertensive therapy	therapy	hypertension
+300837014	G87z.00	hypotension nos	BP	low bp
+461309011	ZV7B100	[v]screening for hypertension	BP	no
+884121000006111	G200.99	malignant hypertension	BP	hypertension
+285661019	9OD3.00	bp screen - 3rd call	admin	no
+47965014	G870.00	orthostatic hypotension	BP	postural drop
+47966010	G870.11	postural hypotension	BP	postural drop
+147383012	L392.00	maternal hypotension syndrome	pregnancy	low bp
+297043014	F130300	orthostatic hypotension co-occurrent and due to parkinson's disease	secondary	postural drop
+305773012	L123000	transient hypertension of pregnancy unspecified	pregnancy	hypertension
+305774018	L123100	transient hypertension of pregnancy - delivered	pregnancy	hypertension
+305776016	L123300	transient hypertension of pregnancy - not delivered	pregnancy	hypertension
+305780014	L123z00	transient hypertension of pregnancy nos	pregnancy	hypertension
+307544010	L392000	maternal hypotension syndrome unspecified	pregnancy	low bp
+307545011	L392100	maternal hypotension syndrome - delivered	pregnancy	low bp
+307547015	L392300	maternal hypotension syndrome with antenatal problem	pregnancy	low bp
+307548013	L392400	maternal hypotension syndrome with postnatal problem	pregnancy	low bp
+307549017	L392z00	maternal hypotension syndrome nos	pregnancy	low bp
+355621014	L123600	transient hypertension of pregnancy	pregnancy	hypertension
+402166016	Q000.00	fetus or neonate affected by maternal hypertensive disease	pregnancy	hypertension
+413076015	246M.00	white coat hypertension	BP	high bp
+494622019	L12B.00	proteinuric hypertension of pregnancy	pregnancy	hypertension
+495022012	L123500	gestational hypertension	pregnancy	hypertension
+1484957010	9N4L.00	dna - did not attend hypertension clinic	admin	hypertension
+1488750011	66b2.00	hypertension monitoring not required	BP	no
+3514263011		hypertension complicating pregnancy	pregnancy	hypertension
+3636695013		diastolic hypertension and systolic hypertension	BP	hypertension
+76631000006118	L12z100	pregnancy-induced hypertension	pregnancy	hypertension
+76641000006111	L12z300	unspecified hypertension in preg/childb/puerp - not deliv	pregnancy	hypertension
+76651000006113	L12z200	unspecified hypertension in preg/childb/puerp -del +p/n comp	pregnancy	hypertension
+76661000006110	L12zz00	unspecified hypertension in preg/childb/puerp nos	pregnancy	hypertension
+76671000006115	L12z000	unspecified hypertension in preg/childb/puerp unspecified	pregnancy	hypertension
+76681000006117	L12z400	unspecified hypertension in preg/childb/puerp with p/n comp	pregnancy	hypertension
+76691000006119	L12z.00	unspecified hypertension in pregnancy/childbirth/puerperium	pregnancy	hypertension
+95981000006112	L123.00	transient hypertension of pregnancy	pregnancy	hypertension
+96001000006111	L123400	transient hypertension of pregnancy with postnatal complication	pregnancy	hypertension
+96011000006114	L123200	transient hypertension of pregnancy - delivered with postnatal complication	pregnancy	hypertension
+138991000000110	9h3..00	exception reporting - hypertension quality indicators	exceptions	hypertension
+179371000006114	9OI2.00	hypertension monitoring refused	BP	hypertension
+212971000006113	L127400	pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication	pregnancy	hypertension
+212981000006111	L127200	pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication	pregnancy	hypertension
+212991000006114	L127100	pre-eclampsia or eclampsia with pre-existing hypertension - delivered	pregnancy	hypertension
+213001000006110	L127300	pre-eclampsia or eclampsia with pre-existing hypertension - not delivered	pregnancy	hypertension
+213011000006113	L127000	pre-eclampsia or eclampsia with hypertension unspecified	pregnancy	hypertension
+403581000006112	Lyu1.00	[x]oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium	pregnancy	hypertension
+504761000006115	L120200	benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication	pregnancy	hypertension
+504781000006113	L120400	benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication	pregnancy	hypertension
+504791000006111	L120100	benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered	pregnancy	hypertension
+504801000006112	L120z00	benign essential hypertension in preg/childb/puerp nos	pregnancy	hypertension
+504811000006110	L120000	benign essential hypertension in preg/childb/puerp unspec	pregnancy	hypertension
+504821000006119	L120300	benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered	pregnancy	hypertension
+504831000006116	L120.00	benign essential hypertension complicating pregnancy, childbirth and the puerperium	pregnancy	hypertension
+672381000006118	Q043.00	fetus and newborn affected by maternal use of antihypertensive drug	pregnancy	hypertension
+716131000006119	L392200	maternal hypotension syndrome - delivered with postnatal problem	pregnancy	low bp
+789981000006111	9OI9.00	hypertens.monitor deleted	admin	no
+790051000006114	L12..00	hypertension complicating pregnancy, childbirth and the puerperium	pregnancy	hypertension
+887821000006113	L123.99	hypertension of pregnancy	pregnancy	hypertension
+887831000006111	L123z99	hypertension of preg. nos	pregnancy	hypertension
+893611000006114	Q000.99	maternal hypertension	pregnancy	hypertension
+931161000006119	9h31.00	excepted from hypertension quality indicators - patient unsuitable	exceptions	hypertension
+931171000006114	9h32.00	excepted from hypertension quality indicators - informed dissent	exceptions	hypertension
+942161000006111		ap/bp	BP	no
+991731000006118	L123599	hypertension of preg. nos	pregnancy	hypertension
+1751331000006119		blood pressure cuff size	admin	no
+1751341000006112		blood pressure cuff size, large	admin	no
+1751351000006114		blood pressure cuff size, standard	admin	no
+1751361000006111		blood pressure cuff size, paediatric	admin	no
+1849761000006114		home blood pressure monitor loaned to patient	admin	no
+1849781000006116		home blood pressure monitor returned by patient	admin	no
+1858791000006110		auras-af - consider the patient not to have hypertension	BP	no
+1946681000006112	8OAH.11	provision of written information about diabetes & hypertensn	seen	hypertension
+1946691000006110	8OAH.00	provision of written information about diabetes and hypertension	seen	hypertension
+2012461000006117		self measured blood pressure reading required	BP	no
+2517301000006110		antihypertensive	therapy	hypertension
+2530601000006114		normal blood pressure	BP	normal bp
+2608391000006111		mean blood pressure	BP	no
+2639781000006114		chronic hypertension in obstetric context	pregnancy	hypertension
+2670511000006119		benign hypertension	BP	hypertension
+2702901000006110		decreased blood pressure, not hypotension	BP	low bp
+2705391000006113		normal systolic arterial pressure	BP	normal bp
+2705401000006110		normal systolic blood pressure	BP	normal bp
+2786481000006111		increased systolic arterial pressure	BP	no
+2791691000006118		abnormal systolic arterial pressure	BP	abnormal bp
+2869171000006111		increased diastolic arterial pressure	BP	no
+3117411000006118		high blood pressure	BP	high bp
+3117451000006117		bp - high blood pressure	BP	high bp
+3117461000006115		systemic arterial hypertension	BP	hypertension
+3117481000006113		ht - hypertension	BP	hypertension
+3117491000006111		high blood pressure disorder	BP	high bp
+3117511000006117		htn - hypertension	BP	hypertension
+3117521000006113		hypertensive disorder, systemic arterial	BP	hypertension
+3126651000006111		abnormal blood pressure	BP	abnormal bp
+3188121000006118		decreased diastolic arterial pressure	BP	no
+3226171000006113		low blood pressure	BP	low bp
+3250801000006112		low-renin essential hypertension	BP	low bp
+3255831000006110		severe proteinuric hypertension of pregnancy	pregnancy	hypertension
+3259241000006119		blood pressure taking	BP	no
+3279801000006119		hypertension induced by pregnancy	pregnancy	hypertension
+3279821000006112		pih - pregnancy-induced hypertension	pregnancy	hypertension
+3306781000006110		abnormal diastolic arterial pressure	BP	abnormal bp
+3372531000006111		normal diastolic arterial pressure	BP	normal bp
+3443351000006113		hypotensive syncope	BP	low bp
+3468491000006113		idiopathic hypertension	BP	hypertension
+3470001000006117		sustained diastolic hypertension	BP	hypertension
+3506461000006114		hyperadrenergic postural hypotension	BP	postural drop
+3529151000006119		benign essential hypertension in obstetric context	pregnancy	hypertension
+3595861000006116		pre-eclampsia added to pre-existing hypertension	pregnancy	hypertension
+3602031000006116		hypotensive episode	BP	low bp
+3642801000006112		malignant hypertension	BP	hypertension
+3671691000006112		essential hypertension in obstetric context	pregnancy	hypertension
+3676271000006117		systolic blood pressure	BP	no
+3710191000006113		secondary diastolic hypertension	secondary	hypertension
+3725601000006111		blood pressure	BP	no
+3725611000006114		bp - blood pressure	BP	no
+3781691000006113		essential hypertension complicating and/or reason for care during pregnancy	pregnancy	hypertension
+3784371000006115		accelerated essential hypertension	BP	hypertension
+3898601000006112		pre-existing hypertension in obstetric context	pregnancy	hypertension
+3944671000006110		supine hypotensive syndrome	BP	low bp
+3950631000006119		accelerated secondary hypertension	secondary	hypertension
+4356081000006115		hypertension due to renovascular disease	secondary	hypertension
+4540441000006117		history of hypertension	history	hypertension
+4556301000006111		on examination - blood pressure reading	BP	no
+4556441000006117		on examination - blood pressure reading normal	BP	normal bp
+4556531000006114		on examination - blood pressure reading very high	BP	high bp
+4556651000006118		on examination - blood pressure stable	BP	no
+4556671000006111		lying blood pressure	BP	no
+4556691000006112		standing blood pressure	BP	no
+4556711000006110		sitting blood pressure	BP	no
+4634651000006115		pre-treatment blood pressure reading	BP	no
+4660711000006111		non-invasive diastolic arterial pressure	BP	no
+4737611000006116		bp screening - first call	admin	no
+4737641000006117		bp screening - second call	admin	no
+4737671000006113		bp screening - third call	admin	no
+4737701000006114		bp screening - call deleted	admin	no
+4737751000006113		bp screening - second recall	admin	no
+4737781000006117		bp screening - third recall	admin	no
+4737811000006115		bp screening - recall deleted	admin	no
+4737831000006114		blood pressure abnormal - 1st recall	BP	abnormal bp
+4737851000006119		blood pressure abnormal - 2nd recall	BP	abnormal bp
+4737881000006110		blood pressure abnormal - 3rd recall	BP	abnormal bp
+4775831000006118		hypertension secondary to endocrine disorder	secondary	hypertension
+4775861000006110		hypertension caused by drug	secondary	hypertension
+5010701000006113		sympathotonic orthostatic hypotension	BP	postural drop
+5060961000006111		drug-induced hypotension	secondary	low bp
+5105201000006119		moderate proteinuric hypertension of pregnancy	pregnancy	hypertension
+5295021000006119		non-invasive systolic arterial pressure	BP	no
+5295211000006115		labile blood pressure	BP	no
+5358921000006112		blood pressure rise	BP	no
+5390601000006118		non-invasive blood pressure monitor	BP	no
+5506371000006115		hypertension risk	BP	no
+5527181000006111		postural drop in blood pressure	BP	postural drop
+5527191000006114		systolic blood pressure	BP	no
+5527211000006110		diastolic blood pressure	BP	no
+5527251000006111		stable blood pressure	BP	no
+5566331000006119		examination of blood pressure	BP	no
+5730901000006115		maternal hypertension	pregnancy	hypertension
+5970791000006118		non-proteinuric hypertension of pregnancy	pregnancy	hypertension
+5978371000006116		hypertension screening recall	admin	no
+5978381000006118		hypertension screening call	admin	no
+5979461000006110		hypertension monitoring status	admin	hypertension
+5979471000006115		hypertension monitoring call	admin	hypertension
+5999791000006119		hypertension monitoring invitation	admin	hypertension
+6046051000006119		minimum systolic blood pressure	BP	no
+6046061000006117		maximum systolic blood pressure	BP	no
+6046081000006110		minimum day interval systolic blood pressure	BP	no
+6046091000006113		minimum night interval systolic blood pressure	BP	no
+6046101000006119		maximum night interval systolic blood pressure	BP	no
+6046111000006116		maximum day interval systolic blood pressure	BP	no
+6046141000006117		minimum 24 hour systolic blood pressure	BP	no
+6046151000006115		maximum 24 hour systolic blood pressure	BP	no
+6046181000006111		minimum diastolic blood pressure	BP	no
+6046191000006114		maximum diastolic blood pressure	BP	no
+6046211000006110		minimum day interval diastolic blood pressure	BP	no
+6046221000006119		minimum night interval diastolic blood pressure	BP	no
+6046231000006116		minimum 24 hour diastolic blood pressure	BP	no
+6046241000006114		maximum night interval diastolic blood pressure	BP	no
+6046251000006111		maximum day interval diastolic blood pressure	BP	no
+6046261000006113		maximum 24 hour diastolic blood pressure	BP	no
+6046301000006116		24 hour blood pressure	BP	no
+6046311000006118		24 hour systolic blood pressure	BP	no
+6046321000006114		24 hour diastolic blood pressure	BP	no
+6349461000006119		labile essential hypertension	BP	hypertension
+6357971000006110		elevated blood-pressure reading without diagnosis of hypertension	BP	high bp
+6357981000006113		elevated blood pressure reading without diagnosis of hypertension	BP	high bp
+6445061000006116		blood pressure taking assessment	BP	no
+6445071000006111		assess blood pressure taking	BP	no
+6456681000006110		abp - arterial blood pressure	BP	no
+6456711000006111		sbp - systemic blood pressure	BP	no
+6516381000006117		did not attend hypertension clinic	admin	hypertension
+6543651000006115		blood pressure finding	BP	no
+6592161000006112		hypertension with albuminuria	BP	hypertension
+7103581000006114		systolic essential hypertension	BP	hypertension
+7161931000006118		syncope due to orthostatic hypotension	secondary	postural drop
+7276911000006114		lifestyle education regarding hypertension	seen	hypertension
+7278171000006116		hypertensive urgency	BP	hypertension
+7502041000006112		intermittent hypertension	BP	hypertension
+7567571000006112		hypertension clinic	seen	hypertension
+7572921000006113		gordon hyperkalemia-hypertension syndrome	BP	hypertension
+7609711000006110		hypertensive crisis	BP	hypertension
+7615071000006115		post exercise systolic blood pressure response normal	BP	normal bp
+7660081000006114		history of gestational hypertension	pregnancy	hypertension
+7696031000006114		supine hypertension	BP	hypertension
+7841931000006117		average blood pressure	BP	no
+7875581000006110		ambulatory blood pressure monitoring report	BP	no
+7987561000006111		refractory hypotension	BP	low bp
+8016541000006110		postpartum pre-existing essential hypertension	pregnancy	hypertension
+8016561000006114		postpartum pregnancy-induced hypertension	pregnancy	hypertension
+8036941000006111		chronic kidney disease stage 1 due to hypertension	BP	hypertension
+8040661000006119		chronic kidney disease stage 4 due to hypertension	BP	hypertension
+8040681000006112		chronic kidney disease stage 3 due to hypertension	BP	hypertension
+8040691000006110		chronic kidney disease stage 2 due to hypertension	BP	hypertension
+8041701000006119		hypertensive emergency	BP	hypertension
+8044061000006119		hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus	secondary	hypertension
+8107481000006110		self measured bp (blood pressure) reading	BP	no
+8189771000006113		[d]blood pressure raised, hypertension not diagnosed	BP	high bp
+8189781000006111		[d]nonspecific low blood pressure reading	BP	low bp
+8264071000006110		measurement of blood pressure using non-invasive blood pressure monitor	BP	no
+8286321000006117		resistant hypertension	BP	hypertension
+8286581000006114		stage 2 hypertension	BP	hypertension
+8297911000006113		unusual variability in blood pressure	BP	no
+8298681000006113		nocturnal hypertension	BP	hypertension
+8369351000006113		measurement of blood pressure in left arm	BP	no
+8369361000006110		measurement of blood pressure in right arm	BP	no
+8369461000006116		measurement of blood pressure using large adult size blood pressure cuff	BP	no
+8369471000006111		measurement of blood pressure using standard adult size blood pressure cuff	BP	no
+8439981000006118		hypertension monitoring invitation sms (short message service) text message	admin	hypertension
+8439991000006115		hypertension monitoring sms (short message service) text message first invitation	admin	hypertension
+8440001000006117		hypertension monitoring sms (short message service) text message second invitation	admin	hypertension
+8440011000006119		hypertension monitoring sms (short message service) text message third invitation	admin	hypertension
+8459521000006112		hypertension monitoring invitation email	admin	hypertension
+8462401000006115		blood pressure monitoring invitation	admin	no
+8462431000006111		blood pressure monitoring invitation sms (short message service) text message	admin	no
+8462451000006116		blood pressure monitoring email invitation	admin	no
+8462491000006110		blood pressure monitoring invitation first letter	admin	no
+8462521000006112		blood pressure monitoring invitation second letter	admin	no
+8462551000006115		blood pressure monitoring invitation third letter	admin	no
+8462571000006113		blood pressure monitoring telephone invitation	admin	no
+9897511000006110		labile systemic arterial hypertension	BP	hypertension
+11903371000006115		o/e - systolic bp reading	BP	no
+11924381000006114		o/e - diastolic bp reading	BP	no
+12115621000006113		referral for antihypertensive therapy	referral	hypertension
+12619501000006118		blood pressure measurement using oscillometric monitoring device with opportunistic atrial fibrillation detection	BP	no
+12626361000006113		qof (quality and outcomes framework) hypertension quality indicator-related care invitation	admin	hypertension
+12717241000006117		unspecified hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication	pregnancy	hypertension
+12734361000006112		qof (quality and outcomes framework) hypertension quality indicator-related care invitation using preferred method of communication	admin	hypertension
+13620921000006114		recommendation to measure and record own blood pressure	seen	no
+13688011000006110		multiple drug intolerant hypertension	BP	hypertension
+13935961000006111		arrhythmia-detection blood pressure ambulatory recorder	admin	no
+39871000006113	L122200	oth pre-exist hypert in preg/childb/puerp -del with p/n comp	pregnancy	hypertension
+404471000006113	U60C500	[x]oth antihyperten drug caus advers eff in therap use, nec	therapy	hypertension

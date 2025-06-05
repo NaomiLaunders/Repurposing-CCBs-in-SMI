@@ -1,0 +1,501 @@
+ProdCodeId	dmdid	Term.from.EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues	Group
+3041000033115	39724211000001104	Acebutolol 100mg capsules	Acebutolol 100mg capsules	Capsule	Oral	Acebutolol hydrochloride	100.000mg	2040000	60000	B-blocker
+3141000033116	39725211000001104	Acebutolol 200mg capsules	Acebutolol 200mg capsules	Capsule	Oral	Acebutolol hydrochloride	200.000mg	2040000	80000	B-blocker
+10741000033112	39725711000001104	Acebutolol 400mg tablets	Acebutolol 400mg tablets	Tablet	Oral	Acebutolol hydrochloride	400.000mg	2040000	50000	B-blocker
+11241000033113	260211000001104	Accuretic 10mg/12.5mg tablets (Pfizer Ltd)	Accuretic 10mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Quinapril hydrochloride	12.500mg + 10.000mg	2050501	20000	Diuretic
+13141000033119	263311000001101	Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Acezide 25mg/50mg tablets	Tablet	Oral	Captopril/ Hydrochlorothiazide	50.000mg + 25.000mg	2050501	20000	Diuretic
+37741000033118	934411000001100	Alphavase 1 tablets (Ashbourne Pharmaceuticals Ltd)	Alphavase 1 tablets	Tablet	Oral	Prazosin hydrochloride	1.000mg		400	Alpha blocker
+37841000033111	570011000001106	Alphavase 2 tablets (Ashbourne Pharmaceuticals Ltd)	Alphavase 2 tablets	Tablet	Oral	Prazosin hydrochloride	2.000mg		300	Alpha blocker
+37941000033115	74711000001102	Alphavase 5 tablets (Ashbourne Pharmaceuticals Ltd)	Alphavase 5 tablets	Tablet	Oral	Prazosin hydrochloride	5.000mg		500	Alpha blocker
+40241000033110	762511000001105	Aldactide 25 tablets (Pfizer Ltd)	Aldactide 25 tablets	Tablet	Oral	Hydroflumethiazide/ Spironolactone	25.000mg + 25.000mg	2020400	60000	Diuretic
+40341000033117	4669111000001107	Aldactide 50 tablets (Pfizer Ltd)	Aldactide 50 tablets	Tablet	Oral	Hydroflumethiazide/ Spironolactone	50.000mg + 50.000mg	2020400	100000	Diuretic
+40441000033111	421611000001100	Aldactone 100mg tablets (Pfizer Ltd)	Aldactone 100mg tablets	Tablet	Oral	Spironolactone	100.000mg	2020300	40000	Spironolactone 
+40541000033112	930511000001105	Aldactone 25mg tablets (Pfizer Ltd)	Aldactone 25mg tablets	Tablet	Oral	Spironolactone	25.000mg	2020300	30000	Spironolactone 
+40641000033113	921811000001103	Aldactone 50mg tablets (Pfizer Ltd)	Aldactone 50mg tablets	Tablet	Oral	Spironolactone	50.000mg	2020300	20000	Spironolactone 
+57341000033115	712211000001108	Amilmaxco 5mg/50mg tablets (Ashbourne Pharmaceuticals Ltd)	Amilmaxco 5mg/50mg tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	5.000mg + 50.000mg		8000	Diuretic
+60341000033110	636611000001107	Amil-Co 5mg/50mg tablets (IVAX Pharmaceuticals UK Ltd)	Amil-Co 5mg/50mg tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	5.000mg + 50.000mg	2020400	30000	Diuretic
+69441000033112	877011000001106	Antipressan 25mg tablets (Teva UK Ltd)	Antipressan 25mg tablets	Tablet	Oral	Atenolol	25.000mg		4000	B-blocker
+70941000033117	734011000001102	Antipressan 100mg tablets (Teva UK Ltd)	Antipressan 100mg tablets	Tablet	Oral	Atenolol	100.000mg		10000	B-blocker
+71041000033110	874711000001101	Antipressan 50mg tablets (Teva UK Ltd)	Antipressan 50mg tablets	Tablet	Oral	Atenolol	50.000mg		20000	B-blocker
+74541000033119	672111000001100	Aprinox 2.5mg tablets (Advanz Pharma)	Aprinox 2.5mg tablets	Tablet	Oral	Bendroflumethiazide	2.500mg	2020100	80000	Diuretic
+74641000033118	120911000001103	Aprinox 5mg tablets (Amdipharm Plc)	Aprinox 5mg tablets	Tablet	Oral	Bendroflumethiazide	5.000mg	2020100	100000	Diuretic
+90441000033118	35903211000001108	Atenolol 25mg/5ml oral solution sugar free	Atenolol 25mg/5ml oral solution sugar free	Oral solution	Oral	Atenolol	5.000mg/1.000ml	2100100	200000	B-blocker
+90541000033117	181611000001107	Atenix 100 tablets (Ashbourne Pharmaceuticals Ltd)	Atenix 100 tablets	Tablet	Oral	Atenolol	100.000mg	2040000	30000	B-blocker
+90641000033116	318434003	Atenolol 25mg tablets	Atenolol 25mg tablets	Tablet	Oral	Atenolol	25.000mg	2100100	20000000	B-blocker
+90741000033113	101411000001108	Atenix Co 100 tablets (Ashbourne Pharmaceuticals Ltd)	Atenix Co 100 tablets	Tablet	Oral	Atenolol/ Chlortalidone	100.000mg + 25.000mg	2040000	10000	B-blocker
+91041000033118	318421004	Atenolol 100mg tablets	Atenolol 100mg tablets	Tablet	Oral	Atenolol	100.000mg	2100100	10000000	B-blocker
+91141000033119	318420003	Atenolol 50mg tablets	Atenolol 50mg tablets	Tablet	Oral	Atenolol	50.000mg	2100100	40000000	B-blocker
+91841000033113	482511000001101	Atenix 25 tablets (Ashbourne Pharmaceuticals Ltd)	Atenix 25 tablets	Tablet	Oral	Atenolol	25.000mg	2040000	10000	B-blocker
+92441000033119	629011000001109	Atenix Co 50 tablets (Ashbourne Pharmaceuticals Ltd)	Atenix Co 50 tablets	Tablet	Oral	Atenolol/ Chlortalidone	50.000mg + 12.500mg	2040000	3000	B-blocker
+92541000033118	271911000001106	Atenix 50 tablets (Ashbourne Pharmaceuticals Ltd)	Atenix 50 tablets	Tablet	Oral	Atenolol	50.000mg	2040000	60000	B-blocker
+116741000033118	3689111000001107	Baratol 25mg tablets (Amdipharm Plc)	Baratol 25mg tablets	Tablet	Oral	Indoramin hydrochloride	25.000mg		6000	Alpha blocker
+124241000033112	549611000001106	Bedranol SR 160mg capsules (Sandoz Ltd)	Bedranol SR 160mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	160.000mg	2040000	3000	B-blocker
+124341000033119	3142711000001107	Beta-Adalat modified-release capsules (Bayer Plc)	Beta-Adalat modified-release capsules	Modified-release capsule	Oral	Atenolol/ Nifedipine	50.000mg + 20.000mg	2040000	100000	B-blocker
+133141000033117	510611000001108	Beta-Prograne 160mg modified-release capsules (Tillomed Laboratories Ltd)	Beta-Prograne 160mg modified-release capsules	Modified-release capsule	Oral	Propranolol hydrochloride	160.000mg	2040000	6000	B-blocker
+143941000033116	447111000001104	Beta-Cardone 200mg tablets (Advanz Pharma)	Beta-Cardone 200mg tablets	Tablet	Oral	Sotalol hydrochloride	200.000mg	2040000	1000	B-blocker
+144041000033119	900511000001103	Beta-Cardone 40mg tablets (Focus Pharmaceuticals Ltd)	Beta-Cardone 40mg tablets	Tablet	Oral	Sotalol hydrochloride	40.000mg	2040000	40000	B-blocker
+144141000033115	104011000001101	Beta-Cardone 80mg tablets (Focus Pharmaceuticals Ltd)	Beta-Cardone 80mg tablets	Tablet	Oral	Sotalol hydrochloride	80.000mg	2040000	20000	B-blocker
+144341000033117	193911000001101	Betaloc 100mg tablets (AstraZeneca UK Ltd)	Betaloc 100mg tablets	Tablet	Oral	Metoprolol tartrate	100.000mg		30000	B-blocker
+144441000033111	31811000001105	Betaloc 50mg tablets (AstraZeneca UK Ltd)	Betaloc 50mg tablets	Tablet	Oral	Metoprolol tartrate	50.000mg		60000	B-blocker
+144541000033112	185111000001102	Betaloc-SA 200mg tablets (AstraZeneca UK Ltd)	Betaloc-SA 200mg tablets	Modified-release tablet	Oral	Metoprolol tartrate	200.000mg		40000	B-blocker
+144741000033116	72811000001104	Betim 10mg tablets (Meda Pharmaceuticals Ltd)	Betim 10mg tablets	Tablet	Oral	Timolol maleate	10.000mg		6000	B-blocker
+151341000033117	318590006	Bisoprolol 5mg tablets	Bisoprolol 5mg tablets	Tablet	Oral	Bisoprolol fumarate	5.000mg	2040000	20000000	B-blocker
+151441000033111	NA	Bisoprolol Fumarate Tablets 10 mg							30000	B-blocker
+209241000033119	546711000001107	Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Capozide LS 12.5mg/25mg tablets	Tablet	Oral	Captopril/ Hydrochlorothiazide	25.000mg + 12.500mg		9000	Diuretic
+209841000033115	3144511000001107	Carace 10 Plus tablets (Organon Pharma (UK) Ltd)	Carace 10 Plus tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	2050501	10000	Diuretic
+209941000033111	318631003	Carvedilol 12.5mg tablets	Carvedilol 12.5mg tablets	Tablet	Oral	Carvedilol	12.500mg	2040000	600000	B-blocker
+210041000033115	318632005	Carvedilol 25mg tablets	Carvedilol 25mg tablets	Tablet	Oral	Carvedilol	25.000mg	2040000	500000	B-blocker
+210141000033116	NA	Carvedilol Tablets 50 mg							90	B-blocker
+216441000033110	17311000001102	Capozide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Capozide 25mg/50mg tablets	Tablet	Oral	Captopril/ Hydrochlorothiazide	50.000mg + 25.000mg	2050501	200000	Diuretic
+216741000033115	907711000001109	Cardura 1mg tablets (Viatris UK Healthcare Ltd)	Cardura 1mg tablets	Tablet	Oral	Doxazosin mesilate	1.000mg	7040100	80000	Alpha blocker
+216841000033113	41811000001109	Cardura 2mg tablets (Viatris UK Healthcare Ltd)	Cardura 2mg tablets	Tablet	Oral	Doxazosin mesilate	2.000mg	7040100	90000	Alpha blocker
+217041000033116	3143511000001109	Carace 20 Plus tablets (Organon Pharma (UK) Ltd)	Carace 20 Plus tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	2050501	30000	Diuretic
+233241000033114	479211000001100	Celectol 400mg tablets (Neon Healthcare Ltd)	Celectol 400mg tablets	Tablet	Oral	Celiprolol hydrochloride	400.000mg	2040000	20000	B-blocker
+233341000033116	318622003	Celiprolol 400mg tablets	Celiprolol 400mg tablets	Tablet	Oral	Celiprolol hydrochloride	400.000mg	2040000	100000	B-blocker
+234841000033110	3932711000001105	Centyl K modified-release tablets (LEO Pharma)	Centyl K modified-release tablets	Modified-release tablet	Oral	Bendroflumethiazide/ Potassium chloride	2.500mg + 573.000mg		40000	Diuretic
+236041000033111	318619000	Celiprolol 200mg tablets	Celiprolol 200mg tablets	Tablet	Oral	Celiprolol hydrochloride	200.000mg	2040000	400000	B-blocker
+236141000033110	864811000001100	Celectol 200mg tablets (Neon Healthcare Ltd)	Celectol 200mg tablets	Tablet	Oral	Celiprolol hydrochloride	200.000mg	2040000	100000	B-blocker
+246241000033116	408039005	Chlorothiazide 250mg/5ml oral suspension	Chlorothiazide 250mg/5ml oral suspension	Oral suspension	Oral	Chlorothiazide	50.000mg/1.000ml		8000	Diuretic
+247941000033110	NA	Chlorothiazide Tablets 500 mg							7000	Diuretic
+248041000033113	NA	Chlorthalidone Tablets 100 mg							3000	Diuretic
+248141000033112	NA	Chlorthalidone Tablets 25 mg							2000	Diuretic
+351941000033111	8792311000001109	Co-amilozide 5mg/50mg/5ml oral solution	Co-amilozide 5mg/50mg/5ml oral solution	Oral solution	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	1.000mg/1.000ml + 10.000mg/1.000ml		3000	Diuretic
+369141000033118	377566005	Co-amilozide 5mg/50mg tablets	Co-amilozide 5mg/50mg tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	5.000mg + 50.000mg	2020400	2000000	Diuretic
+370241000033111	410896007	Co-triamterzide 50mg/25mg tablets	Co-triamterzide 50mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Triamterene	25.000mg + 50.000mg	2020400	300000	Diuretic
+370841000033110	255911000001105	Cozaar-Comp 50mg/12.5mg tablets (Organon Pharma (UK) Ltd)	Cozaar-Comp 50mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Losartan potassium	12.500mg + 50.000mg	2050502	200000	Diuretic
+372741000033116	2977611000001106	Co-Betaloc tablets (Pfizer Ltd)	Co-Betaloc tablets	Tablet	Oral	Hydrochlorothiazide/ Metoprolol tartrate	12.500mg + 100.000mg		40000	B-blocker
+372841000033114	3853411000001104	Co-Betaloc SA tablets (Pfizer Ltd)	Co-Betaloc SA tablets	Modified-release tablet	Oral	Hydrochlorothiazide/ Metoprolol tartrate	25.000mg + 200.000mg		5000	B-blocker
+375241000033119	3686511000001108	Corgard 40mg tablets (Sanofi-Synthelabo Ltd)	Corgard 40mg tablets	Tablet	Oral	Nadolol	40.000mg		10000	B-blocker
+375341000033112	3687411000001106	Corgard 80mg tablets (Neon Healthcare Ltd)	Corgard 80mg tablets	Tablet	Oral	Nadolol	80.000mg	2040000	10000	B-blocker
+375441000033118	3886211000001102	Corgaretic 40mg tablets (Sanofi-Synthelabo Ltd)	Corgaretic 40mg tablets	Tablet	Oral	Bendroflumethiazide/ Nadolol	5.000mg + 40.000mg		7000	B-blocker
+375541000033117	4057911000001102	Corgaretic 80mg tablets (Sanofi-Synthelabo Ltd)	Corgaretic 80mg tablets	Tablet	Oral	Bendroflumethiazide/ Nadolol	5.000mg + 80.000mg		8000	B-blocker
+376441000033110	318575007	Co-tenidone 50mg/12.5mg tablets	Co-tenidone 50mg/12.5mg tablets	Tablet	Oral	Atenolol/ Chlortalidone	50.000mg + 12.500mg	2040000	2000000	B-blocker
+376541000033111	377211005	Co-tenidone 100mg/25mg tablets	Co-tenidone 100mg/25mg tablets	Tablet	Oral	Atenolol/ Chlortalidone	100.000mg + 25.000mg	2040000	2000000	B-blocker
+376641000033112	318136009	Co-amilofruse 5mg/40mg tablets	Co-amilofruse 5mg/40mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	7000000	Diuretic
+376741000033115	318137000	Co-amilofruse 10mg/80mg tablets	Co-amilofruse 10mg/80mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	10.000mg + 80.000mg	2020400	70000	Diuretic
+376841000033113	318135008	Co-amilofruse 2.5mg/20mg tablets	Co-amilofruse 2.5mg/20mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	2.500mg + 20.000mg	2020400	2000000	Diuretic
+376941000033117	318121006	Co-amilozide 2.5mg/25mg tablets	Co-amilozide 2.5mg/25mg tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	2.500mg + 25.000mg	2020400	600000	Diuretic
+377041000033116	318127005	Co-flumactone 25mg/25mg tablets	Co-flumactone 25mg/25mg tablets	Tablet	Oral	Hydroflumethiazide/ Spironolactone	25.000mg + 25.000mg	2020400	20000	Diuretic
+377141000033117	318128000	Co-flumactone 50mg/50mg tablets	Co-flumactone 50mg/50mg tablets	Tablet	Oral	Hydroflumethiazide/ Spironolactone	50.000mg + 50.000mg	2020400	20000	Diuretic
+377341000033119	36091611000001104	Co-prenozide 160mg/0.25mg modified-release tablets	Co-prenozide 160mg/0.25mg modified-release tablets	Modified-release tablet	Oral	Cyclopenthiazide/ Oxprenolol hydrochloride	250.000microgram + 160.000mg		40000	B-blocker
+395041000033117	317940003	Cyclopenthiazide 500microgram tablets	Cyclopenthiazide 500microgram tablets	Tablet	Oral	Cyclopenthiazide	500.000microgram	2020100	100000	Diuretic
+438441000033119	3895211000001109	Dibenyline 10mg capsules (Mercury Pharma Group Ltd)	Dibenyline 10mg capsules	Capsule	Oral	Phenoxybenzamine hydrochloride	10.000mg		3000	Alpha blocker
+470541000033117	4540011000001102	Diumide-K Continus tablets (Teofarma S.r.l.)	Diumide-K Continus tablets	Modified-release tablet	Oral	Furosemide/ Potassium chloride	40.000mg + 600.000mg		90000	Diuretic
+470741000033113	348911000001105	Diurexan 20mg tablets (Viatris UK Healthcare Ltd)	Diurexan 20mg tablets	Tablet	Oral	Xipamide	20.000mg	2020100	40000	Diuretic
+480541000033110	3354611000001100	Doralese Tiltab 20mg tablets (Chemidex Pharma Ltd)	Doralese Tiltab 20mg tablets	Tablet	Oral	Indoramin hydrochloride	20.000mg	7040100	100000	Alpha blocker
+480641000033111	318781001	Doxazosin 1mg tablets	Doxazosin 1mg tablets	Tablet	Oral	Doxazosin mesilate	1.000mg	7040100	4000000	Alpha blocker
+480741000033119	318782008	Doxazosin 2mg tablets	Doxazosin 2mg tablets	Tablet	Oral	Doxazosin mesilate	2.000mg	7040100	8000000	Alpha blocker
+480841000033112	318783003	Doxazosin 4mg tablets	Doxazosin 4mg tablets	Tablet	Oral	Doxazosin mesilate	4.000mg	7040100	10000000	Alpha blocker
+491741000033113	714911000001108	Dytide capsules (Mercury Pharma Group Ltd)	Dytide capsules	Capsule	Oral	Benzthiazide/ Triamterene	25.000mg + 50.000mg		8000	Diuretic
+492341000033115	132811000001106	Dyazide 50mg/25mg tablets (Advanz Pharma)	Dyazide 50mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Triamterene	25.000mg + 50.000mg	2020400	1000000	Diuretic
+513941000033117	483911000001101	Emcor LS 5mg tablets (Merck Serono Ltd)	Emcor LS 5mg tablets	Tablet	Oral	Bisoprolol fumarate	5.000mg	2040000	40000	B-blocker
+514141000033116	106611000001104	Emcor 10mg tablets (Merck Serono Ltd)	Emcor 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg		40000	B-blocker
+514741000033117	318591005	Bisoprolol 10mg tablets	Bisoprolol 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg	2040000	8000000	B-blocker
+556941000033118	334711000001101	Eucardic 12.5mg tablets (Roche Products Ltd)	Eucardic 12.5mg tablets	Tablet	Oral	Carvedilol	12.500mg		5000	B-blocker
+557041000033117	709911000001107	Eucardic 25mg tablets (Roche Products Ltd)	Eucardic 25mg tablets	Tablet	Oral	Carvedilol	25.000mg		6000	B-blocker
+614341000033113	550711000001106	Frumil LS 20mg/2.5mg tablets (Sanofi)	Frumil LS 20mg/2.5mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	2.500mg + 20.000mg	2020400	300000	Diuretic
+614641000033117	427411000001106	Frumil 40mg/5mg tablets (Sanofi)	Frumil 40mg/5mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	2000000	Diuretic
+615041000033112	25411000001108	Frusene 50mg/40mg tablets (Orion Pharma (UK) Ltd)	Frusene 50mg/40mg tablets	Tablet	Oral	Furosemide/ Triamterene	40.000mg + 50.000mg	2020400	300000	Diuretic
+615141000033111	99311000001108	Frusid 40mg tablets (Dr Reddy's Laboratories (UK) Ltd)	Frusid 40mg tablets	Tablet	Oral	Furosemide	40.000mg		3000	Diuretic
+615241000033116	818511000001106	Fru-Co 5mg/40mg tablets (Teva UK Ltd)	Fru-Co 5mg/40mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	90000	Diuretic
+615541000033119	714311000001107	Froop 40mg tablets (Ashbourne Pharmaceuticals Ltd)	Froop 40mg tablets	Tablet	Oral	Furosemide	40.000mg	2020200	40000	Diuretic
+615641000033118	82611000001106	Frumil Forte 10mg/80mg tablets (Sanofi)	Frumil Forte 10mg/80mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	10.000mg + 80.000mg	2020400	10000	Diuretic
+658241000033117	226211000001106	Half Inderal LA 80mg capsules (AstraZeneca UK Ltd)	Half Inderal LA 80mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	80.000mg		1000000	B-blocker
+660741000033115	724111000001103	Half Beta-Prograne 80mg modified-release capsules (Tillomed Laboratories Ltd)	Half Beta-Prograne 80mg modified-release capsules	Modified-release capsule	Oral	Propranolol hydrochloride	80.000mg	2040000	60000	B-blocker
+742541000033112	4544011000001109	Hydrosaluric 25mg tablets (Organon Pharma (UK) Ltd)	Hydrosaluric 25mg tablets	Tablet	Oral	Hydrochlorothiazide	25.000mg		3000	Diuretic
+742641000033113	4546211000001109	Hydrosaluric 50mg tablets (Organon Pharma (UK) Ltd)	Hydrosaluric 50mg tablets	Tablet	Oral	Hydrochlorothiazide	50.000mg		2000	Diuretic
+742841000033114	285911000001101	Hygroton 50mg tablets (Alliance Pharmaceuticals Ltd)	Hygroton 50mg tablets	Tablet	Oral	Chlortalidone	50.000mg	2020100	50000	Diuretic
+743541000033118	321311000001100	Hypovase 500microgram tablets (Pfizer Ltd)	Hypovase 500microgram tablets	Tablet	Oral	Prazosin hydrochloride	500.000microgram	2060401/ 7040100	40000	Alpha blocker
+743641000033117	347411000001101	Hypovase 1mg tablets (Pfizer Ltd)	Hypovase 1mg tablets	Tablet	Oral	Prazosin hydrochloride	1.000mg	2060401/ 7040100	50000	Alpha blocker
+743741000033114	150911000001104	Hypovase 2mg tablets (Pfizer Ltd)	Hypovase 2mg tablets	Tablet	Oral	Prazosin hydrochloride	2.000mg	2060401/ 7040100	50000	Alpha blocker
+744941000033110	376209006	Hydrochlorothiazide 25mg tablets	Hydrochlorothiazide 25mg tablets	Tablet	Oral	Hydrochlorothiazide	25.000mg		80000	Diuretic
+745041000033110	NA	Hydroflumethiazide Tablets 50 mg							1000	Diuretic
+745441000033118	376508004	Hydrochlorothiazide 50mg tablets	Hydrochlorothiazide 50mg tablets	Tablet	Oral	Hydrochlorothiazide	50.000mg		20000	Diuretic
+745641000033116	3150911000001107	Hytrin 10mg tablets (Advanz Pharma)	Hytrin 10mg tablets	Tablet	Oral	Terazosin hydrochloride	10.000mg	7040100	20000	Alpha blocker
+745741000033113	3147611000001100	Hytrin 2mg tablets (Advanz Pharma)	Hytrin 2mg tablets	Tablet	Oral	Terazosin hydrochloride	2.000mg	7040100	40000	Alpha blocker
+745841000033115	3154311000001103	Hytrin 5mg tablets (Advanz Pharma)	Hytrin 5mg tablets	Tablet	Oral	Terazosin hydrochloride	5.000mg	7040100	30000	Alpha blocker
+756541000033113	154311000001108	Inderal LA 160mg capsules (AstraZeneca UK Ltd)	Inderal LA 160mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	160.000mg		400000	B-blocker
+756641000033114	333111000001104	Inderetic 80mg/2.5mg capsules (AstraZeneca UK Ltd)	Inderetic 80mg/2.5mg capsules	Capsule	Oral	Bendroflumethiazide/ Propranolol hydrochloride	2.500mg + 80.000mg		40000	B-blocker
+756741000033117	350811000001100	Inderex 160mg/5mg modified-release capsules (AstraZeneca UK Ltd)	Inderex 160mg/5mg modified-release capsules	Modified-release capsule	Oral	Bendroflumethiazide/ Propranolol hydrochloride	5.000mg + 160.000mg		40000	B-blocker
+765741000033116	39020711000001104	Indapamide 1.5mg modified-release tablets	Indapamide 1.5mg modified-release tablets	Modified-release tablet	Oral	Indapamide	1.500mg	2020100	6000000	Diuretic
+768441000033115	NA	Indoramin Tablets 25 mg							10000	Alpha blocker
+768541000033119	39696511000001104	Indoramin 20mg tablets	Indoramin 20mg tablets	Tablet	Oral	Indoramin hydrochloride	20.000mg	7040100	900000	Alpha blocker
+768641000033118	39696211000001104	Indapamide 2.5mg tablets	Indapamide 2.5mg tablets	Tablet	Oral	Indapamide hemihydrate	2.500mg	2020100	9000000	Diuretic
+768741000033110	567911000001100	Inderal 10mg tablets (AstraZeneca UK Ltd)	Inderal 10mg tablets	Tablet	Oral	Propranolol hydrochloride	10.000mg		100000	B-blocker
+768841000033117	930211000001107	Inderal 40mg tablets (AstraZeneca UK Ltd)	Inderal 40mg tablets	Tablet	Oral	Propranolol hydrochloride	40.000mg		100000	B-blocker
+768941000033113	821011000001100	Inderal 80mg tablets (AstraZeneca UK Ltd)	Inderal 80mg tablets	Tablet	Oral	Propranolol hydrochloride	80.000mg		40000	B-blocker
+769741000033118	424311000001108	Nindaxa 2.5 tablets (Ashbourne Pharmaceuticals Ltd)	Nindaxa 2.5 tablets	Tablet	Oral	Indapamide hemihydrate	2.500mg	2020100	4000	Diuretic
+769841000033111	39696711000001104	Indoramin 25mg tablets	Indoramin 25mg tablets	Tablet	Oral	Indoramin hydrochloride	25.000mg	2050400	30000	Alpha blocker
+769941000033115	NA	Indoramin Hydrochloride Tablets 50 mg							3000	Alpha blocker
+770141000033115	146811000001108	Innozide 20mg/12.5mg tablets (Organon Pharma (UK) Ltd)	Innozide 20mg/12.5mg tablets	Tablet	Oral	Enalapril maleate/ Hydrochlorothiazide	20.000mg + 12.500mg	2050501	100000	Diuretic
+793741000033117	237011000001100	Kalten capsules (M & A Pharmachem Ltd)	Kalten capsules	Capsule	Oral	Amiloride hydrochloride/ Atenolol/ Hydrochlorothiazide	2.500mg + 50.000mg + 25.000mg	2040000	100000	B-blocker
+796541000033115	3252011000001105	Kalspare tablets (DHP Healthcare Ltd)	Kalspare tablets	Tablet	Oral	Chlortalidone/ Triamterene	50.000mg + 50.000mg	2020400	8000	Diuretic
+808841000033119	3645811000001107	Lasilactone 20mg/50mg capsules (Sanofi)	Lasilactone 20mg/50mg capsules	Capsule	Oral	Furosemide/ Spironolactone	20.000mg + 50.000mg	2020400	90000	Diuretic
+812041000033114	701111000001105	Lasix 5mg/5ml oral solution (Borg Medicare)	Lasix 5mg/5ml oral solution	Oral solution	Oral	Furosemide	1.000mg/1.000ml		2000	Diuretic
+816141000033114	3704811000001105	Lasikal modified-release tablets (Borg Medicare)	Lasikal modified-release tablets	Modified-release tablet	Oral	Furosemide/ Potassium chloride	20.000mg + 750.000mg		60000	Diuretic
+816341000033112	701611000001102	Lasix 20mg tablets (Borg Medicare)	Lasix 20mg tablets	Tablet	Oral	Furosemide	20.000mg	2020200	30000	Diuretic
+816441000033118	79411000001107	Lasix 40mg tablets (Sanofi)	Lasix 40mg tablets	Tablet	Oral	Furosemide	40.000mg	2020200	200000	Diuretic
+816541000033117	829911000001102	Lasix 500mg tablets (Sanofi)	Lasix 500mg tablets	Tablet	Oral	Furosemide	500.000mg	2020200	1000	Diuretic
+818941000033112	678511000001106	Lasoride 5mg/40mg tablets (Sanofi)	Lasoride 5mg/40mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	200000	Diuretic
+850841000033110	756911000001107	Lopresor 100mg tablets (Recordati Pharmaceuticals Ltd)	Lopresor 100mg tablets	Tablet	Oral	Metoprolol tartrate	100.000mg	2040000	30000	B-blocker
+850941000033119	113511000001109	Lopresor 50mg tablets (Recordati Pharmaceuticals Ltd)	Lopresor 50mg tablets	Tablet	Oral	Metoprolol tartrate	50.000mg	2040000	30000	B-blocker
+851041000033112	916111000001108	Lopresor SR 200mg tablets (Recordati Pharmaceuticals Ltd)	Lopresor SR 200mg tablets	Modified-release tablet	Oral	Metoprolol tartrate	200.000mg	2040000	8000	B-blocker
+890741000033112	NA	Metoprolol Fumarate S/r tablets 95 mg							100	B-blocker
+891641000033111	36035411000001104	Metoprolol 200mg modified-release tablets	Metoprolol 200mg modified-release tablets	Modified-release tablet	Oral	Metoprolol tartrate	200.000mg	2040000	80000	B-blocker
+896841000033116	375611000001109	Metenix 5mg tablets (Sanofi)	Metenix 5mg tablets	Tablet	Oral	Metolazone	5.000mg		10000	Diuretic
+897741000033111	318474009	Metoprolol 100mg tablets	Metoprolol 100mg tablets	Tablet	Oral	Metoprolol tartrate	100.000mg	2040000	700000	B-blocker
+897841000033118	318475005	Metoprolol 50mg tablets	Metoprolol 50mg tablets	Tablet	Oral	Metoprolol tartrate	50.000mg	2040000	3000000	B-blocker
+898341000033114	NA	Metolazone Tablets 500 micrograms							2000	Diuretic
+903541000033116	317965001	Metolazone 5mg tablets	Metolazone 5mg tablets	Tablet	Oral	Metolazone	5.000mg	2020100	200000	Diuretic
+903641000033115	NA	Metoprolol Tartrate Tablets 200 mg							4000	B-blocker
+935341000033118	74311000001101	Moducren tablets (Organon Pharma (UK) Ltd)	Moducren tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide/ Timolol maleate	2.500mg + 25.000mg + 10.000mg		90000	B-blocker
+935441000033112	314211000001100	Moduret 25 tablets (Organon Pharma (UK) Ltd)	Moduret 25 tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	2.500mg + 25.000mg	2020400	200000	Diuretic
+935541000033113	453811000001103	Moduretic 5mg/50mg tablets (Merck Sharp & Dohme (UK) Ltd)	Moduretic 5mg/50mg tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide	5.000mg + 50.000mg	2020400	1000000	Diuretic
+937341000033111	4542911000001104	Monozide 10 tablets (Wyeth Pharmaceuticals)	Monozide 10 tablets	Tablet	Oral	Bisoprolol fumarate/ Hydrochlorothiazide	10.000mg + 6.250mg		3000	B-blocker
+939141000033118	349611000001108	Monocor 5mg tablets (Wyeth Pharmaceuticals)	Monocor 5mg tablets	Tablet	Oral	Bisoprolol fumarate	5.000mg		100000	B-blocker
+939241000033113	329611000001106	Monocor 10mg tablets (Wyeth Pharmaceuticals)	Monocor 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg		100000	B-blocker
+953141000033119	456611000001108	Natrilix SR 1.5mg tablets (Servier Laboratories Ltd)	Natrilix SR 1.5mg tablets	Modified-release tablet	Oral	Indapamide	1.500mg	2020100	200000	Diuretic
+955341000033117	321811000001109	Natrilix 2.5mg tablets (Servier Laboratories Ltd)	Natrilix 2.5mg tablets	Tablet	Oral	Indapamide hemihydrate	2.500mg	2020100	400000	Diuretic
+955441000033111	487811000001100	Navidrex 500microgram tablets (Advanz Pharma)	Navidrex 500microgram tablets	Tablet	Oral	Cyclopenthiazide	500.000microgram	2020100	90000	Diuretic
+956341000033113	318480001	Nadolol 40mg tablets	Nadolol 40mg tablets	Tablet	Oral	Nadolol	40.000mg		20000	B-blocker
+956541000033118	318481002	Nadolol 80mg tablets	Nadolol 80mg tablets	Tablet	Oral	Nadolol	80.000mg	2040000	100000	B-blocker
+956741000033114	535711000001100	Navispare 2.5mg/250microgram tablets (Advanz Pharma)	Navispare 2.5mg/250microgram tablets	Tablet	Oral	Amiloride hydrochloride/ Cyclopenthiazide	2.500mg + 250.000microgram	2020400	800000	Diuretic
+965341000033114	817911000001100	Neo-Naclex 5mg tablets (Mercury Pharma Group Ltd)	Neo-Naclex 5mg tablets	Tablet	Oral	Bendroflumethiazide	5.000mg	2020100	30000	Diuretic
+965441000033115	4549211000001100	Nephril 1mg tablets (Pfizer Ltd)	Nephril 1mg tablets	Tablet	Oral	Polythiazide	1.000mg		20000	Diuretic
+967041000033118	3638211000001100	Neo-Naclex-K modified-release tablets (Mercury Pharma Group Ltd)	Neo-Naclex-K modified-release tablets	Modified-release tablet	Oral	Bendroflumethiazide/ Potassium chloride	2.500mg + 630.000mg		100000	Diuretic
+1026041000033118	36023011000001104	Oxprenolol 160mg modified-release tablets	Oxprenolol 160mg modified-release tablets	Modified-release tablet	Oral	Oxprenolol hydrochloride	160.000mg	2040000	100000	B-blocker
+1026141000033119	318483004	Oxprenolol 20mg tablets	Oxprenolol 20mg tablets	Tablet	Oral	Oxprenolol hydrochloride	20.000mg	2040000	50000	B-blocker
+1026241000033114	318484005	Oxprenolol 40mg tablets	Oxprenolol 40mg tablets	Tablet	Oral	Oxprenolol hydrochloride	40.000mg	2040000	100000	B-blocker
+1026341000033116	318485006	Oxprenolol 80mg tablets	Oxprenolol 80mg tablets	Tablet	Oral	Oxprenolol hydrochloride	80.000mg	2040000	80000	B-blocker
+1027241000033112	NA	Oxprenolol Hydrochloride Tablets 160 mg							20000	B-blocker
+1070341000033119	318745004	Phenoxybenzamine 10mg capsules	Phenoxybenzamine 10mg capsules	Capsule	Oral	Phenoxybenzamine hydrochloride	10.000mg	2050400	9000	Alpha blocker
+1091141000033117	318513007	Pindolol 15mg tablets	Pindolol 15mg tablets	Tablet	Oral	Pindolol	15.000mg	2040000	8000	B-blocker
+1091241000033112	318512002	Pindolol 5mg tablets	Pindolol 5mg tablets	Tablet	Oral	Pindolol	5.000mg	2040000	60000	B-blocker
+1110141000033119	317967009	Polythiazide 1mg tablets	Polythiazide 1mg tablets	Tablet	Oral	Polythiazide	1.000mg		10000	Diuretic
+1111441000033118	NA	Propranolol Hydrochloride Capsules 160 mg							20000	B-blocker
+1112341000033115	NA	Propranolol Hydrochloride Capsules 80 mg							20000	B-blocker
+1124041000033116	38751211000001104	Propranolol 160mg modified-release capsules	Propranolol 160mg modified-release capsules	Modified-release capsule	Oral	Propranolol hydrochloride	160.000mg	2040000	2000000	B-blocker
+1125341000033118	35932311000001100	Propranolol 10mg/5ml oral solution sugar free	Propranolol 10mg/5ml oral solution sugar free	Oral solution	Oral	Propranolol hydrochloride	2.000mg/1.000ml	2040000	30000	B-blocker
+1125441000033112	35932811000001104	Propranolol 5mg/5ml oral solution sugar free	Propranolol 5mg/5ml oral solution sugar free	Oral solution	Oral	Propranolol hydrochloride	1.000mg/1.000ml	2040000	20000	B-blocker
+1125541000033113	35932711000001104	Propranolol 50mg/5ml oral solution sugar free	Propranolol 50mg/5ml oral solution sugar free	Oral solution	Oral	Propranolol hydrochloride	10.000mg/1.000ml	2040000	20000	B-blocker
+1128041000033113	NA	Propranolol Hydrochloride M/R tablets 160 mg							40000	B-blocker
+1128141000033112	NA	Prazosin Hydrochloride Starter pack							2000	Alpha blocker
+1128241000033117	NA	Prazosin Hydrochloride Starter pack							4	Alpha blocker
+1130041000033112	38751111000001104	Propranolol 80mg modified-release capsules	Propranolol 80mg modified-release capsules	Modified-release capsule	Oral	Propranolol hydrochloride	80.000mg	2040000	5000000	B-blocker
+1131341000033118	318767003	Prazosin 500microgram tablets	Prazosin 500microgram tablets	Tablet	Oral	Prazosin hydrochloride	500.000microgram	7040100	200000	Alpha blocker
+1131441000033112	318768008	Prazosin 1mg tablets	Prazosin 1mg tablets	Tablet	Oral	Prazosin hydrochloride	1.000mg	7040100	300000	Alpha blocker
+1131541000033113	318769000	Prazosin 2mg tablets	Prazosin 2mg tablets	Tablet	Oral	Prazosin hydrochloride	2.000mg	7040100	200000	Alpha blocker
+1131641000033114	318770004	Prazosin 5mg tablets	Prazosin 5mg tablets	Tablet	Oral	Prazosin hydrochloride	5.000mg	2050400	50000	Alpha blocker
+1132741000033111	98411000001109	Prestim tablets (Meda Pharmaceuticals Ltd)	Prestim tablets	Tablet	Oral	Bendroflumethiazide/ Timolol maleate	2.500mg + 10.000mg	2040000	60000	B-blocker
+1135041000033117	318352004	Propranolol 10mg tablets	Propranolol 10mg tablets	Tablet	Oral	Propranolol hydrochloride	10.000mg	2040000	6000000	B-blocker
+1135141000033118	318355002	Propranolol 160mg tablets	Propranolol 160mg tablets	Tablet	Oral	Propranolol hydrochloride	160.000mg	2040000	60000	B-blocker
+1135241000033113	318353009	Propranolol 40mg tablets	Propranolol 40mg tablets	Tablet	Oral	Propranolol hydrochloride	40.000mg	2040000	9000000	B-blocker
+1135341000033115	318354003	Propranolol 80mg tablets	Propranolol 80mg tablets	Tablet	Oral	Propranolol hydrochloride	80.000mg	2040000	700000	B-blocker
+1268141000033119	632811000001105	Sectral 100mg capsules (Neon Healthcare Ltd)	Sectral 100mg capsules	Capsule	Oral	Acebutolol hydrochloride	100.000mg	2040000	20000	B-blocker
+1268241000033114	925711000001108	Sectral 200mg capsules (Neon Healthcare Ltd)	Sectral 200mg capsules	Capsule	Oral	Acebutolol hydrochloride	200.000mg	2040000	30000	B-blocker
+1274641000033111	878911000001106	Secadrex 200mg/12.5mg tablets (Sanofi)	Secadrex 200mg/12.5mg tablets	Tablet	Oral	Acebutolol hydrochloride/ Hydrochlorothiazide	200.000mg + 12.500mg		20000	B-blocker
+1278241000033118	298111000001105	Sectral 400mg tablets (Neon Healthcare Ltd)	Sectral 400mg tablets	Tablet	Oral	Acebutolol hydrochloride	400.000mg	2040000	20000	B-blocker
+1347441000033114	473011000001107	Slow-Trasicor 160mg tablets (Advanz Pharma)	Slow-Trasicor 160mg tablets	Modified-release tablet	Oral	Oxprenolol hydrochloride	160.000mg	2040000	100000	B-blocker
+1366041000033112	446211000001108	Sotacor 160mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Sotacor 160mg tablets	Tablet	Oral	Sotalol hydrochloride	160.000mg	2040000	20000	B-blocker
+1366141000033111	463811000001109	Sotacor 80mg tablets (Neon Healthcare Ltd)	Sotacor 80mg tablets	Tablet	Oral	Sotalol hydrochloride	80.000mg	2040000	60000	B-blocker
+1367141000033113	318528007	Sotalol 160mg tablets	Sotalol 160mg tablets	Tablet	Oral	Sotalol hydrochloride	160.000mg	2040000	100000	B-blocker
+1367241000033118	318527002	Sotalol 200mg tablets	Sotalol 200mg tablets	Tablet	Oral	Sotalol hydrochloride	200.000mg	2040000	7000	B-blocker
+1367441000033117	318525005	Sotalol 40mg tablets	Sotalol 40mg tablets	Tablet	Oral	Sotalol hydrochloride	40.000mg	2040000	2000000	B-blocker
+1367541000033116	318526006	Sotalol 80mg tablets	Sotalol 80mg tablets	Tablet	Oral	Sotalol hydrochloride	80.000mg	2040000	2000000	B-blocker
+1368341000033110	NA	Spironolactone Capsules 100 mg							10000	Spironolactone 
+1371041000033112	8726511000001109	Spironolactone 25mg/5ml oral suspension	Spironolactone 25mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	5.000mg/1.000ml		20000	Spironolactone 
+1371141000033111	8726311000001103	Spironolactone 5mg/5ml oral suspension	Spironolactone 5mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	1.000mg/1.000ml		8000	Spironolactone 
+1371241000033116	8727311000001100	Spironolactone 10mg/5ml oral suspension	Spironolactone 10mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	2.000mg/1.000ml		8000	Spironolactone 
+1371341000033114	8726411000001105	Spironolactone 50mg/5ml oral suspension	Spironolactone 50mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	10.000mg/1.000ml		20000	Spironolactone 
+1374141000033113	318058009	Spironolactone 100mg tablets	Spironolactone 100mg tablets	Tablet	Oral	Spironolactone	100.000mg	2020300	1000000	Spironolactone 
+1374241000033118	318056008	Spironolactone 25mg tablets	Spironolactone 25mg tablets	Tablet	Oral	Spironolactone	25.000mg	2020300	8000000	Spironolactone 
+1374341000033111	318057004	Spironolactone 50mg tablets	Spironolactone 50mg tablets	Tablet	Oral	Spironolactone	50.000mg	2020300	2000000	Spironolactone 
+1374541000033116	3411000001104	Spirospare 100 tablets (Ashbourne Pharmaceuticals Ltd)	Spirospare 100 tablets	Tablet	Oral	Spironolactone	100.000mg	2020300	1000	Spironolactone 
+1414241000033117	721411000001106	Tenben 25mg/1.25mg capsules (Galen Ltd)	Tenben 25mg/1.25mg capsules	Capsule	Oral	Atenolol/ Bendroflumethiazide	25.000mg + 1.250mg		20000	B-blocker
+1414941000033114	3142511000001102	Tenif 50mg/20mg modified-release capsules (AstraZeneca UK Ltd)	Tenif 50mg/20mg modified-release capsules	Modified-release capsule	Oral	Atenolol/ Nifedipine	50.000mg + 20.000mg	2040000	300000	B-blocker
+1423641000033114	35915811000001104	Terazosin 2mg tablets and Terazosin 1mg tablets	Terazosin 2mg tablets and Terazosin 1mg tablets	Not applicable	Route of administration not applicable			2050400	6000	Alpha blocker
+1423741000033117	NA	Terazosin Hydrochloride Starter pack 7 x 1 mg, 7 x 2 mg							300	Alpha blocker
+1423841000033110	NA	Terazosin Hydrochloride Starter pack 7 x 1 mg, 14 x 2 mg, 7 x 5 mg							3000	Alpha blocker
+1424541000033110	373311000001100	Tenormin 25mg/5ml syrup (AstraZeneca UK Ltd)	Tenormin 25mg/5ml syrup	Oral solution	Oral	Atenolol	5.000mg/1.000ml	2040000	7000	B-blocker
+1425341000033119	318779003	Terazosin 2mg tablets	Terazosin 2mg tablets	Tablet	Oral	Terazosin hydrochloride	2.000mg	7040100	200000	Alpha blocker
+1425441000033113	439411000001104	Tenchlor 50mg/12.5mg tablets (Teva UK Ltd)	Tenchlor 50mg/12.5mg tablets	Tablet	Oral	Atenolol/ Chlortalidone	50.000mg + 12.500mg		1000	B-blocker
+1425541000033114	298311000001107	Tenchlor 100mg/25mg tablets (Teva UK Ltd)	Tenchlor 100mg/25mg tablets	Tablet	Oral	Atenolol/ Chlortalidone	100.000mg + 25.000mg		2000	B-blocker
+1426241000033117	825011000001103	Tenoret 50mg/12.5mg tablets (AstraZeneca UK Ltd)	Tenoret 50mg/12.5mg tablets	Tablet	Oral	Atenolol/ Chlortalidone	50.000mg + 12.500mg	2040000	600000	B-blocker
+1426341000033110	288711000001105	Tenoretic 100mg/25mg tablets (AstraZeneca UK Ltd)	Tenoretic 100mg/25mg tablets	Tablet	Oral	Atenolol/ Chlortalidone	100.000mg + 25.000mg	2040000	1000000	B-blocker
+1426441000033116	162411000001102	Tenormin 100mg tablets (AstraZeneca UK Ltd)	Tenormin 100mg tablets	Tablet	Oral	Atenolol	100.000mg	2040000	500000	B-blocker
+1426541000033115	423911000001107	Tenormin LS 50mg tablets (AstraZeneca UK Ltd)	Tenormin LS 50mg tablets	Tablet	Oral	Atenolol	50.000mg	2040000	700000	B-blocker
+1428741000033112	317111000001101	Tenormin 25mg tablets (AstraZeneca UK Ltd)	Tenormin 25mg tablets	Tablet	Oral	Atenolol	25.000mg	2040000	200000	B-blocker
+1429041000033118	318777001	Terazosin 10mg tablets	Terazosin 10mg tablets	Tablet	Oral	Terazosin hydrochloride	10.000mg	7040100	100000	Alpha blocker
+1429141000033119	318776005	Terazosin 5mg tablets	Terazosin 5mg tablets	Tablet	Oral	Terazosin hydrochloride	5.000mg	7040100	300000	Alpha blocker
+1444541000033113	318534000	Timolol 10mg tablets	Timolol 10mg tablets	Tablet	Oral	Timolol maleate	10.000mg	2040000	200000	B-blocker
+1449841000033111	3700811000001100	Torem 10mg tablets (Viatris UK Healthcare Ltd)	Torem 10mg tablets	Tablet	Oral	Torasemide	10.000mg	2020200	2000	Diuretic
+1449941000033115	3699711000001107	Torem 2.5mg tablets (Viatris UK Healthcare Ltd)	Torem 2.5mg tablets	Tablet	Oral	Torasemide	2.500mg	2020200	2000	Diuretic
+1450041000033112	3700311000001109	Torem 5mg tablets (Viatris UK Healthcare Ltd)	Torem 5mg tablets	Tablet	Oral	Torasemide	5.000mg	2020200	7000	Diuretic
+1450141000033111	318042006	Torasemide 10mg tablets	Torasemide 10mg tablets	Tablet	Oral	Torasemide	10.000mg	2020200	50000	Diuretic
+1450241000033116	318040003	Torasemide 2.5mg tablets	Torasemide 2.5mg tablets	Tablet	Oral	Torasemide	2.500mg	2020200	30000	Diuretic
+1450341000033114	318041004	Torasemide 5mg tablets	Torasemide 5mg tablets	Tablet	Oral	Torasemide	5.000mg	2020200	70000	Diuretic
+1468141000033118	721311000001104	Triamaxco 50mg/25mg tablets (Ashbourne Pharmaceuticals Ltd)	Triamaxco 50mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Triamterene	25.000mg + 50.000mg	2020400	10000	Diuretic
+1469641000033119	3379011000001106	Trasicor 20mg tablets (Amdipharm Plc)	Trasicor 20mg tablets	Tablet	Oral	Oxprenolol hydrochloride	20.000mg		20000	B-blocker
+1469741000033111	592911000001104	Trasicor 40mg tablets (Amdipharm Plc)	Trasicor 40mg tablets	Tablet	Oral	Oxprenolol hydrochloride	40.000mg		60000	B-blocker
+1469841000033118	568511000001106	Trasicor 80mg tablets (Amdipharm Plc)	Trasicor 80mg tablets	Tablet	Oral	Oxprenolol hydrochloride	80.000mg		40000	B-blocker
+1469941000033114	3444411000001107	Trasidrex modified-release tablets (Mercury Pharma Group Ltd)	Trasidrex modified-release tablets	Modified-release tablet	Oral	Cyclopenthiazide/ Oxprenolol hydrochloride	250.000microgram + 160.000mg		100000	B-blocker
+1470341000033112	191211000001106	Triam-Co 50mg/25mg tablets (IVAX Pharmaceuticals UK Ltd)	Triam-Co 50mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Triamterene	25.000mg + 50.000mg	2020400	30000	Diuretic
+1495441000033116	898211000001109	Urizide 5mg tablets (Dr Reddy's Laboratories (UK) Ltd)	Urizide 5mg tablets	Tablet	Oral	Bendroflumethiazide	5.000mg		1	Diuretic
+1523941000033114	3638411000001101	Viskaldix tablets (Advanz Pharma)	Viskaldix tablets	Tablet	Oral	Clopamide/ Pindolol	5.000mg + 10.000mg	2040000	40000	B-blocker
+1524041000033111	3706111000001105	Visken 5mg tablets (Advanz Pharma)	Visken 5mg tablets	Tablet	Oral	Pindolol	5.000mg	2040000	6000	B-blocker
+1525141000033111	3887411000001101	Visken 15mg tablets (Advanz Pharma)	Visken 15mg tablets	Tablet	Oral	Pindolol	15.000mg	2040000	2000	B-blocker
+1543941000033111	317970008	Xipamide 20mg tablets	Xipamide 20mg tablets	Tablet	Oral	Xipamide	20.000mg	2020100	70000	Diuretic
+1551841000033118	3144311000001101	Zestoretic 10 tablets (AstraZeneca UK Ltd)	Zestoretic 10 tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	2050501	100000	Diuretic
+1552341000033118	3143111000001100	Zestoretic 20 tablets (AstraZeneca UK Ltd)	Zestoretic 20 tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	2050501	300000	Diuretic
+1581241000033110	318633000	Carvedilol 3.125mg tablets	Carvedilol 3.125mg tablets	Tablet	Oral	Carvedilol	3.125mg	2040000	600000	B-blocker
+1581341000033117	318635007	Carvedilol 6.25mg tablets	Carvedilol 6.25mg tablets	Tablet	Oral	Carvedilol	6.250mg	2040000	600000	B-blocker
+1608941000033115	873111000001104	Eucardic 3.125mg tablets (Roche Products Ltd)	Eucardic 3.125mg tablets	Tablet	Oral	Carvedilol	3.125mg		3000	B-blocker
+1609041000033112	690511000001101	Eucardic 6.25mg tablets (Roche Products Ltd)	Eucardic 6.25mg tablets	Tablet	Oral	Carvedilol	6.250mg		3000	B-blocker
+1611441000033117	331311000001103	Froop Co 5mg/40mg tablets (Ashbourne Pharmaceuticals Ltd)	Froop Co 5mg/40mg tablets	Tablet	Oral	Amiloride hydrochloride/ Furosemide	5.000mg + 40.000mg	2020400	2000	Diuretic
+1731541000033115	602811000001100	Frusol 20mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Frusol 20mg/5ml oral solution	Oral solution	Oral	Furosemide	4.000mg/1.000ml	2020200	7000	Diuretic
+1731641000033119	494811000001105	Frusol 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Frusol 40mg/5ml oral solution	Oral solution	Oral/ Gastroenteral	Furosemide	8.000mg/1.000ml	2020200	20000	Diuretic
+1731741000033111	855611000001109	Frusol 50mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Frusol 50mg/5ml oral solution	Oral solution	Oral	Furosemide	10.000mg/1.000ml	2020200	4000	Diuretic
+1750241000033113	8672711000001106	Propranolol 40mg/5ml oral solution	Propranolol 40mg/5ml oral solution	Oral solution	Oral	Propranolol hydrochloride	8.000mg/1.000ml		4000	B-blocker
+1796041000033113	39701211000001104	Nebivolol 5mg tablets	Nebivolol 5mg tablets	Tablet	Oral	Nebivolol hydrochloride	5.000mg	2040000	2000000	B-blocker
+1796141000033112	726011000001109	Nebilet 5mg tablets (A. Menarini Farmaceutica Internazionale SRL)	Nebilet 5mg tablets	Tablet	Oral	Nebivolol hydrochloride	5.000mg	2040000	50000	B-blocker
+1893141000033119	318806002	Co-zidocapt 12.5mg/25mg tablets	Co-zidocapt 12.5mg/25mg tablets	Tablet	Oral	Captopril/ Hydrochlorothiazide	25.000mg + 12.500mg	2050501	3000	Diuretic
+1893241000033114	318807006	Co-zidocapt 25mg/50mg tablets	Co-zidocapt 25mg/50mg tablets	Tablet	Oral	Captopril/ Hydrochlorothiazide	50.000mg + 25.000mg	2050501	30000	Diuretic
+1903541000033116	318096005	Amiloride 2.5mg / Cyclopenthiazide 250microgram tablets	Amiloride 2.5mg / Cyclopenthiazide 250microgram tablets	Tablet	Oral	Amiloride hydrochloride/ Cyclopenthiazide	2.500mg + 250.000microgram	2020400	200000	Diuretic
+1951641000033111	318604001	Bisoprolol 1.25mg tablets	Bisoprolol 1.25mg tablets	Tablet	Oral	Bisoprolol fumarate	1.250mg	2040000	10000000	B-blocker
+1951741000033119	318605000	Bisoprolol 2.5mg tablets	Bisoprolol 2.5mg tablets	Tablet	Oral	Bisoprolol fumarate	2.500mg	2040000	20000000	B-blocker
+1951841000033112	318606004	Bisoprolol 3.75mg tablets	Bisoprolol 3.75mg tablets	Tablet	Oral	Bisoprolol fumarate	3.750mg	2040000	2000000	B-blocker
+1951941000033116	318607008	Bisoprolol 7.5mg tablets	Bisoprolol 7.5mg tablets	Tablet	Oral	Bisoprolol fumarate	7.500mg	2040000	2000000	B-blocker
+1952241000033119	712511000001106	Cardicor 1.25mg tablets (Merck Serono Ltd)	Cardicor 1.25mg tablets	Tablet	Oral	Bisoprolol fumarate	1.250mg	2040000	30000	B-blocker
+1952341000033112	628711000001102	Cardicor 2.5mg tablets (Merck Serono Ltd)	Cardicor 2.5mg tablets	Tablet	Oral	Bisoprolol fumarate	2.500mg	2040000	100000	B-blocker
+1952441000033118	823111000001103	Cardicor 3.75mg tablets (Merck Serono Ltd)	Cardicor 3.75mg tablets	Tablet	Oral	Bisoprolol fumarate	3.750mg	2040000	9000	B-blocker
+1952541000033117	19711000001106	Cardicor 5mg tablets (Merck Serono Ltd)	Cardicor 5mg tablets	Tablet	Oral	Bisoprolol fumarate	5.000mg	2040000	30000	B-blocker
+1952641000033116	404511000001105	Cardicor 7.5mg tablets (Merck Serono Ltd)	Cardicor 7.5mg tablets	Tablet	Oral	Bisoprolol fumarate	7.500mg	2040000	7000	B-blocker
+1952741000033113	890111000001100	Cardicor 10mg tablets (Merck Serono Ltd)	Cardicor 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg	2040000	10000	B-blocker
+2011541000033114	8727611000001105	Spironolactone 100mg/5ml oral suspension	Spironolactone 100mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	20.000mg/1.000ml		2000	Spironolactone 
+2216141000033115	792411000001108	CoAprovel 150mg/12.5mg tablets (Sanofi)	CoAprovel 150mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Irbesartan	12.500mg + 150.000mg	2050502	60000	Diuretic
+2216241000033110	682711000001109	CoAprovel 300mg/12.5mg tablets (Sanofi)	CoAprovel 300mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Irbesartan	12.500mg + 300.000mg	2050502	80000	Diuretic
+2267441000033110	295911000001102	Syprol 5mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Syprol 5mg/5ml oral solution	Oral solution	Oral	Propranolol hydrochloride	1.000mg/1.000ml	2040000	800	B-blocker
+2267541000033111	28711000001109	Syprol 10mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Syprol 10mg/5ml oral solution	Oral solution	Oral	Propranolol hydrochloride	2.000mg/1.000ml	2040000	700	B-blocker
+2267641000033112	823311000001101	Syprol 50mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Syprol 50mg/5ml oral solution	Oral solution	Oral	Propranolol hydrochloride	10.000mg/1.000ml	2040000	600	B-blocker
+2273841000033111	39020411000001104	Doxazosin 4mg modified-release tablets	Doxazosin 4mg modified-release tablets	Modified-release tablet	Oral	Doxazosin mesilate	4.000mg	7040100	3000000	Alpha blocker
+2273941000033115	39021111000001104	Doxazosin 8mg modified-release tablets	Doxazosin 8mg modified-release tablets	Modified-release tablet	Oral	Doxazosin mesilate	8.000mg	7040100	3000000	Alpha blocker
+2274041000033118	123911000001106	Cardura XL 4mg tablets (Viatris UK Healthcare Ltd)	Cardura XL 4mg tablets	Modified-release tablet	Oral	Doxazosin mesilate	4.000mg	7040100	200000	Alpha blocker
+2274141000033119	873411000001109	Cardura XL 8mg tablets (Viatris UK Healthcare Ltd)	Cardura XL 8mg tablets	Modified-release tablet	Oral	Doxazosin mesilate	8.000mg	7040100	100000	Alpha blocker
+2616041000033116	8668211000001107	Metoprolol 12.5mg/5ml oral solution	Metoprolol 12.5mg/5ml oral solution	Oral solution	Oral	Metoprolol tartrate	2.500mg/1.000ml		6000	B-blocker
+2638041000033110	501211000001103	Bipranix 5mg tablets (Ashbourne Pharmaceuticals Ltd)	Bipranix 5mg tablets	Tablet	Oral	Bisoprolol fumarate	5.000mg	2040000	100	B-blocker
+2638141000033114	405411000001107	Bipranix 10mg tablets (Ashbourne Pharmaceuticals Ltd)	Bipranix 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg	2040000	50	B-blocker
+2711841000033114	573711000001104	Bedranol SR 80mg capsules (Sandoz Ltd)	Bedranol SR 80mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	80.000mg	2040000	10000	B-blocker
+2739541000033117	562511000001109	Coversyl Plus tablets (Servier Laboratories Ltd)	Coversyl Plus tablets	Tablet	Oral	Indapamide/ Perindopril erbumine	1.250mg + 4.000mg	2050501	50000	Diuretic
+2746441000033111	8529611000001101	Hydrochlorothiazide 50mg/5ml oral solution	Hydrochlorothiazide 50mg/5ml oral solution	Oral solution	Oral	Hydrochlorothiazide	10.000mg/1.000ml		300	Diuretic
+2757941000033118	8671511000001109	Phenoxybenzamine 25mg/5ml oral suspension	Phenoxybenzamine 25mg/5ml oral suspension	Oral suspension	Oral	Phenoxybenzamine hydrochloride	5.000mg/1.000ml		4	Alpha blocker
+2760041000033110	904511000001107	Cascor 2mg tablets (Ranbaxy (UK) Ltd)	Cascor 2mg tablets	Tablet	Oral	Doxazosin mesilate	2.000mg		600	Alpha blocker
+2760141000033114	179311000001107	Cascor 4mg tablets (Ranbaxy (UK) Ltd)	Cascor 4mg tablets	Tablet	Oral	Doxazosin mesilate	4.000mg		1000	Alpha blocker
+2802041000033113	544711000001103	Soloc 10mg tablets (Mercury Pharma Group Ltd)	Soloc 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg	2040000	1	B-blocker
+2839841000033118	2899211000001100	Rapranol SR 160mg capsules (Ranbaxy (UK) Ltd)	Rapranol SR 160mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	160.000mg		2000	B-blocker
+2839941000033114	2899011000001105	Rapranol SR 80mg capsules (Ranbaxy (UK) Ltd)	Rapranol SR 80mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	80.000mg		4000	B-blocker
+2864241000033110	3806311000001109	MicardisPlus 40mg/12.5mg tablets (Boehringer Ingelheim Ltd)	MicardisPlus 40mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 40.000mg	2050502	20000	Diuretic
+2864341000033117	3806911000001105	MicardisPlus 80mg/12.5mg tablets (Boehringer Ingelheim Ltd)	MicardisPlus 80mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 80.000mg	2050502	30000	Diuretic
+2866041000033110	9105811000001100	Vivacor 5mg tablets (Lexon (UK) Ltd)	Vivacor 5mg tablets	Tablet	Oral	Bisoprolol fumarate	5.000mg	2040000	10	B-blocker
+2866141000033114	9739311000001104	Vivacor 10mg tablets (Lexon (UK) Ltd)	Vivacor 10mg tablets	Tablet	Oral	Bisoprolol fumarate	10.000mg	2040000	10	B-blocker
+2929141000033117	240711000001100	Slo-Pro 160mg capsules (Viatris UK Healthcare Ltd)	Slo-Pro 160mg capsules	Modified-release capsule	Oral	Propranolol hydrochloride	160.000mg	2040000	1	B-blocker
+2955941000033119	485311000001101	Urizide 2.5mg tablets (Dr Reddy's Laboratories (UK) Ltd)	Urizide 2.5mg tablets	Tablet	Oral	Bendroflumethiazide	2.500mg		3	Diuretic
+2957941000033110	4857511000001108	Doxadura 1mg tablets (Dexcel-Pharma Ltd)	Doxadura 1mg tablets	Tablet	Oral	Doxazosin mesilate	1.000mg	7040100	30000	Alpha blocker
+2958041000033113	4857711000001103	Doxadura 2mg tablets (Dexcel-Pharma Ltd)	Doxadura 2mg tablets	Tablet	Oral	Doxazosin mesilate	2.000mg	7040100	50000	Alpha blocker
+2958141000033112	4858111000001103	Doxadura 4mg tablets (Dexcel-Pharma Ltd)	Doxadura 4mg tablets	Tablet	Oral	Doxazosin mesilate	4.000mg	7040100	100000	Alpha blocker
+3083141000033112	317919004	Bendroflumethiazide 2.5mg tablets	Bendroflumethiazide 2.5mg tablets	Tablet	Oral	Bendroflumethiazide	2.500mg	2020100	90000000	Diuretic
+3083241000033117	317920005	Bendroflumethiazide 5mg tablets	Bendroflumethiazide 5mg tablets	Tablet	Oral	Bendroflumethiazide	5.000mg	2020100	6000000	Diuretic
+3086241000033111	317935006	Chlortalidone 50mg tablets	Chlortalidone 50mg tablets	Tablet	Oral	Chlortalidone	50.000mg	2020100	300000	Diuretic
+3091941000033111	39108611000001104	Furosemide 20mg/5ml oral solution sugar free	Furosemide 20mg/5ml oral solution sugar free	Oral solution	Oral	Furosemide	4.000mg/1.000ml	2020200	80000	Diuretic
+3092041000033117	39021211000001104	Furosemide 40mg/5ml oral solution sugar free	Furosemide 40mg/5ml oral solution sugar free	Oral solution	Gastroenteral/ Oral	Furosemide	8.000mg/1.000ml	2020200	100000	Diuretic
+3092141000033118	36564411000001104	Furosemide 50mg/5ml oral solution sugar free	Furosemide 50mg/5ml oral solution sugar free	Oral solution	Oral	Furosemide	10.000mg/1.000ml	2020200	80000	Diuretic
+3092241000033113	317971007	Furosemide 20mg tablets	Furosemide 20mg tablets	Tablet	Oral	Furosemide	20.000mg	2020200	20000000	Diuretic
+3092341000033115	317972000	Furosemide 40mg tablets	Furosemide 40mg tablets	Tablet	Oral	Furosemide	40.000mg	2020200	50000000	Diuretic
+3092441000033114	317973005	Furosemide 500mg tablets	Furosemide 500mg tablets	Tablet	Oral	Furosemide	500.000mg	2020200	200000	Diuretic
+3092741000033119	318101005	Triamterene 50mg / Furosemide 40mg tablets	Triamterene 50mg / Furosemide 40mg tablets	Tablet	Oral	Furosemide/ Triamterene	40.000mg + 50.000mg	2020400	60000	Diuretic
+3136041000033117	7385911000001108	Caralpha 10mg/12.5mg tablets (Actavis UK Ltd)	Caralpha 10mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg		6	Diuretic
+3136141000033118	7385711000001106	Caralpha 20mg/12.5mg tablets (Actavis UK Ltd)	Caralpha 20mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg		8	Diuretic
+3151841000033117	8306811000001101	Bendroflumethiazide 2.5mg/5ml oral suspension	Bendroflumethiazide 2.5mg/5ml oral suspension	Oral suspension	Oral	Bendroflumethiazide	500.000microgram/1.000ml		10000	Diuretic
+3152541000033112	7668611000001104	Co-Diovan 160mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd)	Co-Diovan 160mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Valsartan	12.500mg + 160.000mg	2050502	10000	Diuretic
+3152641000033113	7668911000001105	Co-Diovan 160mg/25mg tablets (Novartis Pharmaceuticals UK Ltd)	Co-Diovan 160mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Valsartan	25.000mg + 160.000mg	2050502	7000	Diuretic
+3160641000033118	39693411000001104	Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets	Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Quinapril hydrochloride	12.500mg + 10.000mg	2050501	20000	Diuretic
+3160841000033117	318884002	Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets	Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	2050501	300000	Diuretic
+3160941000033113	318880006	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	2050501	800000	Diuretic
+3161041000033115	35910011000001104	Bendroflumethiazide 2.5mg / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets	Bendroflumethiazide 2.5mg / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets	Modified-release tablet	Oral	Bendroflumethiazide/ Potassium chloride	2.500mg + 573.000mg		2000	Diuretic
+3161141000033116	134461004	Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets	Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Irbesartan	12.500mg + 150.000mg	2050502	200000	Diuretic
+3161241000033111	134460003	Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets	Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Irbesartan	12.500mg + 300.000mg	2050502	400000	Diuretic
+3161341000033118	318546001	Metoprolol 100mg / Hydrochlorothiazide 12.5mg tablets	Metoprolol 100mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Metoprolol tartrate	12.500mg + 100.000mg		4000	B-blocker
+3161441000033112	395521005	Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets	Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Valsartan	12.500mg + 160.000mg	2050502	200000	Diuretic
+3161541000033113	409298002	Valsartan 160mg / Hydrochlorothiazide 25mg tablets	Valsartan 160mg / Hydrochlorothiazide 25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Valsartan	25.000mg + 160.000mg	2050502	80000	Diuretic
+3161641000033114	3437611000001100	Perindopril erbumine 4mg / Indapamide 1.25mg tablets	Perindopril erbumine 4mg / Indapamide 1.25mg tablets	Tablet	Oral	Indapamide/ Perindopril erbumine	1.250mg + 4.000mg	2050501	300000	Diuretic
+3161741000033117	318959004	Losartan 50mg / Hydrochlorothiazide 12.5mg tablets	Losartan 50mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Losartan potassium	12.500mg + 50.000mg	2050502	400000	Diuretic
+3161841000033110	4557711000001102	Furosemide 40mg / Potassium chloride 600mg (potassium 8mmol) modified-release tablets	Furosemide 40mg / Potassium chloride 600mg (potassium 8mmol) modified-release tablets	Modified-release tablet	Oral	Furosemide/ Potassium chloride	40.000mg + 600.000mg		6000	Diuretic
+3161941000033119	318098006	Triamterene 50mg / Benzthiazide 25mg capsules	Triamterene 50mg / Benzthiazide 25mg capsules	Capsule	Oral	Benzthiazide/ Triamterene	25.000mg + 50.000mg		700	Diuretic
+3162241000033117	39691911000001112	Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets	Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Enalapril maleate/ Hydrochlorothiazide	20.000mg + 12.500mg	2050501	80000	Diuretic
+3162341000033110	318100006	Triamterene 50mg / Chlortalidone 50mg tablets	Triamterene 50mg / Chlortalidone 50mg tablets	Tablet	Oral	Chlortalidone/ Triamterene	50.000mg + 50.000mg	2020400	4000	Diuretic
+3162441000033116	36061311000001112	Furosemide 20mg / Potassium chloride 750mg (potassium 10mmol) modified-release tablets	Furosemide 20mg / Potassium chloride 750mg (potassium 10mmol) modified-release tablets	Modified-release tablet	Oral	Furosemide/ Potassium chloride	20.000mg + 750.000mg		5000	Diuretic
+3162541000033115	318102003	Spironolactone 50mg / Furosemide 20mg capsules	Spironolactone 50mg / Furosemide 20mg capsules	Capsule	Oral	Furosemide/ Spironolactone	20.000mg + 50.000mg	2020400	20000	Diuretic
+3162641000033119	407855002	Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets	Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 40.000mg	2050502	90000	Diuretic
+3162741000033111	407856001	Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets	Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 80.000mg	2050502	100000	Diuretic
+3162841000033118	35910111000001104	Bendroflumethiazide 2.5mg / Potassium chloride 630mg (potassium 8.4mmol) modified-release tablets	Bendroflumethiazide 2.5mg / Potassium chloride 630mg (potassium 8.4mmol) modified-release tablets	Modified-release tablet	Oral	Bendroflumethiazide/ Potassium chloride	2.500mg + 630.000mg		10000	Diuretic
+3162941000033114	39725011000001104	Acebutolol 200mg / Hydrochlorothiazide 12.5mg tablets	Acebutolol 200mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Acebutolol hydrochloride/ Hydrochlorothiazide	200.000mg + 12.500mg		500	B-blocker
+3163141000033117	318552000	Pindolol 10mg / Clopamide 5mg tablets	Pindolol 10mg / Clopamide 5mg tablets	Tablet	Oral	Clopamide/ Pindolol	5.000mg + 10.000mg	2040000	6000	B-blocker
+3190741000033112	377488008	Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets	Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Valsartan	12.500mg + 80.000mg	2050502	100000	Diuretic
+3190841000033119	8150111000001108	Co-Diovan 80mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd)	Co-Diovan 80mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Valsartan	12.500mg + 80.000mg	2050502	10000	Diuretic
+3246941000033118	35903311000001104	Atenolol 50mg / Nifedipine 20mg modified-release capsules	Atenolol 50mg / Nifedipine 20mg modified-release capsules	Modified-release capsule	Oral	Atenolol/ Nifedipine	50.000mg + 20.000mg	2040000	50000	B-blocker
+3279541000033115	8145711000001102	Lisicostad 10mg/12.5mg tablets (Genus Pharmaceuticals Ltd)	Lisicostad 10mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	2050501	20	Diuretic
+3279641000033119	8145911000001100	Lisicostad 20mg/12.5mg tablets (Genus Pharmaceuticals Ltd)	Lisicostad 20mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	2050501	3	Diuretic
+3346641000033118	318556002	Timolol 10mg / Bendroflumethiazide 2.5mg tablets	Timolol 10mg / Bendroflumethiazide 2.5mg tablets	Tablet	Oral	Bendroflumethiazide/ Timolol maleate	2.500mg + 10.000mg	2040000	6000	B-blocker
+3346841000033117	395497004	Losartan 100mg / Hydrochlorothiazide 25mg tablets	Losartan 100mg / Hydrochlorothiazide 25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Losartan potassium	25.000mg + 100.000mg		300000	Diuretic
+3346941000033113	9566911000001104	Cozaar-Comp 100mg/25mg tablets (Organon Pharma (UK) Ltd)	Cozaar-Comp 100mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Losartan potassium	25.000mg + 100.000mg		20000	Diuretic
+3908941000033112	409184002	Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets	Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Olmesartan medoxomil	12.500mg + 20.000mg	2050502	60000	Diuretic
+3909041000033115	10270711000001104	Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets	Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Olmesartan medoxomil	25.000mg + 20.000mg	2050502	20000	Diuretic
+3909141000033116	10261511000001104	Olmetec Plus 20mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Olmetec Plus 20mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Olmesartan medoxomil	12.500mg + 20.000mg	2050502	6000	Diuretic
+3909241000033111	10261811000001100	Olmetec Plus 20mg/25mg tablets (Daiichi Sankyo UK Ltd)	Olmetec Plus 20mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Olmesartan medoxomil	25.000mg + 20.000mg	2050502	2000	Diuretic
+3924141000033111	12502311000001102	Chlorothiazide 200mg/5ml oral suspension	Chlorothiazide 200mg/5ml oral suspension	Oral suspension	Oral	Chlorothiazide	40.000mg/1.000ml		1000	Diuretic
+3924941000033113	13893411000001108	Furosemide 5mg/5ml oral solution	Furosemide 5mg/5ml oral solution	Oral solution	Oral	Furosemide	1.000mg/1.000ml		3000	Diuretic
+3940141000033116	NA	Phenoxybenzamine Hydrochloride Capsules 8 mg							1	Alpha blocker
+3953441000033116	8726811000001107	Sotalol 25mg/5ml oral solution	Sotalol 25mg/5ml oral solution	Oral solution	Oral	Sotalol hydrochloride	5.000mg/1.000ml		900	B-blocker
+3984541000033111	10241311000001102	Congescor 1.25mg tablets (Tillomed Laboratories Ltd)	Congescor 1.25mg tablets	Tablet	Oral	Bisoprolol fumarate	1.250mg		1000	B-blocker
+3984641000033112	10241511000001108	Congescor 2.5mg tablets (Tillomed Laboratories Ltd)	Congescor 2.5mg tablets	Tablet	Oral	Bisoprolol fumarate	2.500mg		4000	B-blocker
+3995241000033112	10970311000001104	Irbesartan 300mg / Hydrochlorothiazide 25mg tablets	Irbesartan 300mg / Hydrochlorothiazide 25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Irbesartan	25.000mg + 300.000mg		50000	Diuretic
+3995341000033119	10968611000001106	CoAprovel 300mg/25mg tablets (Sanofi)	CoAprovel 300mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Irbesartan	25.000mg + 300.000mg		6000	Diuretic
+4021141000033118	11098311000001104	Slocinx XL 4mg tablets (Zentiva Pharma UK Ltd)	Slocinx XL 4mg tablets	Modified-release tablet	Oral	Doxazosin mesilate	4.000mg		500	Alpha blocker
+4063741000033112	11269911000001100	Doxadura XL 4mg tablets (Dexcel-Pharma Ltd)	Doxadura XL 4mg tablets	Modified-release tablet	Oral	Doxazosin mesilate	4.000mg		9000	Alpha blocker
+4267141000033111	14159111000001100	Bisoprolol 7.5mg/5ml oral suspension	Bisoprolol 7.5mg/5ml oral suspension	Oral suspension	Oral	Bisoprolol fumarate	1.500mg/1.000ml		300	B-blocker
+4288341000033111	11812211000001104	Oxandosin XL 4mg tablets (Ratiopharm UK Ltd)	Oxandosin XL 4mg tablets	Modified-release tablet	Oral	Doxazosin mesilate	4.000mg		9	Alpha blocker
+4424741000033110	13112711000001104	Losartan 100mg / Hydrochlorothiazide 12.5mg tablets	Losartan 100mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Losartan potassium	12.500mg + 100.000mg		100000	Diuretic
+4424841000033117	13094111000001102	Cozaar-Comp 100mg/12.5mg tablets (Organon Pharma (UK) Ltd)	Cozaar-Comp 100mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Losartan potassium	12.500mg + 100.000mg		5000	Diuretic
+4432941000033119	8483411000001101	Doxazosin 1mg/5ml oral suspension	Doxazosin 1mg/5ml oral suspension	Oral suspension	Oral	Doxazosin mesilate	200.000microgram/1.000ml		1000	Alpha blocker
+4454541000033118	13454311000001100	Perindopril arginine 5mg / Indapamide 1.25mg tablets	Perindopril arginine 5mg / Indapamide 1.25mg tablets	Tablet	Oral	Indapamide/ Perindopril arginine	1.250mg + 5.000mg	2050501	200000	Diuretic
+4454641000033117	13444311000001104	Coversyl Arginine Plus 5mg/1.25mg tablets (Servier Laboratories Ltd)	Coversyl Arginine Plus 5mg/1.25mg tablets	Tablet	Oral	Indapamide/ Perindopril arginine	1.250mg + 5.000mg	2050501	70000	Diuretic
+4502341000033119	NA	Doxazosin Oral suspension 1 mg/5 ml							2	Alpha blocker
+4507941000033117	12287611000001100	Bisoprolol 2.5mg/5ml oral suspension	Bisoprolol 2.5mg/5ml oral suspension	Oral suspension	Oral	Bisoprolol fumarate	500.000microgram/1.000ml		3000	B-blocker
+4548741000033111	13731911000001108	Telmisartan 80mg / Hydrochlorothiazide 25mg tablets	Telmisartan 80mg / Hydrochlorothiazide 25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	25.000mg + 80.000mg		10000	Diuretic
+4548841000033118	13719711000001104	MicardisPlus 80mg/25mg tablets (Boehringer Ingelheim Ltd)	MicardisPlus 80mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	25.000mg + 80.000mg		1000	Diuretic
+4571241000033110	13824811000001102	Ethibide XL 1.5mg tablets (Genus Pharmaceuticals Ltd)	Ethibide XL 1.5mg tablets	Modified-release tablet	Oral	Indapamide	1.500mg	2020100	9	Diuretic
+4575941000033115	13811611000001108	Doxzogen XL 4mg tablets (Viatris UK Healthcare Ltd)	Doxzogen XL 4mg tablets	Modified-release tablet	Oral	Doxazosin mesilate	4.000mg		60	Alpha blocker
+4656741000033119	14242211000001100	Tensaid XL 1.5mg tablets (Viatris UK Healthcare Ltd)	Tensaid XL 1.5mg tablets	Modified-release tablet	Oral	Indapamide	1.500mg	2020100	500	Diuretic
+4815641000033117	8668411000001106	Metoprolol 12.5mg/5ml oral suspension	Metoprolol 12.5mg/5ml oral suspension	Oral suspension	Oral	Metoprolol tartrate	2.500mg/1.000ml		500	B-blocker
+4936841000033112	18197411000001108	Cardozin XL 4mg tablets (Almus Pharmaceuticals Ltd)	Cardozin XL 4mg tablets	Modified-release tablet	Oral	Doxazosin mesilate	4.000mg		200	Alpha blocker
+4955841000033115	15356211000001102	Propranolol 40mg/5ml oral solution sugar free	Propranolol 40mg/5ml oral solution sugar free	Oral solution	Oral	Propranolol hydrochloride	8.000mg/1.000ml		10000	B-blocker
+4955941000033111	15307311000001100	Syprol 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)	Syprol 40mg/5ml oral solution	Oral solution	Oral	Propranolol hydrochloride	8.000mg/1.000ml		400	B-blocker
+4957141000033117	8672911000001108	Propranolol 80mg/5ml oral solution	Propranolol 80mg/5ml oral solution	Oral solution	Oral	Propranolol hydrochloride	16.000mg/1.000ml		100	B-blocker
+5053141000033113	15436111000001104	Indipam XL 1.5mg tablets (Accord Healthcare Ltd)	Indipam XL 1.5mg tablets	Modified-release tablet	Oral	Indapamide	1.500mg		700	Diuretic
+5093641000033110	395516007	Chlorothiazide 250mg tablets	Chlorothiazide 250mg tablets	Tablet	Oral	Chlorothiazide	250.000mg		300	Diuretic
+5128741000033110	15600711000001108	Mapemid XL 1.5mg tablets (Teva UK Ltd)	Mapemid XL 1.5mg tablets	Modified-release tablet	Oral	Indapamide	1.500mg		7	Diuretic
+5138341000033111	8483511000001102	Doxazosin 4mg/5ml oral suspension	Doxazosin 4mg/5ml oral suspension	Oral suspension	Oral	Doxazosin mesilate	800.000microgram/1.000ml		900	Alpha blocker
+5288741000033116	8356811000001107	Carvedilol 5mg/5ml oral suspension	Carvedilol 5mg/5ml oral suspension	Oral suspension	Oral	Carvedilol	1.000mg/1.000ml		2000	B-blocker
+5376441000033114	16458411000001108	Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets (Essential Generics Ltd)	Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets	Tablet	Oral	Amiloride hydrochloride/ Hydrochlorothiazide/ Timolol maleate	2.500mg + 25.000mg + 10.000mg		900	B-blocker
+5378241000033112	12300811000001108	Nadolol 40mg/5ml oral suspension	Nadolol 40mg/5ml oral suspension	Oral suspension	Oral	Nadolol	8.000mg/1.000ml		700	B-blocker
+5393041000033115	NA	Chlorothiazide And Spironolactone Capsules 250 mg + 25 mg							1	Diuretic
+5401741000033110	8306711000001109	Bendroflumethiazide 5mg/5ml oral suspension	Bendroflumethiazide 5mg/5ml oral suspension	Oral suspension	Oral	Bendroflumethiazide	1.000mg/1.000ml		70	Diuretic
+5403641000033117	11757711000001108	Colixil XL 4mg tablets (Sandoz Ltd)	Colixil XL 4mg tablets	Modified-release tablet	Oral	Doxazosin mesilate	4.000mg		1	Alpha blocker
+5453941000033119	8307011000001105	Bendroflumethiazide 1.25mg/5ml oral suspension	Bendroflumethiazide 1.25mg/5ml oral suspension	Oral suspension	Oral	Bendroflumethiazide	250.000microgram/1.000ml		100	Diuretic
+5565341000033115	39701111000001104	Nebivolol 2.5mg tablets	Nebivolol 2.5mg tablets	Tablet	Oral	Nebivolol hydrochloride	2.500mg		300000	B-blocker
+5566041000033114	16737911000001104	Rawel XL 1.5mg tablets (Consilient Health Ltd)	Rawel XL 1.5mg tablets	Modified-release tablet	Oral	Indapamide	1.500mg		300	Diuretic
+5566341000033111	409185001	Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets	Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Olmesartan medoxomil	12.500mg + 40.000mg		10000	Diuretic
+5566441000033117	17220911000001102	Olmetec Plus 40mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Olmetec Plus 40mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Olmesartan medoxomil	12.500mg + 40.000mg		1000	Diuretic
+5575541000033119	8668711000001100	Metoprolol 25mg/5ml oral solution	Metoprolol 25mg/5ml oral solution	Oral solution	Oral	Metoprolol tartrate	5.000mg/1.000ml		300	B-blocker
+5710441000033117	8427011000001108	Co-amilofruse 5mg/40mg/5ml oral suspension	Co-amilofruse 5mg/40mg/5ml oral suspension	Oral suspension	Oral	Amiloride hydrochloride/ Furosemide	1.000mg/1.000ml + 8.000mg/1.000ml		100	Diuretic
+5809641000033111	17338211000001104	Larbex XL 4mg tablets (Teva UK Ltd)	Larbex XL 4mg tablets	Modified-release tablet	Oral	Doxazosin mesilate	4.000mg		1000	Alpha blocker
+5814141000033119	16130911000001100	Nadolol 20mg/5ml oral solution	Nadolol 20mg/5ml oral solution	Oral solution	Oral	Nadolol	4.000mg/1.000ml		200	B-blocker
+5816741000033112	14693611000001102	Varbim XL 1.5mg tablets (Teva UK Ltd)	Varbim XL 1.5mg tablets	Modified-release tablet	Oral	Indapamide	1.500mg		400	Diuretic
+5890141000033112	13894811000001108	Spironolactone 25mg/5ml oral solution	Spironolactone 25mg/5ml oral solution	Oral solution	Oral	Spironolactone	5.000mg/1.000ml		2000	Spironolactone 
+5890441000033116	13894911000001104	Spironolactone 50mg/5ml oral solution	Spironolactone 50mg/5ml oral solution	Oral solution	Oral	Spironolactone	10.000mg/1.000ml		3000	Spironolactone 
+5898041000033111	8305311000001100	Bisoprolol 1.25mg/5ml oral solution	Bisoprolol 1.25mg/5ml oral solution	Oral solution	Oral	Bisoprolol fumarate	250.000microgram/1.000ml		1000	B-blocker
+5898141000033110	8305211000001108	Bisoprolol 1.25mg/5ml oral suspension	Bisoprolol 1.25mg/5ml oral suspension	Oral suspension	Oral	Bisoprolol fumarate	250.000microgram/1.000ml		400	B-blocker
+5898241000033115	8304911000001103	Bisoprolol 5mg/5ml oral solution	Bisoprolol 5mg/5ml oral solution	Oral solution	Oral	Bisoprolol fumarate	1.000mg/1.000ml		1000	B-blocker
+5898341000033113	8304811000001108	Bisoprolol 5mg/5ml oral suspension	Bisoprolol 5mg/5ml oral suspension	Oral suspension	Oral	Bisoprolol fumarate	1.000mg/1.000ml		400	B-blocker
+5898441000033119	15160211000001100	Bisoprolol 625micrograms/5ml oral solution	Bisoprolol 625micrograms/5ml oral solution	Oral solution	Oral	Bisoprolol fumarate	125.000microgram/1.000ml		80	B-blocker
+5898541000033118	15160311000001108	Bisoprolol 625micrograms/5ml oral suspension	Bisoprolol 625micrograms/5ml oral suspension	Oral suspension	Oral	Bisoprolol fumarate	125.000microgram/1.000ml		20	B-blocker
+5899341000033118	8358511000001105	Chlorothiazide 150mg/5ml oral suspension	Chlorothiazide 150mg/5ml oral suspension	Oral suspension	Oral	Chlorothiazide	30.000mg/1.000ml		600	Diuretic
+5899441000033112	8358711000001100	Chlorothiazide 25mg/5ml oral suspension	Chlorothiazide 25mg/5ml oral suspension	Oral suspension	Oral	Chlorothiazide	5.000mg/1.000ml		700	Diuretic
+5969841000033119	12538711000001108	Hydrochlorothiazide 5mg/5ml oral solution	Hydrochlorothiazide 5mg/5ml oral solution	Oral solution	Oral	Hydrochlorothiazide	1.000mg/1.000ml		100	Diuretic
+5969941000033110	12538811000001104	Hydrochlorothiazide 5mg/5ml oral suspension	Hydrochlorothiazide 5mg/5ml oral suspension	Oral suspension	Oral	Hydrochlorothiazide	1.000mg/1.000ml		60	Diuretic
+5972841000033117	8668911000001103	Metoprolol 50mg/5ml oral solution	Metoprolol 50mg/5ml oral solution	Oral solution	Oral	Metoprolol tartrate	10.000mg/1.000ml		400	B-blocker
+5972941000033113	8669111000001108	Metoprolol 50mg/5ml oral suspension	Metoprolol 50mg/5ml oral suspension	Oral suspension	Oral	Metoprolol tartrate	10.000mg/1.000ml		900	B-blocker
+5975441000033113	8727011000001103	Spironolactone 15mg/5ml oral suspension	Spironolactone 15mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	3.000mg/1.000ml		100	Spironolactone 
+5975541000033114	13353511000001100	Spironolactone 250mg/5ml oral solution	Spironolactone 250mg/5ml oral solution	Oral solution	Oral	Spironolactone	50.000mg/1.000ml		6	Spironolactone 
+5975641000033110	13353611000001102	Spironolactone 250mg/5ml oral suspension	Spironolactone 250mg/5ml oral suspension	Oral suspension	Oral	Spironolactone	50.000mg/1.000ml		3	Spironolactone 
+5991041000033111	12287511000001104	Bisoprolol 2.5mg/5ml oral solution	Bisoprolol 2.5mg/5ml oral solution	Oral solution	Oral	Bisoprolol fumarate	500.000microgram/1.000ml		4000	B-blocker
+5991141000033110	12503011000001108	Chlorothiazide 250mg/5ml oral solution	Chlorothiazide 250mg/5ml oral solution	Oral solution	Oral	Chlorothiazide	50.000mg/1.000ml		2000	Diuretic
+5993341000033112	13893511000001108	Furosemide 5mg/5ml oral suspension	Furosemide 5mg/5ml oral suspension	Oral suspension	Oral	Furosemide	1.000mg/1.000ml		500	Diuretic
+5998141000033117	8672811000001103	Propranolol 40mg/5ml oral suspension	Propranolol 40mg/5ml oral suspension	Oral suspension	Oral	Propranolol hydrochloride	8.000mg/1.000ml		30	B-blocker
+5999141000033111	13894611000001108	Spironolactone 100mg/5ml oral solution	Spironolactone 100mg/5ml oral solution	Oral solution	Oral	Spironolactone	20.000mg/1.000ml		300	Spironolactone 
+5999241000033116	13894711000001100	Spironolactone 10mg/5ml oral solution	Spironolactone 10mg/5ml oral solution	Oral solution	Oral	Spironolactone	2.000mg/1.000ml		1000	Spironolactone 
+5999341000033114	13895011000001104	Spironolactone 5mg/5ml oral solution	Spironolactone 5mg/5ml oral solution	Oral solution	Oral	Spironolactone	1.000mg/1.000ml		1000	Spironolactone 
+6036141000033119	18164911000001108	Raporsin XL 4mg tablets (Accord Healthcare Ltd)	Raporsin XL 4mg tablets	Modified-release tablet	Oral	Doxazosin mesilate	4.000mg		300	Alpha blocker
+6045641000033115	18149011000001100	Neo-Naclex 2.5mg tablets (Advanz Pharma)	Neo-Naclex 2.5mg tablets	Tablet	Oral	Bendroflumethiazide	2.500mg		9	Diuretic
+6180641000033112	18986411000001108	Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 20mg/5mg/12.5mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	5.000mg + 12.500mg + 20.000mg	2050502	9000	Diuretic
+6180741000033115	18986711000001104	Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/5mg/12.5mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	5.000mg + 12.500mg + 40.000mg	2050502	4000	Diuretic
+6180841000033113	18987011000001100	Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/10mg/12.5mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	10.000mg + 12.500mg + 40.000mg	2050502	7000	Diuretic
+6180941000033117	18987311000001104	Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/5mg/25mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	5.000mg + 25.000mg + 40.000mg	2050502	1000	Diuretic
+6181041000033110	18987611000001108	Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd)	Sevikar HCT 40mg/10mg/25mg tablets	Tablet	Oral	Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil	10.000mg + 25.000mg + 40.000mg	2050502	5000	Diuretic
+7681541000033117	18520511000001108	Spironolactone 4mg / Chlorothiazide 40mg capsules	Spironolactone 4mg / Chlorothiazide 40mg capsules	Capsule	Oral	Chlorothiazide/ Spironolactone	40.000mg + 4.000mg		70	Diuretic
+7871341000033114	16109911000001102	Nadolol 30mg/5ml oral solution	Nadolol 30mg/5ml oral solution	Oral solution	Oral	Nadolol	6.000mg/1.000ml		400	B-blocker
+8196441000033118	374173002	Metolazone 2.5mg tablets	Metolazone 2.5mg tablets	Tablet	Oral	Metolazone	2.500mg		30000	Diuretic
+8196541000033117	21574911000001104	Zaroxolyn 2.5mg tablets (Imported (Canada))	Zaroxolyn 2.5mg tablets	Tablet		Metolazone	2.500mg		100	Diuretic
+8196641000033116	21574611000001108	Zaroxolyn 5mg tablets (Imported (Canada))	Zaroxolyn 5mg tablets	Tablet		Metolazone	5.000mg		9	Diuretic
+8197041000033112	21578911000001104	Indapamide 2.5mg/5ml oral suspension	Indapamide 2.5mg/5ml oral suspension	Oral suspension	Oral	Indapamide	500.000microgram/1.000ml		300	Diuretic
+8263641000033112	21940011000001100	Perindopril tosilate 5mg / Indapamide 1.25mg tablets	Perindopril tosilate 5mg / Indapamide 1.25mg tablets	Tablet	Oral	Indapamide/ Perindopril tosilate	1.250mg + 5.000mg		800	Diuretic
+8536441000033115	12287411000001104	Bisoprolol 10mg/5ml oral suspension	Bisoprolol 10mg/5ml oral suspension	Oral suspension	Oral	Bisoprolol fumarate	2.000mg/1.000ml		200	B-blocker
+8870641000033119	23466611000001104	Doxazosin 4mg/5ml oral solution	Doxazosin 4mg/5ml oral solution	Oral solution	Oral	Doxazosin mesilate	800.000microgram/1.000ml		600	Alpha blocker
+8961141000033117	39701011000001104	Nebivolol 10mg tablets	Nebivolol 10mg tablets	Tablet	Oral	Nebivolol hydrochloride	10.000mg		30000	B-blocker
+9121841000033115	24331611000001104	Cardide SR 1.5mg tablets (Teva UK Ltd)	Cardide SR 1.5mg tablets	Modified-release tablet	Oral	Indapamide	1.500mg		3000	Diuretic
+9159341000033112	24411411000001100	Actelsar HCT 40mg/12.5mg tablets (Actavis UK Ltd)	Actelsar HCT 40mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 40.000mg		9	Diuretic
+9159441000033118	24412511000001108	Actelsar HCT 80mg/12.5mg tablets (Actavis UK Ltd)	Actelsar HCT 80mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 80.000mg		8	Diuretic
+9159541000033117	24413611000001104	Actelsar HCT 80mg/25mg tablets (Accord Healthcare Ltd)	Actelsar HCT 80mg/25mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	25.000mg + 80.000mg		20	Diuretic
+9173941000033111	24509711000001104	Doxazosin 1mg/5ml oral solution	Doxazosin 1mg/5ml oral solution	Oral solution	Oral	Doxazosin mesilate	200.000microgram/1.000ml		300	Alpha blocker
+9278541000033112	16072811000001104	Spironolactone 3mg / Chlorothiazide 30mg capsules	Spironolactone 3mg / Chlorothiazide 30mg capsules	Capsule	Oral	Chlorothiazide/ Spironolactone	30.000mg + 3.000mg		70	Diuretic
+9292641000033116	24573211000001100	Tolucombi 40mg/12.5mg tablets (Consilient Health Ltd)	Tolucombi 40mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 40.000mg		3	Diuretic
+9292741000033113	24573411000001104	Tolucombi 80mg/12.5mg tablets (Consilient Health Ltd)	Tolucombi 80mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Telmisartan	12.500mg + 80.000mg		2	Diuretic
+9776441000033119	8726911000001102	Sotalol 25mg/5ml oral suspension	Sotalol 25mg/5ml oral suspension	Oral suspension	Oral	Sotalol hydrochloride	5.000mg/1.000ml		300	B-blocker
+10024941000033116	28365711000001104	Bisoprolol 5mg / Aspirin 75mg capsules	Bisoprolol 5mg / Aspirin 75mg capsules	Capsule	Oral	Aspirin/ Bisoprolol fumarate	75.000mg + 5.000mg		6	B-blocker
+10025041000033116	28365611000001108	Bisoprolol 5mg / Aspirin 100mg capsules	Bisoprolol 5mg / Aspirin 100mg capsules	Capsule	Oral	Aspirin/ Bisoprolol fumarate	100.000mg + 5.000mg		5	B-blocker
+10025241000033112	28365311000001104	Bisoprolol 10mg / Aspirin 100mg capsules	Bisoprolol 10mg / Aspirin 100mg capsules	Capsule	Oral	Aspirin/ Bisoprolol fumarate	100.000mg + 10.000mg		1	B-blocker
+10650041000033116	16131011000001108	Nadolol 20mg/5ml oral suspension	Nadolol 20mg/5ml oral suspension	Oral suspension	Oral	Nadolol	4.000mg/1.000ml		300	B-blocker
+10650141000033117	16110011000001108	Nadolol 30mg/5ml oral suspension	Nadolol 30mg/5ml oral suspension	Oral suspension	Oral	Nadolol	6.000mg/1.000ml		100	B-blocker
+11567441000033119	13078011000001104	Prazosin 500micrograms/5ml oral solution	Prazosin 500micrograms/5ml oral solution	Oral solution	Oral	Prazosin hydrochloride	100.000microgram/1.000ml		3	Alpha blocker
+11807841000033119	33628611000001104	Benph 5mg tablets (Viatris UK Healthcare Ltd)	Benph 5mg tablets	Tablet	Oral	Terazosin hydrochloride	5.000mg		1	Alpha blocker
+12312641000033118	34494911000001104	Alkapamid XL 1.5mg tablets (HBS Healthcare Ltd)	Alkapamid XL 1.5mg tablets	Modified-release tablet	Oral	Indapamide	1.500mg		400	Diuretic
+12682141000033115	421069003	Doxazosin 8mg tablets	Doxazosin 8mg tablets	Tablet	Oral	Doxazosin mesilate	8.000mg		40000	Alpha blocker
+12682341000033117	36106311000001104	Bedranol 10mg tablets (Ennogen Pharma Ltd)	Bedranol 10mg tablets	Tablet	Oral	Propranolol hydrochloride	10.000mg		100	B-blocker
+12682441000033111	36106511000001104	Bedranol 40mg tablets (Ennogen Pharma Ltd)	Bedranol 40mg tablets	Tablet	Oral	Propranolol hydrochloride	40.000mg		600	B-blocker
+12682641000033113	36106711000001104	Bedranol 80mg tablets (Ennogen Pharma Ltd)	Bedranol 80mg tablets	Tablet	Oral	Propranolol hydrochloride	80.000mg		50	B-blocker
+12682741000033116	36107111000001112	Bedranol 160mg tablets (Ennogen Pharma Ltd)	Bedranol 160mg tablets	Tablet	Oral	Propranolol hydrochloride	160.000mg		10	B-blocker
+12988441000033113	36812711000001104	Lorvacs XL 1.5mg tablets (Torrent Pharma (UK) Ltd)	Lorvacs XL 1.5mg tablets	Modified-release tablet	Oral	Indapamide	1.500mg		200	Diuretic
+13443441000033115	38240211000001104	Lisoretic 10mg/12.5mg tablets (Bristol Laboratories Ltd)	Lisoretic 10mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg		2	Diuretic
+13443541000033119	38240011000001104	Lisoretic 20mg/12.5mg tablets (Bristol Laboratories Ltd)	Lisoretic 20mg/12.5mg tablets	Tablet	Oral	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg		7	Diuretic
+13577541000033118	38659211000001104	Nebivolol 1.25mg tablets	Nebivolol 1.25mg tablets	Tablet	Oral	Nebivolol hydrochloride	1.250mg		2000	B-blocker
+13777741000033113	39356011000001104	Spironolactone 12.5mg tablets	Spironolactone 12.5mg tablets	Tablet	Oral	Spironolactone	12.500mg		10000	Spironolactone 
+13812841000033111	39565011000001104	Chlortalidone 12.5mg tablets	Chlortalidone 12.5mg tablets	Tablet	Oral	Chlortalidone	12.500mg		100	Diuretic
+13813041000033113	39534311000001104	Hylaton 50mg tablets (Morningside Healthcare Ltd)	Hylaton 50mg tablets	Tablet	Oral	Chlortalidone	50.000mg		1	Diuretic
+13910541000033116	39992211000001104	Metoprolol 25mg tablets	Metoprolol 25mg tablets	Tablet	Oral	Metoprolol tartrate	25.000mg		400	B-blocker
+37641000033110	NA	Alphavase 0.5 Tablets 500 micrograms							400	alpha blocker
+92341000033113	NA	Atenixco 50 Tablets 12.5 mg							200	combo
+116841000033111	NA	Baratol Tablets 50 mg							1000	alpha blocker
+216941000033117	NA	Cardura Tablets 4 mg							60000	alpha blocker
+234641000033114	NA	Centyl Tablets 2.5 mg							200	diuretic
+234741000033117	NA	Centyl Tablets 5 mg							600	diuretic
+557141000033118	NA	Eucardic Tablets 50 mg							1	b-blocker
+660541000033111	NA	Half-Betadur Cr M/R capsules 80 mg							2000	b-blocker
+660941000033117	NA	Half Propanix La M/R capsules 80 mg							200	b-blocker
+740941000033119	NA	Hytrin Bph Starter pack 7 x 1 mg, 7 x 2 mg							200	alpha blocker
+741041000033112	3957811000001100	Hytrin BPH tablets starter pack (Advanz Pharma)	Hytrin BPH tablets starter pack	Not applicable				7040100	2000	alpha blocker
+741141000033111	3902911000001102	Hytrin tablets starter pack (Advanz Pharma)	Hytrin tablets starter pack	Not applicable	Route of administration not applicable			2050400	3000	alpha blocker
+742741000033116	NA	Hygroton Tablets 100 mg							5000	diuretic
+742941000033118	NA	Hygroton K Tablets							6000	diuretic
+743041000033111	NA	Hygroton-K Tablets							10000	diuretic
+743841000033116	NA	Hypovase Tablets 5 mg							10000	alpha blocker
+743941000033112	NA	Hytrin Bph Tablets 10 mg							1000	alpha blocker
+744041000033114	NA	Hytrin Bph Tablets 2 mg							5000	alpha blocker
+744141000033113	NA	Hytrin Bph Tablets 5 mg							7000	alpha blocker
+745941000033111	NA	Hypovase Starter Pack Tablets							1000	alpha blocker
+796741000033111	NA	Kalspare Ls Tablets							5	diuretic
+816641000033116	NA	Lasix + K Tablets							7000	diuretic
+849941000033112	NA	Lopresoretic Tablets							10000	diuretic
+901441000033118	NA	Mefruside Tablets 25 mg							4000	diuretic
+933541000033112	NA	Moduretic Solution							5000	diuretic
+1132841000033118	NA	Prestim Forte Tablets							1000	b-blocker
+1372841000033114	NA	Spirospare-25 Tablets 25 mg							200	spironolactone
+1469541000033115	NA	Trasicor Tablets 160 mg							8000	b-blocker
