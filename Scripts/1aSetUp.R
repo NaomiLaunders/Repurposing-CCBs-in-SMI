@@ -1,16 +1,33 @@
 ####Set up project root directories, packages and functions####
+
+#Clear the workspace
 rm(list = ls(all.names = TRUE))
 
-####Libraries####
+#Pull from Git so we are synched
+
+system("git pull")
+
+####Libraries needed for this project####
+
+#General admin libraries
 library(tableone)
 library(rprojroot)
 library(tidyverse)
 library(lubridate)
 
+#Analysis specific libraries
+
+####Set the directories so that I can use relative links####
+#Note, these should be deleted before GitHub goes public
+
 root.dir = find_rstudio_root_file()
 DataDir = "R:/2023 CPRD"
 ProjectDir = "R:/Datamind_Repurposing/Repurposing-CCBs-in-SMI"
 OldCodeListDir = "R:/Datamind_Repurposing/Codelists"
+
+####Project specific functions####
+
+#Read and write from .txt files keeping the key fields as character vectors
 
 ReadGoldProdObs<-function (x) { 
   read.table(x, header = TRUE, sep = "\t", dec = ".", quote="", fill=TRUE, colClasses=c(prodcode="character", patid="character"))

@@ -1,5 +1,4 @@
-#Clear environment
-rm(list = ls(all.names = TRUE))
+####Blood pressure code list####
 
 #Call start script
 source("./Scripts/1aSetUp.R")

@@ -499,3 +499,82 @@ ProdCodeId	dmdid	Term.from.EMIS	ProductName	Formulation	RouteOfAdministration	Dr
 1132841000033118	NA	Prestim Forte Tablets							1000	b-blocker
 1372841000033114	NA	Spirospare-25 Tablets 25 mg							200	spironolactone
 1469541000033115	NA	Trasicor Tablets 160 mg							8000	b-blocker
+42141000033119	NA	Aluzine Tablets 20 mg							7	Diuretic
+42241000033114	NA	Aluzine Tablets 40 mg							20	Diuretic
+42341000033116	NA	Aluzine Tablets 500 mg							3	Diuretic
+75241000033117	NA	Apsolol Tablets 40 mg							100	B-blocker
+133041000033116	NA	Betadur Cr M/R capsules 160 mg							70	B-blocker
+141141000033117	NA	Berkolol Tablets 160 mg							20	B-blocker
+143541000033110	NA	Berkolol Tablets 10 mg							3000	B-blocker
+143641000033111	NA	Berkolol Tablets 40 mg							4000	B-blocker
+143741000033119	NA	Berkozide Tablets 2.5 mg							20000	Diuretic
+143841000033112	NA	Berkozide Tablets 5 mg							10000	Diuretic
+147141000033111	NA	Berkolol Tablets 80 mg							400	B-blocker
+153441000033112	NA	Blocadren Tablets 10 mg							7000	B-blocker
+217541000033114	NA	Cardinol Tablets 10 mg							1	B-blocker
+428741000033112	NA	Delvas Tablets							400	Diuretic
+430941000033114	NA	Decaserpyl Tablets 10 mg							100	Diuretic
+431141000033117	NA	Decaserpyl Tablets 5 mg							200	Diuretic
+431241000033112	NA	Decaserpyl Plus Tablets							80	Diuretic
+466641000033112	NA	Diatensec Tablets 50 mg							20	Spironolactone
+470641000033116	NA	Diuresal Tablets 40 mg							1	Diuretic
+484741000033114	NA	Dryptal Tablets 40 mg							20000	Diuretic
+485141000033111	NA	Dryptal Tablets 500 mg							40	Diuretic
+523141000033112	NA	Enduron Tablets 5 mg							200	Diuretic
+546041000033117	NA	Esidrex Tablets 25 mg							1000	Diuretic
+546141000033118	NA	Esidrex Tablets 50 mg							200	Diuretic
+546241000033113	NA	Esidrex K Tablets							80	Diuretic
+612341000033119	NA	Frusemide Paediatric Liquid Sugar Free 1 mg/ml							10000	Diuretic
+614841000033116	NA	Frusemide Tablets 40 mg							200	Diuretic
+742141000033115	NA	Hydrenox Tablets 50 mg							2000	Diuretic
+742441000033111	NA	Hydromet Tablets							2000	Diuretic
+746141000033119	NA	Hypertane-50 Tablets							2	Diuretic
+816241000033119	NA	Lasipressin Tablets							60	Diuretic
+845141000033112	NA	Lopranol La M/R capsules 160 mg							5	B-blocker
+891741000033119	NA	Metoros Sr tablets 190 mg							60	B-blocker
+891841000033112	NA	Metoros Ls Sr tablets 95 mg							70	B-blocker
+894641000033114	NA	Mepranix 50 Tablets 50 mg							80	B-blocker
+894741000033117	NA	Mepranix 100 Tablets 100 mg							70	B-blocker
+901841000033115	NA	Meprobamate Tablets 200 mg							3000	Diuretic
+901941000033111	321308004	Meprobamate 400mg tablets	Meprobamate 400mg tablets	Tablet	Oral	Meprobamate	400.000mg	4010200	40000	Diuretic
+955641000033113	NA	Natramid Tablets 2.5 mg							100	Diuretic
+965841000033117	NA	Neo-Bendromax Tablets 2.5 mg							20000	Diuretic
+965941000033113	NA	Neo-Bendromax Tablets 5 mg							8000	Diuretic
+987441000033112	NA	Normetic Tablets							3000	Diuretic
+1009041000033117	NA	Opumide Tablets 2.5 mg							60	Diuretic
+1025141000033114	NA	Oxyprenix-160-Sr Sr tablets 160 mg							4000	B-blocker
+1124341000033119	NA	Probeta La M/R capsules 160 mg							10	B-blocker
+1124441000033113	NA	Propanix La M/R capsules 160 mg							2	B-blocker
+1127941000033110	NA	Propanix 160 Sr capsules 160 mg							1000	B-blocker
+1130341000033114	NA	Propanix 10 Tablets 10 mg							2000	B-blocker
+1130441000033115	NA	Propanix 40 Tablets 40 mg							3000	B-blocker
+1130541000033119	NA	Propanix 80 Tablets 80 mg							400	B-blocker
+1130641000033118	NA	Propanix 160 Tablets 160 mg							20	B-blocker
+1257941000033113	NA	Saluric Tablets 500 mg							4000	Diuretic
+1276341000033110	NA	Serpasil Tablets 0.1 mg							70	Diuretic
+1276441000033116	NA	Serpasil Tablets 0.25 mg							200	Diuretic
+1276541000033115	NA	Serpasil Esidrex Tablets							100	Diuretic
+1347641000033111	NA	Slow-Pren Tablets 160 mg							90	B-blocker
+1366241000033116	NA	Sotazide Tablets							10000	B-blocker
+1367941000033110	NA	Spiroctan Capsules 100 mg							2000	Spironolactone
+1372941000033118	NA	Spiro-Co 50 Tablets							400	Spironolactone
+1373041000033111	NA	Spiro-Co 25 Tablets							90	Spironolactone
+1373441000033119	NA	Spiretic Tablets 100 mg							5	Spironolactone
+1373541000033118	NA	Spiretic Tablets 25 mg							10	Spironolactone
+1373641000033117	NA	Spiroctan Tablets 25 mg							2000	Spironolactone
+1373741000033114	NA	Spiroctan Tablets 50 mg							1000	Spironolactone
+1373841000033116	NA	Spirolone Tablets 100 mg							800	Spironolactone
+1373941000033112	NA	Spirolone Tablets 25 mg							800	Spironolactone
+1374041000033114	NA	Spirolone Tablets 50 mg							300	Spironolactone
+1374441000033117	NA	Spiroprop Tablets							100	B-blocker
+1449641000033110	NA	Totamol Tablets 25 mg							2000	B-blocker
+1451041000033115	NA	Tolerzide Tablets							1000	B-blocker
+1453041000033116	NA	Totamol Tablets 100 mg							3000	B-blocker
+1453141000033117	NA	Totamol Tablets 50 mg							5000	B-blocker
+1505241000033113	NA	Vasaten Tablets 100 mg							200	B-blocker
+1505341000033115	NA	Vasaten Tablets 50 mg							300	B-blocker
+1544141000033112	NA	Xuret Tablets 500 micrograms							2000	Diuretic
+1572241000033113	NA	Atenamin Tablets 100 mg							10	B-blocker
+1572341000033115	NA	Atenamin Tablets 25 mg							60	B-blocker
+1572441000033114	NA	Atenamin Tablets 50 mg							50	B-blocker
+1893341000033116	NA	Capto-Co Tablets 12.5 mg/25 mg							10	Diuretic

@@ -1,5 +1,4 @@
-#Clear environment
-rm(list = ls(all.names = TRUE))
+####Beta blockers code list####
 
 #Call start script
 source("./Scripts/1aSetUp.R")
@@ -148,7 +147,7 @@ GoldBlockers1<-GoldBlockers1%>%
 #Remove injections
 GoldBlockers<-subset(GoldBlockers, !grepl("inj", productname, ignore.case=TRUE))
 
-WriteCodeList(GoldBlockers, "Codelists/BlockersDiureticsGold.txt", col.names=TRUE, row.names=FALSE, sep="\t", dec = ".")
+WriteCodeList(GoldBlockers, "Codelists/BlockersDiureticsGold.txt")
 
 ####Ensure there are none in Gold that aren't in Aurum and vice versa####
 
