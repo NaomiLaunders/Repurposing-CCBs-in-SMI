@@ -110,6 +110,8 @@ AurumBlocker$patid<-paste0(AurumBlocker$patid, "-A")
 GoldBlocker<-select(GoldBlocker, -numpacks, -issueseq, -packtype_desc)
 GoldBlocker$patid<-paste0(GoldBlocker$patid, "-G")
 
+GoldBlocker$Term.from.EMIS<-NA
+
 AllBlocker<-rbind(AurumBlocker, GoldBlocker)
 
 save(AllBlocker, file=paste0(ProjectDir, "/Extracts/AllBlockers.Rdata"))
