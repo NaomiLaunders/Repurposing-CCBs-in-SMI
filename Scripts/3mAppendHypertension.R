@@ -72,7 +72,7 @@ Trial<-Trial%>%
          PriorHighBP = case_when(FirstHighBPCatValue<=FirstCCBARB ~ 1,
                               TRUE ~ 0),
          TimeSinceHyp = case_when(FirstCCBARB-FirstHypDiag>=0 ~ as.numeric(FirstCCBARB-FirstHypDiag),
-                                  TRUE ~ 0))
+                                  TRUE ~ NA))
 
 table(Trial$PriorHyp)
 table(Trial$PriorHighBP)
