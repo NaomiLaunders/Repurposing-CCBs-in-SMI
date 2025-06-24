@@ -56,9 +56,6 @@ Dementia<-PatDementiaAll%>%
 CPRD<-merge(x=CPRD, y=Dementia, by="patid", all.x=TRUE, all.y=FALSE)
 
 length(unique(CPRD$patid))
-
-save(CPRD, file = paste0(ProjectDir, "/Data/CPRD_DiabDem.rdata"))
-
          
 
 

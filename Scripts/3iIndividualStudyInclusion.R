@@ -3,7 +3,7 @@
 #Call start script
 source("./Scripts/1aSetUp.R")
 
-load(paste0(ProjectDir, "/Data/HospPhys.rdata"))
+load(paste0(ProjectDir, "/Data/HospRay.rdata"))
 
 #####Set arms before selection#####
 HospAll<-HospAll%>%
@@ -168,7 +168,7 @@ Consort1<- rbind(Consort1,Consort1a)
 
 ####General exclusions####
 
-#No diabetes
+#No diabetes - include those on the same day
 Trial1<-subset(Trial1, FirstCCBARB<=FirstDiab | is.na(FirstDiab))
 Consort1a<-data.frame("Count" =length(Trial1$patid), "Description" = c("GP diabetes at baseline"))
 Consort1<- rbind(Consort1,Consort1a)
@@ -177,13 +177,18 @@ Trial1<-subset(Trial1, HospDiabetes==0)
 Consort1a<-data.frame("Count" =length(Trial1$patid), "Description" = c("Hospital diabetes at baseline"))
 Consort1<- rbind(Consort1,Consort1a)
 
-#No dementia
+#No dementia - include those on the same day
 Trial1<-subset(Trial1, FirstCCBARB<=FirstDementia |is.na(FirstDementia))
 Consort1a<-data.frame("Count" =length(Trial1$patid), "Description" = c("GP dementia at baseline"))
 Consort1<- rbind(Consort1,Consort1a)
 
 Trial1<-subset(Trial1, HospDementia==0)
 Consort1a<-data.frame("Count" =length(Trial1$patid), "Description" = c("Hospital dementia at baseline"))
+Consort1<- rbind(Consort1,Consort1a)
+
+#No Raynauds - exclude those on the same day
+Trial1<-subset(Trial1, FirstCCBARB<FirstRaynauds |is.na(FirstRaynauds))
+Consort1a<-data.frame("Count" =length(Trial1$patid), "Description" = c("GP Raynauds at baseline"))
 Consort1<- rbind(Consort1,Consort1a)
 
 #Sort out consort

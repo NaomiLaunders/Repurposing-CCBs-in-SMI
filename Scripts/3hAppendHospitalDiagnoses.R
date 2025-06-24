@@ -312,14 +312,14 @@ Physical<-AllDiag%>%
   subset(Phys!="Drop")
 
 Physical<-Physical%>%
-  subset(admidate<=FirstCCBARB)%>%
+  subset(admidate<FirstCCBARB)%>%
   select(patid, Phys)%>%
   mutate(value=1)%>%
   distinct()%>%
   pivot_wider(names_from = Phys, values_from = value, values_fill = 0)
 
 #Compare to primary care
-DiabPrimary<-subset(HospAll, !is.na(FirstDiab) & FirstDiab<=FirstCCBARB)
+DiabPrimary<-subset(HospAll, !is.na(FirstDiab) & FirstDiab<FirstCCBARB)
 Diab<-subset(Physical, HospDiabetes==1)
 length(which(DiabPrimary$patid %in% Diab$patid))
 length(which(Diab$patid %in% DiabPrimary$patid))
