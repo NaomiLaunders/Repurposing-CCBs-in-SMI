@@ -1,0 +1,6 @@
+medcode	readcode	desc
+1002	G730000	raynaud's disease
+1231	G730.00	raynaud's syndrome
+5595	G730100	raynaud's phenomenon
+39097	G730z00	raynaud's syndrome nos
+23880	G730111	vibratory white finger

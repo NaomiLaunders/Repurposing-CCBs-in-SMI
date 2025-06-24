@@ -1,0 +1,14 @@
+MedCodeId	CleansedReadCode	Term
+300496013	G730000	raynaud's disease
+300500010	G730z00	raynaud's syndrome nos
+395792010	G730100	raynaud's phenomenon
+192131000006114	G730.00	raynaud's syndrome
+905531000006112		[rfc] raynaud's syndrome
+3012931000006114		crest - calcinosis, raynaud's phenomenon, oesophageal dysfunction, sclerodactyly, telangiectasia
+3012941000006116		crest - calcinosis, raynaud's phenomenon, sclerodactyly, oesophageal involvement, telangiectasia syndrome
+3012961000006117		crest - calcinosis, raynaud's phenomenon, sclerodactyly, esophageal involvement, telangiectasia syndrome
+4778681000006112		raynaud disease
+4778691000006110		raynauds disease
+5492261000006112		raynaud phenomenon
+6200281000006117		secondary raynaud phenomenon
+350655010	G730111	vibratory white finger
