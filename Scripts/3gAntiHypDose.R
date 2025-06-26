@@ -1,4 +1,4 @@
-####Dose at first oral anithypertensive prescription for trial 1 & 2 (or if blank within 6 months)####
+####Dose at first CCB prescription####
 
 #Call start script
 source("./Scripts/1aSetUp.R")
@@ -23,7 +23,9 @@ CCB<-subset(AllCCB, issuedate>=(enter) & issuedate<=end)
 table(CCB$Group, CCB$Class)
 table(CCB$Group, CCB$Route)
 CCB<-subset(CCB, Group=="Mono"|Group=="ever exclusion")
+CCB<-subset(CCB, Class=="CCB")
 
+rm(AllCCB)
 #Check which ones have dosage information. If no dosage information look at next one
 
 #No PRN
@@ -289,63 +291,6 @@ Dur<-Dur%>%
 
 
 ####Valid dose####
-##ARB##
-# Azilsartan: low: <40 (below maintenance)
-# Azilsartan: med:40- <80 (maintenance)
-# Azilsartan:  hi: 80+ (Max)
-
-# Candesartan: low: <8 (below maintenance)
-# Candesartan: med: 8 - <32 (maintenance)
-# Candesartan:  hi: 32+ (Max)
-
-# Eprosartan: low: <600 (below maintenance)
-# Eprosartan: med:600 (maintenance)
-# Eprosartan:  hi: >600 (Max)
-
-# Irbesartan: low: <150 (below maintenance)
-# Irbesartan: med:150 - <300 (maintenance)
-# Irbesartan:  hi: 300+ (Max)
-
-# Losartan: low: <50 (below maintenance)
-# Losartan: med:50- <100 (maintenance)
-# Losartan:  hi: 100+ (Max)
-
-# Olmesartan: low: <20 (below maintenance)
-# Olmesartan: med:20- <40 (maintenance)
-# Olmesartan:  hi: 40+ (Max)
-
-# Telmisartan: low: <40 (below maintenance)
-# Telmisartan: med:40- <80 (maintenance)
-# Telmisartan:  hi: 80+ (Max)
-
-# Valsartan: low: <80 (below maintenance)
-# Valsartan: med:80- 160 (maintenance)
-# Valsartan:  hi: >160 - 320 (Max)
-
-##CCB##
-# Amlodipine: low: <5 (below maintenance)
-# Amlodipine: med:5-10 (maintenance)
-# Amlodipine:  hi: 10+ (Max)
-
-# Felodipine: low: <5 (below maintenance)
-# Felodipine: med:5-10 (maintenance)
-# Felodipine:  hi: >10 - 20 (Max)
-
-# Lacidipine: low: <2 (below maintenance)
-# Lacidipine: med:2-6 (maintenance)
-# Lacidipine:  hi: 6+ (Max)
-
-# Lercanidipine: low: <10 (below maintenance)
-# Lercanidipine: med: 10-20 (maintenance)
-# Lercanidipine:  hi: 20+ (Max)
-
-# Nicardipine: low: <60 (below maintenance)
-# Nicardipine: med:60-120 (maintenance)
-# Nicardipine:  hi: 120+ (Max)
-
-# Nifedipine: low: <30 (below maintenance)
-# Nifedipine: med:30-90 (maintenance)
-# Nifedipine:  hi: 90+ (Max)
 
 length(unique(Dur$patid))
 Dur<-subset(Dur, patid %in% HospAll$patid)
@@ -361,9 +306,6 @@ Dur<-Dur%>%
 #Use: https://cks.nice.org.uk/topics/hypertension/prescribing-information/calcium-channel-blockers/
 #https://www.drugs.com/pro/isradipine.html#s-34068-7
 #https://www.drugs.com/dosage/nisoldipine.html
-#https://www.drugs.com/mtm/moexipril.html
-#https://www.drugs.com/dosage/benazepril.html
-
 
 save(Dur, file=paste0(ProjectDir, "/Extracts/CCBDose_interim.Rdata"))
 
@@ -377,151 +319,51 @@ Dur<-Dur%>%
                          Name=="Isradipine" & TotalDose1>=2 & TotalDose1<=24~1,
                          Name=="Lacidipine" & TotalDose1>=1.6 & TotalDose1<=7.2~1,
                          Name=="Lercanidipine" & TotalDose1>=8 & TotalDose1<=24~1,
-                         Name=="Nicardipine" & TotalDose1>=48 & TotalDose1<=144~1,
+                         Name=="Nicardipine" & TotalDose1>=16 & TotalDose1<=48~1,
                          Name=="Nifedipine" & TotalDose1>=16 & TotalDose1<=108~1,
                          Name=="Nisoldipine" & TotalDose1>=8 & TotalDose1<=72~1,
                          Name=="Verapamil" & TotalDose1>=96 & TotalDose1<=576~1,
-                         Name=="Candesartan" & TotalDose1>=3.2 & TotalDose1<=38.4~1,
-                         Name=="Eprosartan" & TotalDose1>=480 & TotalDose1<=720~1,
-                         Name=="Irbesartan" & TotalDose1>=60 & TotalDose1<=360~1,
-                         Name=="Losartan" & TotalDose1>=20 & TotalDose1<=120~1,
-                         Name=="Olmesartan" & TotalDose1>=8 & TotalDose1<=48~1,
-                         Name=="Telmisartan" & TotalDose1>=16 & TotalDose1<=96~1,
-                         Name=="Valsartan" & TotalDose1>=32 & TotalDose1<=384~1,
-                         Name=="Benazepril" & TotalDose1>=8 & TotalDose1<=96~1,
-                         Name=="Enalapril" & TotalDose1>=2 & TotalDose1<=48~1,
-                         Name=="Enalopril" & TotalDose1>=2 & TotalDose1<=48~1,
-                         Name=="Moexipril" & TotalDose1>=6 & TotalDose1<=72~1,
-                         Name=="Quinapril " & TotalDose1>=2 & TotalDose1<=96~1,
-                         Name=="Imidapril " & TotalDose1>=2 & TotalDose1<=24~1,
-                         Name=="Captopril" & TotalDose1>=10 & TotalDose1<=180 ~1,
-                         Name=="Fosinopril" & TotalDose1>=8 & TotalDose1<=48~1,
-                         Name=="Lisinopril" & TotalDose1>=2 & TotalDose1<=96~1,
-                         Name=="Ramipril" & TotalDose1>=1 & TotalDose1<=12~1,
-                         Name=="Perindopril" & TotalDose1>=1.6 & TotalDose1<=12~1,
-                         Name=="Trandolapril" & TotalDose1>=0.4 & TotalDose1<=4.8~1,
-                         Name=="Cilazapril" & TotalDose1>=0.4 & TotalDose1<=12~1,
                          
                          Name=="Amlodipine" & TotalDose2>=4 & TotalDose2<=12 ~ 2,
                          Name=="Felodipine" & TotalDose2>=2 & TotalDose2<=24~2,
                          Name=="Isradipine" & TotalDose2>=2 & TotalDose2<=24~2,
                          Name=="Lacidipine" & TotalDose2>=1.6 & TotalDose2<=7.2~2,
                          Name=="Lercanidipine" & TotalDose2>=8 & TotalDose2<=24~2,
-                         Name=="Nicardipine" & TotalDose2>=48 & TotalDose2<=144~2,
+                         Name=="Nicardipine" & TotalDose2>=16 & TotalDose2<=48~2,
                          Name=="Nifedipine" & TotalDose2>=16 & TotalDose2<=108~2,
                          Name=="Nisoldipine" & TotalDose2>=8 & TotalDose2<=72~2,
                          Name=="Verapamil" & TotalDose2>=96 & TotalDose2<=576~2,
-                         Name=="Candesartan" & TotalDose2>=3.2 & TotalDose2<=38.4~2,
-                         Name=="Eprosartan" & TotalDose2>=480 & TotalDose2<=720~2,
-                         Name=="Irbesartan" & TotalDose2>=60 & TotalDose2<=360~2,
-                         Name=="Losartan" & TotalDose2>=20 & TotalDose2<=120~2,
-                         Name=="Olmesartan" & TotalDose2>=8 & TotalDose2<=48~2,
-                         Name=="Telmisartan" & TotalDose2>=16 & TotalDose2<=96~2,
-                         Name=="Valsartan" & TotalDose2>=32 & TotalDose2<=384~2,
-                         Name=="Benazepril" & TotalDose2>=8 & TotalDose2<=96~2,
-                         Name=="Enalapril" & TotalDose2>=2 & TotalDose2<=48~2,
-                         Name=="Enalopril" & TotalDose2>=2 & TotalDose2<=48~2,
-                         Name=="Moexipril" & TotalDose2>=6 & TotalDose2<=72~2,
-                         Name=="Quinapril " & TotalDose2>=2 & TotalDose2<=96~2,
-                         Name=="Imidapril " & TotalDose2>=2 & TotalDose2<=24~2,
-                         Name=="Captopril" & TotalDose2>=10 & TotalDose2<=180 ~2,
-                         Name=="Fosinopril" & TotalDose2>=8 & TotalDose2<=48~2,
-                         Name=="Lisinopril" & TotalDose2>=2 & TotalDose2<=96~2,
-                         Name=="Ramipril" & TotalDose2>=1 & TotalDose2<=12~2,
-                         Name=="Perindopril" & TotalDose2>=1.6 & TotalDose2<=12~2,
-                         Name=="Trandolapril" & TotalDose2>=0.4 & TotalDose2<=4.8~2,
-                         Name=="Cilazapril" & TotalDose2>=0.4 & TotalDose2<=12~2,
                          
                          Name=="Amlodipine" & TotalDose3>=4 & TotalDose3<=12 ~ 3,
                          Name=="Felodipine" & TotalDose3>=2 & TotalDose3<=24~3,
                          Name=="Isradipine" & TotalDose3>=2 & TotalDose3<=24~3,
                          Name=="Lacidipine" & TotalDose3>=1.6 & TotalDose3<=7.2~3,
                          Name=="Lercanidipine" & TotalDose3>=8 & TotalDose3<=24~3,
-                         Name=="Nicardipine" & TotalDose3>=48 & TotalDose3<=144~3,
+                         Name=="Nicardipine" & TotalDose3>=16 & TotalDose3<=48~3,
                          Name=="Nifedipine" & TotalDose3>=16 & TotalDose3<=108~3,
                          Name=="Nisoldipine" & TotalDose3>=8 & TotalDose3<=72~3,
                          Name=="Verapamil" & TotalDose3>=96 & TotalDose3<=576~3,
-                         Name=="Candesartan" & TotalDose3>=3.2 & TotalDose3<=38.4~3,
-                         Name=="Eprosartan" & TotalDose3>=480 & TotalDose3<=720~3,
-                         Name=="Irbesartan" & TotalDose3>=60 & TotalDose3<=360~3,
-                         Name=="Losartan" & TotalDose3>=20 & TotalDose3<=120~3,
-                         Name=="Olmesartan" & TotalDose3>=8 & TotalDose3<=48~3,
-                         Name=="Telmisartan" & TotalDose3>=16 & TotalDose3<=96~3,
-                         Name=="Valsartan" & TotalDose3>=32 & TotalDose3<=384~3,
-                         Name=="Benazepril" & TotalDose3>=8 & TotalDose3<=96~3,
-                         Name=="Enalapril" & TotalDose3>=2 & TotalDose3<=48~3,
-                         Name=="Enalopril" & TotalDose3>=2 & TotalDose3<=48~3,
-                         Name=="Moexipril" & TotalDose3>=6 & TotalDose3<=72~3,
-                         Name=="Quinapril " & TotalDose3>=2 & TotalDose3<=96~3,
-                         Name=="Imidapril " & TotalDose3>=2 & TotalDose3<=24~3,
-                         Name=="Captopril" & TotalDose3>=10 & TotalDose3<=180 ~3,
-                         Name=="Fosinopril" & TotalDose3>=8 & TotalDose3<=48~3,
-                         Name=="Lisinopril" & TotalDose3>=2 & TotalDose3<=96~3,
-                         Name=="Ramipril" & TotalDose3>=1 & TotalDose3<=12~3,
-                         Name=="Perindopril" & TotalDose3>=1.6 & TotalDose3<=12~3,
-                         Name=="Trandolapril" & TotalDose3>=0.4 & TotalDose3<=4.8~3,
-                         Name=="Cilazapril" & TotalDose3>=0.4 & TotalDose3<=12~3,
                          
                          Name=="Amlodipine" & TotalCoverage1>=4 & TotalCoverage1<=12 ~ 4,
                          Name=="Felodipine" & TotalCoverage1>=2 & TotalCoverage1<=24~4,
                          Name=="Isradipine" & TotalCoverage1>=2 & TotalCoverage1<=24~4,
                          Name=="Lacidipine" & TotalCoverage1>=1.6 & TotalCoverage1<=7.2~4,
                          Name=="Lercanidipine" & TotalCoverage1>=8 & TotalCoverage1<=24~4,
-                         Name=="Nicardipine" & TotalCoverage1>=48 & TotalCoverage1<=144~4,
+                         Name=="Nicardipine" & TotalCoverage1>=16 & TotalCoverage1<=48~4,
                          Name=="Nifedipine" & TotalCoverage1>=16 & TotalCoverage1<=108~4,
                          Name=="Nisoldipine" & TotalCoverage1>=8 & TotalCoverage1<=72~4,
                          Name=="Verapamil" & TotalCoverage1>=96 & TotalCoverage1<=576~4,
-                         Name=="Candesartan" & TotalCoverage1>=3.2 & TotalCoverage1<=38.4~4,
-                         Name=="Eprosartan" & TotalCoverage1>=480 & TotalCoverage1<=720~4,
-                         Name=="Irbesartan" & TotalCoverage1>=60 & TotalCoverage1<=360~4,
-                         Name=="Losartan" & TotalCoverage1>=20 & TotalCoverage1<=120~4,
-                         Name=="Olmesartan" & TotalCoverage1>=8 & TotalCoverage1<=48~4,
-                         Name=="Telmisartan" & TotalCoverage1>=16 & TotalCoverage1<=96~4,
-                         Name=="Valsartan" & TotalCoverage1>=32 & TotalCoverage1<=384~4,
-                         Name=="Benazepril" & TotalCoverage1>=8 & TotalCoverage1<=96~4,
-                         Name=="Enalapril" & TotalCoverage1>=2 & TotalCoverage1<=48~4,
-                         Name=="Enalopril" & TotalCoverage1>=2 & TotalCoverage1<=48~4,
-                         Name=="Moexipril" & TotalCoverage1>=6 & TotalCoverage1<=72~4,
-                         Name=="Quinapril " & TotalCoverage1>=2 & TotalCoverage1<=96~4,
-                         Name=="Imidapril " & TotalCoverage1>=2 & TotalCoverage1<=24~4,
-                         Name=="Captopril" & TotalCoverage1>=10 & TotalCoverage1<=180 ~4,
-                         Name=="Fosinopril" & TotalCoverage1>=8 & TotalCoverage1<=48~4,
-                         Name=="Lisinopril" & TotalCoverage1>=2 & TotalCoverage1<=96~4,
-                         Name=="Ramipril" & TotalCoverage1>=1 & TotalCoverage1<=12~4,
-                         Name=="Perindopril" & TotalCoverage1>=1.6 & TotalCoverage1<=12~4,
-                         Name=="Trandolapril" & TotalCoverage1>=0.4 & TotalCoverage1<=4.8~4,
-                         Name=="Cilazapril" & TotalCoverage1>=0.4 & TotalCoverage1<=12~4,
-                         
+                        
                          Name=="Amlodipine" & TotalCoverage2>=4 & TotalCoverage2<=12 ~ 5,
                          Name=="Felodipine" & TotalCoverage2>=2 & TotalCoverage2<=24~5,
                          Name=="Isradipine" & TotalCoverage2>=2 & TotalCoverage2<=24~5,
                          Name=="Lacidipine" & TotalCoverage2>=1.6 & TotalCoverage2<=7.2~5,
                          Name=="Lercanidipine" & TotalCoverage2>=8 & TotalCoverage2<=24~5,
-                         Name=="Nicardipine" & TotalCoverage2>=48 & TotalCoverage2<=144~5,
+                         Name=="Nicardipine" & TotalCoverage2>=16 & TotalCoverage2<=48~5,
                          Name=="Nifedipine" & TotalCoverage2>=16 & TotalCoverage2<=108~5,
                          Name=="Nisoldipine" & TotalCoverage2>=8 & TotalCoverage2<=72~5,
                          Name=="Verapamil" & TotalCoverage2>=96 & TotalCoverage2<=576~5,
-                         Name=="Candesartan" & TotalCoverage2>=3.2 & TotalCoverage2<=38.4~5,
-                         Name=="Eprosartan" & TotalCoverage2>=480 & TotalCoverage2<=720~5,
-                         Name=="Irbesartan" & TotalCoverage2>=60 & TotalCoverage2<=360~5,
-                         Name=="Losartan" & TotalCoverage2>=20 & TotalCoverage2<=120~5,
-                         Name=="Olmesartan" & TotalCoverage2>=8 & TotalCoverage2<=48~5,
-                         Name=="Telmisartan" & TotalCoverage2>=16 & TotalCoverage2<=96~5,
-                         Name=="Valsartan" & TotalCoverage2>=32 & TotalCoverage2<=384~5,
-                         Name=="Benazepril" & TotalCoverage2>=8 & TotalCoverage2<=96~5,
-                         Name=="Enalapril" & TotalCoverage2>=2 & TotalCoverage2<=48~5,
-                         Name=="Enalopril" & TotalCoverage2>=2 & TotalCoverage2<=48~5,
-                         Name=="Moexipril" & TotalCoverage2>=6 & TotalCoverage2<=72~5,
-                         Name=="Quinapril " & TotalCoverage2>=2 & TotalCoverage2<=96~5,
-                         Name=="Imidapril " & TotalCoverage2>=2 & TotalCoverage2<=24~5,
-                         Name=="Captopril" & TotalCoverage2>=10 & TotalCoverage2<=180 ~5,
-                         Name=="Fosinopril" & TotalCoverage2>=8 & TotalCoverage2<=48~5,
-                         Name=="Lisinopril" & TotalCoverage2>=2 & TotalCoverage2<=96~5,
-                         Name=="Ramipril" & TotalCoverage2>=1 & TotalCoverage2<=12~5,
-                         Name=="Perindopril" & TotalCoverage2>=1.6 & TotalCoverage2<=12~5,
-                         Name=="Trandolapril" & TotalCoverage2>=0.4 & TotalCoverage2<=4.8~5,
-                         Name=="Cilazapril" & TotalCoverage2>=0.4 & TotalCoverage2<=12~5,
-                         TRUE ~ 0))
+                                                  TRUE ~ 0))
 
 Check<-subset(Dur, valid==0)
 
@@ -553,31 +395,11 @@ ValidMulti<-Dur%>%
                          Name=="Isradipine" & NewDose1>=2 & NewDose1<=24~1,
                          Name=="Lacidipine" & NewDose1>=1.6 & NewDose1<=7.2~1,
                          Name=="Lercanidipine" & NewDose1>=8 & NewDose1<=24~1,
-                         Name=="Nicardipine" & NewDose1>=48 & NewDose1<=144~1,
+                         Name=="Nicardipine" & NewDose1>=16 & NewDose1<=48~1,
                          Name=="Nifedipine" & NewDose1>=16 & NewDose1<=108~1,
                          Name=="Nisoldipine" & NewDose1>=8 & NewDose1<=72~1,
                          Name=="Verapamil" & NewDose1>=96 & NewDose1<=576~1,
-                         Name=="Candesartan" & NewDose1>=3.2 & NewDose1<=38.4~1,
-                         Name=="Eprosartan" & NewDose1>=480 & NewDose1<=720~1,
-                         Name=="Irbesartan" & NewDose1>=60 & NewDose1<=360~1,
-                         Name=="Losartan" & NewDose1>=20 & NewDose1<=120~1,
-                         Name=="Olmesartan" & NewDose1>=8 & NewDose1<=48~1,
-                         Name=="Telmisartan" & NewDose1>=16 & NewDose1<=96~1,
-                         Name=="Valsartan" & NewDose1>=32 & NewDose1<=384~1,
-                         Name=="Benazepril" & NewDose1>=8 & NewDose1<=96~1,
-                         Name=="Enalapril" & NewDose1>=2 & NewDose1<=48~1,
-                         Name=="Enalopril" & NewDose1>=2 & NewDose1<=48~1,
-                         Name=="Moexipril" & NewDose1>=6 & NewDose1<=72~1,
-                         Name=="Quinapril " & NewDose1>=2 & NewDose1<=96~1,
-                         Name=="Imidapril " & NewDose1>=2 & NewDose1<=24~1,
-                         Name=="Captopril" & NewDose1>=10 & NewDose1<=180 ~1,
-                         Name=="Fosinopril" & NewDose1>=8 & NewDose1<=48~1,
-                         Name=="Lisinopril" & NewDose1>=2 & NewDose1<=96~1,
-                         Name=="Ramipril" & NewDose1>=1 & NewDose1<=12~1,
-                         Name=="Perindopril" & NewDose1>=1.6 & NewDose1<=12~1,
-                         Name=="Trandolapril" & NewDose1>=0.4 & NewDose1<=4.8~1,
-                         Name=="Cilazapril" & NewDose1>=0.4 & NewDose1<=12~1,
-                         
+                        
                          Name=="Amlodipine" & NewDose2>=4 & NewDose2<=12 ~ 2,
                          Name=="Felodipine" & NewDose2>=2 & NewDose2<=24~2,
                          Name=="Isradipine" & NewDose2>=2 & NewDose2<=24~2,
@@ -587,27 +409,7 @@ ValidMulti<-Dur%>%
                          Name=="Nifedipine" & NewDose2>=16 & NewDose2<=108~2,
                          Name=="Nisoldipine" & NewDose2>=8 & NewDose2<=72~2,
                          Name=="Verapamil" & NewDose2>=96 & NewDose2<=576~2,
-                         Name=="Candesartan" & NewDose2>=3.2 & NewDose2<=38.4~2,
-                         Name=="Eprosartan" & NewDose2>=480 & NewDose2<=720~2,
-                         Name=="Irbesartan" & NewDose2>=60 & NewDose2<=360~2,
-                         Name=="Losartan" & NewDose2>=20 & NewDose2<=120~2,
-                         Name=="Olmesartan" & NewDose2>=8 & NewDose2<=48~2,
-                         Name=="Telmisartan" & NewDose2>=16 & NewDose2<=96~2,
-                         Name=="Valsartan" & NewDose2>=32 & NewDose2<=384~2,
-                         Name=="Benazepril" & NewDose2>=8 & NewDose2<=96~2,
-                         Name=="Enalapril" & NewDose2>=2 & NewDose2<=48~2,
-                         Name=="Enalopril" & NewDose2>=2 & NewDose2<=48~2,
-                         Name=="Moexipril" & NewDose2>=6 & NewDose2<=72~2,
-                         Name=="Quinapril " & NewDose2>=2 & NewDose2<=96~2,
-                         Name=="Imidapril " & NewDose2>=2 & NewDose2<=24~2,
-                         Name=="Captopril" & NewDose2>=10 & NewDose2<=180 ~2,
-                         Name=="Fosinopril" & NewDose2>=8 & NewDose2<=48~2,
-                         Name=="Lisinopril" & NewDose2>=2 & NewDose2<=96~2,
-                         Name=="Ramipril" & NewDose2>=1 & NewDose2<=12~2,
-                         Name=="Perindopril" & NewDose2>=1.6 & NewDose2<=12~2,
-                         Name=="Trandolapril" & NewDose2>=0.4 & NewDose2<=4.8~2,
-                         Name=="Cilazapril" & NewDose2>=0.4 & NewDose2<=12~2,
-                         
+                        
                          Name=="Amlodipine" & NewDose3>=4 & NewDose3<=12 ~ 3,
                          Name=="Felodipine" & NewDose3>=2 & NewDose3<=24~3,
                          Name=="Isradipine" & NewDose3>=2 & NewDose3<=24~3,
@@ -617,26 +419,6 @@ ValidMulti<-Dur%>%
                          Name=="Nifedipine" & NewDose3>=16 & NewDose3<=108~3,
                          Name=="Nisoldipine" & NewDose3>=8 & NewDose3<=72~3,
                          Name=="Verapamil" & NewDose3>=96 & NewDose3<=576~3,
-                         Name=="Candesartan" & NewDose3>=3.2 & NewDose3<=38.4~3,
-                         Name=="Eprosartan" & NewDose3>=480 & NewDose3<=720~3,
-                         Name=="Irbesartan" & NewDose3>=60 & NewDose3<=360~3,
-                         Name=="Losartan" & NewDose3>=20 & NewDose3<=120~3,
-                         Name=="Olmesartan" & NewDose3>=8 & NewDose3<=48~3,
-                         Name=="Telmisartan" & NewDose3>=16 & NewDose3<=96~3,
-                         Name=="Valsartan" & NewDose3>=32 & NewDose3<=384~3,
-                         Name=="Benazepril" & NewDose3>=8 & NewDose3<=96~3,
-                         Name=="Enalapril" & NewDose3>=2 & NewDose3<=48~3,
-                         Name=="Enalopril" & NewDose3>=2 & NewDose3<=48~3,
-                         Name=="Moexipril" & NewDose3>=6 & NewDose3<=72~3,
-                         Name=="Quinapril " & NewDose3>=2 & NewDose3<=96~3,
-                         Name=="Imidapril " & NewDose3>=2 & NewDose3<=24~3,
-                         Name=="Captopril" & NewDose3>=10 & NewDose3<=180 ~3,
-                         Name=="Fosinopril" & NewDose3>=8 & NewDose3<=48~3,
-                         Name=="Lisinopril" & NewDose3>=2 & NewDose3<=96~3,
-                         Name=="Ramipril" & NewDose3>=1 & NewDose3<=12~3,
-                         Name=="Perindopril" & NewDose3>=1.6 & NewDose3<=12~3,
-                         Name=="Trandolapril" & NewDose3>=0.4 & NewDose3<=4.8~3,
-                         Name=="Cilazapril" & NewDose3>=0.4 & NewDose3<=12~3,
                          
                          Name=="Amlodipine" & NewCoverage1>=4 & NewCoverage1<=12 ~ 4,
                          Name=="Felodipine" & NewCoverage1>=2 & NewCoverage1<=24~4,
@@ -647,26 +429,6 @@ ValidMulti<-Dur%>%
                          Name=="Nifedipine" & NewCoverage1>=16 & NewCoverage1<=108~4,
                          Name=="Nisoldipine" & NewCoverage1>=8 & NewCoverage1<=72~4,
                          Name=="Verapamil" & NewCoverage1>=96 & NewCoverage1<=576~4,
-                         Name=="Candesartan" & NewCoverage1>=3.2 & NewCoverage1<=38.4~4,
-                         Name=="Eprosartan" & NewCoverage1>=480 & NewCoverage1<=720~4,
-                         Name=="Irbesartan" & NewCoverage1>=60 & NewCoverage1<=360~4,
-                         Name=="Losartan" & NewCoverage1>=20 & NewCoverage1<=120~4,
-                         Name=="Olmesartan" & NewCoverage1>=8 & NewCoverage1<=48~4,
-                         Name=="Telmisartan" & NewCoverage1>=16 & NewCoverage1<=96~4,
-                         Name=="Valsartan" & NewCoverage1>=32 & NewCoverage1<=384~4,
-                         Name=="Benazepril" & NewCoverage1>=8 & NewCoverage1<=96~4,
-                         Name=="Enalapril" & NewCoverage1>=2 & NewCoverage1<=48~4,
-                         Name=="Enalopril" & NewCoverage1>=2 & NewCoverage1<=48~4,
-                         Name=="Moexipril" & NewCoverage1>=6 & NewCoverage1<=72~4,
-                         Name=="Quinapril " & NewCoverage1>=2 & NewCoverage1<=96~4,
-                         Name=="Imidapril " & NewCoverage1>=2 & NewCoverage1<=24~4,
-                         Name=="Captopril" & NewCoverage1>=10 & NewCoverage1<=180 ~4,
-                         Name=="Fosinopril" & NewCoverage1>=8 & NewCoverage1<=48~4,
-                         Name=="Lisinopril" & NewCoverage1>=2 & NewCoverage1<=96~4,
-                         Name=="Ramipril" & NewCoverage1>=1 & NewCoverage1<=12~4,
-                         Name=="Perindopril" & NewCoverage1>=1.6 & NewCoverage1<=12~4,
-                         Name=="Trandolapril" & NewCoverage1>=0.4 & NewCoverage1<=4.8~4,
-                         Name=="Cilazapril" & NewCoverage1>=0.4 & NewCoverage1<=12~4,
                          
                          Name=="Amlodipine" & NewCoverage2>=4 & NewCoverage2<=12 ~ 5,
                          Name=="Felodipine" & NewCoverage2>=2 & NewCoverage2<=24~5,
@@ -677,27 +439,7 @@ ValidMulti<-Dur%>%
                          Name=="Nifedipine" & NewCoverage2>=16 & NewCoverage2<=108~5,
                          Name=="Nisoldipine" & NewCoverage2>=8 & NewCoverage2<=72~5,
                          Name=="Verapamil" & NewCoverage2>=96 & NewCoverage2<=576~5,
-                         Name=="Candesartan" & NewCoverage2>=3.2 & NewCoverage2<=38.4~5,
-                         Name=="Eprosartan" & NewCoverage2>=480 & NewCoverage2<=720~5,
-                         Name=="Irbesartan" & NewCoverage2>=60 & NewCoverage2<=360~5,
-                         Name=="Losartan" & NewCoverage2>=20 & NewCoverage2<=120~5,
-                         Name=="Olmesartan" & NewCoverage2>=8 & NewCoverage2<=48~5,
-                         Name=="Telmisartan" & NewCoverage2>=16 & NewCoverage2<=96~5,
-                         Name=="Valsartan" & NewCoverage2>=32 & NewCoverage2<=384~5,
-                         Name=="Benazepril" & NewCoverage2>=8 & NewCoverage2<=96~5,
-                         Name=="Enalapril" & NewCoverage2>=2 & NewCoverage2<=48~5,
-                         Name=="Enalopril" & NewCoverage2>=2 & NewCoverage2<=48~5,
-                         Name=="Moexipril" & NewCoverage2>=6 & NewCoverage2<=72~5,
-                         Name=="Quinapril " & NewCoverage2>=2 & NewCoverage2<=96~5,
-                         Name=="Imidapril " & NewCoverage2>=2 & NewCoverage2<=24~5,
-                         Name=="Captopril" & NewCoverage2>=10 & NewCoverage2<=180 ~5,
-                         Name=="Fosinopril" & NewCoverage2>=8 & NewCoverage2<=48~5,
-                         Name=="Lisinopril" & NewCoverage2>=2 & NewCoverage2<=96~5,
-                         Name=="Ramipril" & NewCoverage2>=1 & NewCoverage2<=12~5,
-                         Name=="Perindopril" & NewCoverage2>=1.6 & NewCoverage2<=12~5,
-                         Name=="Trandolapril" & NewCoverage2>=0.4 & NewCoverage2<=4.8~5,
-                         Name=="Cilazapril" & NewCoverage2>=0.4 & NewCoverage2<=12~5,
-                         TRUE ~ 0))
+                                                  TRUE ~ 0))
 
 ValidMulti<-ValidMulti%>%
   mutate(NewDose=case_when(valid==1 ~ NewDose1,
@@ -727,72 +469,30 @@ length(unique(Valid$patdate))
 #Check the invalid ones
 NotValid<-subset(Dur, !(patdate %in% Valid$patdate)) #147894/5504674
 
-
 ####For all obs####
-#Low= starting dose or lower
+#Code up dosage categories just for CCBs
 
 Valid<-Valid%>%
-  mutate(AntiHypDose = case_when(Name=="Amlodipine" & TotalDose<=5 ~ "Low",
-                               Name=="Felodipine" & TotalDose<=2.5 ~"Low",
-                               Name=="Isradipine" & TotalDose<=2.5 ~"Low",
-                               Name=="Lacidipine" & TotalDose<=2 ~"Low",
-                               Name=="Lercanidipine" & TotalDose<=10 ~"Low",
-                               Name=="Nicardipine" & TotalDose<=60 ~"Low",
-                               Name=="Nifedipine" & TotalDose<=30~"Low",
-                               Name=="Nisoldipine" & TotalDose<=20~"Low",
-                               Name=="Verapamil" & TotalDose<=240 ~"Low",
-                               Name=="Candesartan" & TotalDose<=8~"Low",
-                               Name=="Eprosartan" & TotalDose<=540 ~"Low",
-                               Name=="Irbesartan" & TotalDose<=150 ~"Low",
-                               Name=="Losartan" & TotalDose<=50 ~"Low",
-                               Name=="Olmesartan" & TotalDose<=10 ~"Low",
-                               Name=="Telmisartan" & TotalDose<=40~"Low",
-                               Name=="Valsartan" & TotalDose<=80 ~"Low",
-                               Name=="Benazepril" & TotalDose<=10 ~"Low",
-                               Name=="Enalapril" & TotalDose<=5 ~"Low",
-                               Name=="Enalopril" & TotalDose<=5 ~"Low",
-                               Name=="Moexipril" & TotalDose<=7.5 ~"Low",
-                               Name=="Quinapril " & TotalDose<=10 ~"Low",
-                               Name=="Imidapril " & TotalDose<=5 ~"Low",
-                               Name=="Captopril" & TotalDose<=25 ~"Low",
-                               Name=="Fosinopril" & TotalDose<=10 ~"Low",
-                               Name=="Lisinopril" & TotalDose<=10 ~"Low",
-                               Name=="Ramipril" & TotalDose<=1.25 ~"Low",
-                               Name=="Perindopril" & TotalDose<=4 ~"Low",
-                               Name=="Trandolapril" & TotalDose<=0.5 ~"Low",
-                               Name=="Cilazapril" & TotalDose<=1.25 ~"Low",
+  mutate(AntiHypDose = case_when(Name=="Amlodipine" & TotalDose<=5 ~ "Starting",
+                               Name=="Felodipine" & TotalDose<=5 ~"Starting",
+                               Name=="Isradipine" & TotalDose<=2.5 ~"Starting",
+                               Name=="Lacidipine" & TotalDose<=2 ~"Starting",
+                               Name=="Lercanidipine" & TotalDose<=10 ~"Starting",
+                               Name=="Nicardipine" & TotalDose<=20 ~"Starting",
+                               Name=="Nifedipine" & TotalDose<=30 ~"Starting",
+                               Name=="Nisoldipine" & TotalDose<=17~"Starting",
                                
 # Hi = mid-point of maintenance dose                               
-                               Name=="Amlodipine" & TotalDose>=7.5 ~ "Hi",
-                               Name=="Felodipine" & TotalDose>=7.5 ~"Hi",
-                               Name=="Isradipine" & TotalDose>=10~"Hi",
-                               Name=="Lacidipine" & TotalDose>=4 ~"Hi",
-                               Name=="Lercanidipine" & TotalDose>=15 ~"Hi",
-                               Name=="Nicardipine" & TotalDose>=90 ~"Hi",
-                               Name=="Nifedipine" & TotalDose>=60 ~"Hi",
-                               Name=="Nisoldipine" & TotalDose>=40 ~"Hi",
-                               Name=="Verapamil" & TotalDose>=400 ~"Hi",
-                               Name=="Candesartan" & TotalDose>=20 ~"Hi",
-                               Name=="Eprosartan" & TotalDose>=660 ~"Hi",
-                               Name=="Irbesartan" & TotalDose>=225 ~"Hi",
-                               Name=="Losartan" & TotalDose>=75 ~"Hi",
-                               Name=="Olmesartan" & TotalDose>=30 ~"Hi",
-                               Name=="Telmisartan" & TotalDose>=60 ~"Hi",
-                               Name=="Valsartan" & TotalDose>=120 ~"Hi",
-Name=="Benazepril" & TotalDose>=30 ~"Hi",
-Name=="Enalapril" & TotalDose>=30 ~"Hi",
-Name=="Enalopril" & TotalDose>=30 ~"Hi",
-Name=="Moexipril" & TotalDose>=18.75 ~"Hi",
-Name=="Quinapril " & TotalDose>=15 ~"Hi",
-Name=="Imidapril " & TotalDose>=15 ~"Hi",
-Name=="Captopril" & TotalDose>=62.5 ~"Hi",
-Name=="Fosinopril" & TotalDose>=25 ~"Hi",
-Name=="Lisinopril" & TotalDose>=50 ~"Hi",
-Name=="Ramipril" & TotalDose>=6.25 ~"Hi",
-Name=="Perindopril" & TotalDose>=7.5 ~"Hi",
-Name=="Trandolapril" & TotalDose>=1.5 ~"Hi",
-Name=="Cilazapril" & TotalDose>=3.75 ~"Hi",
-                               TRUE ~ "Med"))
+                               Name=="Amlodipine" & TotalDose>=10 ~ "Max",
+                               Name=="Felodipine" & TotalDose>=20 ~"Max",
+                               Name=="Isradipine" & TotalDose>=20~"Max",
+                               Name=="Lacidipine" & TotalDose>=6 ~"Max",
+                               Name=="Lercanidipine" & TotalDose>=20 ~"Max",
+                               Name=="Nicardipine" & TotalDose>=40 ~"Max",
+                               Name=="Nifedipine" & TotalDose>=90 ~"Max",
+                               Name=="Nisoldipine" & TotalDose>=60 ~"Max",
+
+                               TRUE ~ "Maintenance"))
 
 table(Valid$AntiHypDose, useNA="ifany")
 
@@ -802,8 +502,8 @@ save(Valid, file=paste0(ProjectDir, "/Data/ValidCCB.Rdata"))
 ####Set first valid date####
 
 ####Set date of first ARB/CCB####
-#HospAll$FirstCCBARB <-pmin(HospAll$FirstDiuretic_BBP_ACEDate, HospAll$FirstDiuretic_BBP_ARBDate, HospAll$FirstBlocker_BBP_CCBDate, HospAll$FirstDiuretic_NBBP_ACEDate, HospAll$FirstDiuretic_NBBP_ARBDate, HospAll$FirstNBBP_ACEDate,HospAll$FirstBBP_ACEDate,HospAll$FirstNBBP_CCBDate, HospAll$FirstBBP_CCBDate, HospAll$FirstVerapamilDate, HospAll$FirstNBBP_ARBDate, HospAll$FirstBBP_ARBDate, na.rm=TRUE)
+HospAll$FirstCCBARB <-pmin(HospAll$FirstDiuretic_BBP_ACEDate, HospAll$FirstDiuretic_BBP_ARBDate, HospAll$FirstBlocker_BBP_CCBDate, HospAll$FirstDiuretic_NBBP_ACEDate, HospAll$FirstDiuretic_NBBP_ARBDate, HospAll$FirstNBBP_ACEDate,HospAll$FirstBBP_ACEDate,HospAll$FirstNBBP_CCBDate, HospAll$FirstBBP_CCBDate, HospAll$FirstVerapamilDate, HospAll$FirstNBBP_ARBDate, HospAll$FirstBBP_ARBDate, HospAll$FirstComboDate, na.rm=TRUE)
 
-HospAll$FirstCCBARB <-pmin(HospAll$FirstNBBP_CCBDate, HospAll$FirstBBP_CCBDate, HospAll$FirstVerapamilDate, HospAll$FirstNBBP_ARBDate, HospAll$FirstBBP_ARBDate, HospAll$FirstNBBP_ACEDate, HospAll$FirstBBP_ACEDate, na.rm=TRUE)
+summary(HospAll$FirstCCBARB)
 
 save(HospAll, file = paste0(ProjectDir, "/Data/HypDate.rdata"))
