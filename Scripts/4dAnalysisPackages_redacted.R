@@ -31,12 +31,22 @@ OldCodeListDir =
 #note doesn't include SMI diagnosis as this is added either as a confounder or as an interaction term
 #Doesn't include region as is stratified by practice ID
 
-Confounders<-c("AgeAtAntiHyp","CCByear", "SMITime", "TimeSinceAnyHyp", "AntiHypDose", "gender",
-               "ethnicity", "PriorMHBin", "PriorSHBin", "PriorGPSHBin","FirstPsychTime", 
-               "AllMI", "AllCHF", "AllCerebrovascular", "Systolic", "Diastolic", "BMIVal","SSRI", "TCA", "Other",
-               "AP", "PriorPhysicalBin", "PriorAccidentBin", "PriorGP", "FullIMD")
+####Set confounders, outcomes and time variables####
+#note adjustment doesn't include SMI diagnosis as this is added either as a confounder or as an interaction term
+#Doesn't include region as is stratified by practice ID
+#Doesn't include MI, Cereb, CHF as these are grouped as cardio
 
-Adjust<-paste(Confounders, collapse = " + ")
+AdjustSet<-c("AgeAtAntiHyp","CCByear", "SMITime", "TimeSinceAnyHyp", "AntiHypDose", "gender",
+             "ethnicity", "PriorMHBin", "PriorSHBin", "PriorGPSHBin","FirstPsychTime", 
+             "Systolic", "Diastolic", "BMIVal","SSRI", "TCA", "Other",
+             "AP", "PriorPhysicalBin", "PriorAccidentBin", "PriorGP", "FullIMD")
+
+Adjust<-c(AdjustSet, "Cardio")
+Adjust<-paste(Adjust, collapse = " + ")
+
+#Confounders do include region, SMI diag and mi/chf/cereb.
+
+Confounders<-c(AdjustSet, "AllMI", "AllCHF", "AllCerebrovascular", "region", "SMIDiag")
 
 Outcome<-c("MHBin12", "SHBin12", "AllBin12", "MHBin24", "SHBin24", "AllBin24", 
            "MHBin6", "SHBin6", "AllBin6", "MHBin3", "SHBin3", "AllBin3")
