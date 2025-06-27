@@ -15,13 +15,6 @@ table(HospAll$Arm, useNA="ifany")
 Check<-subset(HospAll, is.na(HospAll$Arm))
 
 ####Trial one - entry = CCB prescription####
-
-Consort1<-data.frame("Count" = length(HospAll$patid), "Description" = c("No HES linkage"))
-
-Trial1<-subset(HospAll, !is.na(HospAll$FirstCCBARB))
-Consort1a<-data.frame("Count" =length(Trial1$patid), "Description" = c("Combined prescription for CCB/ARB/ACE"))
-Consort1<- rbind(Consort1,Consort1a)
-
 #Drop any that have multiple arms
 Trial1<-subset(Trial1, FirstCCBARB<FirstComboDate | is.na(FirstComboDate)) 
 
