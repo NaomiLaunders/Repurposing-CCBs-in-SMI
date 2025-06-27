@@ -9,10 +9,10 @@
 "8",109097,"Never prescribed anti-hypertensives",393351
 "9",92192,"Never prescribed psychotropics",16905
 "10",68403,"No HES linkage",23789
-"11",68305,"Combined prescription for CCB/ARB/ACE",98
-"12",65894,"Multiple first CCB/ACE/ARB",2411
-"13",26682,"ACE/ARB first",39212
-"14",24475,"Prescribed b-blocker, diuretic or a-blocker on the same day",2207
+"11",68403,"Combined prescription for CCB/ARB/ACE",0
+"12",65979,"Multiple first CCB/ACE/ARB",2424
+"13",26565,"ACE/ARB first",39414
+"14",24475,"Prescribed b-blocker, diuretic or a-blocker on the same day",2090
 "15",23512,"After 2018",963
 "16",23512,"After end",0
 "17",14306,"First CCB/ARB/ACE before entry to cohort",9206
