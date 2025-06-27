@@ -42,8 +42,8 @@ length(unique(PriorSHGPStat$patid))
 table(PriorSHGPStat$PriorSHGPStatIntent, PriorSHGPStat$PriorSHGPStatSH)
 table(PriorSHGPStat$PriorSHGPStatAll)
 
-Trial$PriorSHGP<-0
-Trial$PriorSHGP[Trial$patid %in% PriorSHGPStat$patid]<-1
+SH<-select(PriorSHGPStat, patid, PriorSHGP = PriorSHGPStatAll)
+Trial<-merge(x=Trial, y=SH, by="patid", all.x=TRUE, all.y=FALSE)
 
 ####Outcomes: statin####
 OutcomeGPSH3<-PatSelfHarmAll%>%
