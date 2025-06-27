@@ -8,8 +8,8 @@ load(paste0(ProjectDir, "/Data/Trial_AD.rdata"))
 #Year of start
 Trial$YearCCB<-year(Trial$FirstCCBARB)
 
-#Time since first SMI evidence
-Trial$SMITime<-as.numeric(Trial$FirstCCBARB - Trial$SMIEv)
+#Time since first SMI diagnosis
+Trial$SMITime<-as.numeric(Trial$FirstCCBARB - Trial$diagnosis_date)
 summary(Trial$SMITime)
 
 length(which(is.na(Trial$SMITime)))
