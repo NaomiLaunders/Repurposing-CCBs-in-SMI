@@ -18,6 +18,9 @@ library(mice)
 library(miceadds)
 library(survival)
 library(survminer)
+library(cobalt)
+library(MatchThem)
+library(forestplot)
 
 ####Set the directories so that I can use relative links####
 #Note, these should be deleted before GitHub goes public
