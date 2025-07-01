@@ -235,7 +235,7 @@ for (i in (1:length(Outcome))) {
   Unadj <- lapply(datlist, FUN=function(data){
     coxph(as.formula(paste0("Surv(", Time[i], ",", Outcome[i], ") ~ Arm+strata(pracid)")), data=data)
   })
-  Unadj<-summary(pool(Unadj), conf.int=TRUE, exponentiate=TRUE)
+  Unadj<-summary(mice::pool(Unadj), conf.int=TRUE, exponentiate=TRUE)
   Unadj$Outcome<-Outcome[i]
   UnadjResult<-rbind(Unadj, UnadjResult)
   }
@@ -257,7 +257,7 @@ for (i in (1:length(Outcome))) {
   Adj <- lapply(datlist, FUN=function(data){
     coxph(as.formula(paste0("Surv(", Time[i], ",", Outcome[i], ") ~ (Arm+SMIDiag+", (paste0(Adjust, "+strata(pracid))")))), data=data)
   })
-  Adj<-summary(pool(Adj), conf.int=TRUE, exponentiate=TRUE)
+  Adj<-summary(mice::pool(Adj), conf.int=TRUE, exponentiate=TRUE)
   Adj$Outcome<-Outcome[i]
   AdjResult<-rbind(AdjResult, Adj)
 }
@@ -272,9 +272,8 @@ AdjResult$Result<-str_squish(AdjResult$Result)
 write.csv(UnadjResult, "Outputs/TrialUnadj.csv")
 write.csv(AdjResult, "Outputs/TrialAdj.csv")
 
-save(UnadjResults, paste0(ProjectDir, "/Data/IPWPPA.rdata"))
-     
-     
+save(UnadjResult, file=paste0(ProjectDir, "/Data/MainUnadj.rdata"))
+save(AdjResult, file=paste0(ProjectDir, "/Data/MainAdj.rdata"))    
 
 ####Interaction terms####
 
@@ -287,13 +286,13 @@ for (i in (1:length(Outcome))) {
   Int <- lapply(datlist, FUN=function(data){
     coxph(as.formula(paste0("Surv(", Time[i], ",", Outcome[i], ") ~ (Arm*SMIDiag+", (paste0(Adjust, "+strata(pracid))")))), data=data)
   })
-  Int<-summary(pool(Int), conf.int=TRUE, exponentiate=TRUE)
+  Int<-summary(mice::pool(Int), conf.int=TRUE, exponentiate=TRUE)
   Int$Outcome<-Outcome[i]
   IntResult<-rbind(IntResult, Int)
 }
 
-TimePoint<-c(replicate(132,"12"),replicate(132,"24"),replicate(132,"6"),replicate(132,"3"))
-Group<-c(replicate(44, "MH"), replicate(44,"SH"), replicate(44,"All"))
+TimePoint<-c(replicate(135,"12"),replicate(135,"24"),replicate(135,"6"),replicate(135,"3"))
+Group<-c(replicate(45, "MH"), replicate(45,"SH"), replicate(45,"All"))
 Group<-c(replicate(4, Group))
 IntResult<-cbind(IntResult, TimePoint, Group) 
 IntResult$Result<-paste0(format(round(IntResult$estimate, 2), nsmall=2, scientific = FALSE), " (", format(round(IntResult$`2.5 %`, 2), nsmall=2, scientific = FALSE), "-", format(round(IntResult$`97.5 %`, 2), nsmall=2, scientific = FALSE), ")")
