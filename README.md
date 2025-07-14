@@ -1,8 +1,6 @@
-# Psychiatric symptom improvement from adjunctive antihypertensive prescribing in severe mental illness: three target trial emulation studies
+# Psychiatric symptom improvement from adjunctive antihypertensive prescribing in severe mental illness
 
-This repo is currently under development and therefore private!
-
-Code will be uploaded in chunks from R Studio for version control. Chunks will be: Code lists (scripts beginning 1), observations (scripts beginning 2), cohort creation (scripts beginning 3) and analysis (scripts beginning 4).
+This study is still in analysis and therefore changes may still be made to scripts. The protocol for this study is available on the Open Science Framework.
 
 ## Understanding the files
 
